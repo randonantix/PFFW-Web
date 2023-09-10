@@ -1,0 +1,4 @@
+<map id="IsModulePidRunning" name="IsModulePidRunning">
+<area shape="rect" id="node1" title="Checks if the pid is running." alt="" coords="116,5,271,31"/>
+<area shape="rect" id="node2" href="$classModel.html#a68390acfc08f9138f4ec2fcc1e18ef7e" title="Kills process with the given pid." alt="" coords="5,5,68,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="randomPrime" name="randomPrime">
+<area shape="rect" id="node1" title="Generate a random prime number." alt="" coords="5,31,116,56"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a928a1f0b42ca5cf04432a313d1878946" title="Generate a random number." alt="" coords="164,31,236,56"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#aa152f07e39bfa5ea214c5988cd2b214a" title="Normalize." alt="" coords="329,5,423,31"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#ac30f703797155bd3b3a858c4c0577aba" title="Generates a random BigInteger." alt="" coords="284,55,468,80"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a76477f8e2f8776056aa2fb0e36bf209d" title="Trim." alt="" coords="516,5,572,31"/>
+</map>

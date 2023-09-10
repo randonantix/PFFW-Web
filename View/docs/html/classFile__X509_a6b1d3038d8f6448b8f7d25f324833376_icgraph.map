@@ -1,0 +1,5 @@
+<map id="loadX509" name="loadX509">
+<area shape="rect" id="node1" title="Load X.509 certificate." alt="" coords="121,31,204,56"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#a89783012156bb16439adcba84bca93d8" title="Load an X.509 certificate as a certificate authority." alt="" coords="5,5,73,31"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#a86265f41fc9ab04b810aa1a14a613477" title="Sign an X.509 certificate." alt="" coords="15,55,64,80"/>
+</map>

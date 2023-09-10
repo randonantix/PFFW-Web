@@ -1,0 +1,42 @@
+<map id="GetNVP" name="GetNVP">
+<area shape="rect" id="node1" title="Reads value of NVP." alt="" coords="711,948,783,973"/>
+<area shape="rect" id="node2" href="$classModel.html#aa572c51a6d4aa52ec3029518451a05fe" title=" " alt="" coords="539,207,619,232"/>
+<area shape="rect" id="node7" href="$classModel.html#a7abfd365d79fd5b34b3aab5d4ff0c770" title=" " alt="" coords="541,107,617,132"/>
+<area shape="rect" id="node9" href="$classDnsmasq.html#a6ce8641410dc2a28206b2e8f6c9db6ff" title="Gets the interface that the DNS forwarder binds to listen for requests." alt="" coords="496,997,663,1023"/>
+<area shape="rect" id="node10" href="$classModel.html#ae81727132988d14931750ce5e1c88bd7" title="Returns all enabled configuration for a given configuration type." alt="" coords="539,1367,620,1392"/>
+<area shape="rect" id="node12" href="$classModel.html#abcd01c30cbd8fa9ac1c84340e5ed33de" title="Changes value of NVP." alt="" coords="544,948,615,973"/>
+<area shape="rect" id="node3" href="$classSystem.html#a6baa62a81a32e122dde71ac97c46fe9a" title="Reads hostname, gateway, and interface configuration." alt="" coords="249,156,387,181"/>
+<area shape="rect" id="node4" href="$classModel.html#a190806315bf8a8147417f3735ba66bc5" title="Get ext_if." alt="" coords="281,257,355,283"/>
+<area shape="rect" id="node5" href="$classModel.html#a5cf12375d05dca29b3c81333ff1882a2" title="Gets service statuses." alt="" coords="5,207,140,232"/>
+<area shape="rect" id="node6" href="$classSystem.html#a6c0c91116842cbcd97f4311fea0acc8c" title="Restarts the network." alt="" coords="253,107,383,132"/>
+<area shape="rect" id="node8" href="$classModel.html#a14573cc2fd34870091dfe7e8aa1ab171" title="Get int_if." alt="" coords="283,5,353,31"/>
+<area shape="rect" id="node11" href="$classModel.html#a7b5bd25430f02d1925323e19f2861a9e" title="Gets all configuration for a given configuration type." alt="" coords="253,1688,383,1713"/>
+<area shape="rect" id="node13" href="$classSystem.html#a7c21107fcd868c9590f376c07f02afaf" title=" " alt="" coords="251,1392,385,1417"/>
+<area shape="rect" id="node14" href="$classSystem.html#a91b60c705c31df895a96ff1480ce85db" title=" " alt="" coords="229,1441,407,1467"/>
+<area shape="rect" id="node15" href="$classSystem.html#a6f28b1520f68197fc3089c87d3ee5a86" title=" " alt="" coords="253,1491,383,1516"/>
+<area shape="rect" id="node16" href="$classSystem.html#a77b569ce1603eae5f71e4f90e9e5c3a0" title=" " alt="" coords="231,1540,405,1565"/>
+<area shape="rect" id="node17" href="$classSystem.html#a84af1d367e28f412bc9a7e07464defc6" title=" " alt="" coords="188,1589,448,1615"/>
+<area shape="rect" id="node18" href="$classSystem.html#a896e4c34afa76bb1359be66b348597f6" title=" " alt="" coords="191,1639,445,1664"/>
+<area shape="rect" id="node19" href="$classModel.html#a4c5f8b05e5cbfffe696da52ce05f066a" title="Sets the value of NVP configuration." alt="" coords="263,356,373,381"/>
+<area shape="rect" id="node20" href="$classModel.html#a859ad1e51288c4d72ed9eda0f6f5e43e" title="Sets default locale." alt="" coords="251,405,385,431"/>
+<area shape="rect" id="node21" href="$classModel.html#a396fea6ec5c2ad29ebee26ea36723133" title="Enables or disables HTTPs." alt="" coords="259,455,377,480"/>
+<area shape="rect" id="node22" href="$classModel.html#abbf4c282267beb7f8667d0882d82b983" title="Enables or disables help boxes." alt="" coords="269,504,367,529"/>
+<area shape="rect" id="node23" href="$classPf.html#a8a838a5a93147d20d19f2f4c44a16b23" title="Sets interface names in pf.conf." alt="" coords="280,553,356,579"/>
+<area shape="rect" id="node24" href="$classPf.html#ae936293c9b2b0d90849d2c17acc1e6e8" title="Sets int_net." alt="" coords="269,603,367,628"/>
+<area shape="rect" id="node25" href="$classDnsmasq.html#aafd6db1bc365b4992ffdc2894821194f" title="Sets the interface that the DNS forwarder binds to listen for requests." alt="" coords="235,652,401,677"/>
+<area shape="rect" id="node26" href="$classModel.html#ace6809a36e1a52e1dde4c9d6d662ca4c" title="Sets global log level." alt="" coords="267,701,369,727"/>
+<area shape="rect" id="node27" href="$classModel.html#ad3d333424199ea8d1475ffb779b5407c" title="Sets the max number of nested anchors allowed." alt="" coords="235,751,401,776"/>
+<area shape="rect" id="node28" href="$classModel.html#a396a20de76a1a352c40b3eb64d21bce9" title="Sets max file size to process." alt="" coords="225,800,411,825"/>
+<area shape="rect" id="node29" href="$classSystem.html#a59df788be29e03ef99af4f3a16fdb1a0" title=" " alt="" coords="257,849,379,875"/>
+<area shape="rect" id="node30" href="$classSystem.html#af6fa08d72148c73798549ca54163b619" title=" " alt="" coords="243,899,393,924"/>
+<area shape="rect" id="node31" href="$classSystem.html#ae08f689f2d21a3414d7f1f667a0d5350" title=" " alt="" coords="223,948,413,973"/>
+<area shape="rect" id="node32" href="$classSystem.html#ac188e028fb53e14e566562ae2e805f09" title=" " alt="" coords="231,997,405,1023"/>
+<area shape="rect" id="node33" href="$classSystem.html#a43705d78ea353c6e76f34342df25ea58" title=" " alt="" coords="219,1047,417,1072"/>
+<area shape="rect" id="node34" href="$classSystem.html#a3ad0b53500536d14f25a7d95f819a977" title=" " alt="" coords="233,1096,403,1121"/>
+<area shape="rect" id="node35" href="$classModel.html#a2b4ff4a876f224dcd90e3d5cb3e288a4" title="Sets pfctl timeout." alt="" coords="255,1145,381,1171"/>
+<area shape="rect" id="node36" href="$classModel.html#add75f616f424040c62005634d34c20b0" title="Sets default reload rate." alt="" coords="259,1195,377,1220"/>
+<area shape="rect" id="node37" href="$classModel.html#a3070438f6bedf2aeeeb313d7c32e5e1e" title="Sets session timeout." alt="" coords="245,1244,391,1269"/>
+<area shape="rect" id="node38" href="$classModel.html#a31cfb3981a2789a48b91e3b2ea325681" title="Sets status check interval." alt="" coords="231,307,405,332"/>
+<area shape="rect" id="node39" href="$classSystem.html#ad6ebf17ff7b76e126f2c94d29bde51d4" title=" " alt="" coords="241,1293,395,1319"/>
+<area shape="rect" id="node40" href="$classModel.html#a760367a76e1eae0a8e8e7bc6c9e0579e" title="Enables or disables SSH." alt="" coords="271,1343,365,1368"/>
+</map>

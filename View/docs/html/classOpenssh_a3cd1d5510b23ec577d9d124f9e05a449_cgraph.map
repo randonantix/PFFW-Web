@@ -1,0 +1,11 @@
+<map id="GetLogs" name="GetLogs">
+<area shape="rect" id="node1" title="Gets lines in log file." alt="" coords="5,104,80,129"/>
+<area shape="rect" id="node2" href="$classModel.html#a3827d539c75623fd5345ab590caaa2cb" title="Generates the module specific datetime regexp for filtering logs." alt="" coords="128,5,349,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="205,55,272,80"/>
+<area shape="rect" id="node4" href="$classOpenssh.html#ad8dbb64d308bdf8cbe3dfee2c84fb9bb" title="Parses the given log line." alt="" coords="185,104,292,129"/>
+<area shape="rect" id="node6" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="143,153,334,179"/>
+<area shape="rect" id="node7" href="$classModel.html#afb379dac54166aba28a4e7e22d0fa772" title="Checks if the given file exists and not larger than $MaxFileSizeToProcess in MBs." alt="" coords="167,203,310,228"/>
+<area shape="rect" id="node5" href="$classModel.html#af4eb638f282def52a768efc7dbcbc698" title="Parses standard syslog line." alt="" coords="403,104,573,129"/>
+<area shape="rect" id="node8" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="627,204,680,229"/>
+<area shape="rect" id="node9" href="$classModel.html#ab81972f4cb26c1d07ac429589bb4d62d" title=" " alt="" coords="397,229,579,255"/>
+</map>

@@ -1,0 +1,3 @@
+group	name="Disk I/O";
+graph	rrdfile=/var/log/pffw/symon/rrds/localhost/io_rd0.rrd, title="Disk rd0";
+graph	rrdfile=/var/log/pffw/symon/rrds/localhost/io_wd0.rrd, title="Disk wd0";

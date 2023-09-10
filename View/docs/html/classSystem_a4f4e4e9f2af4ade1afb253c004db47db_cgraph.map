@@ -1,0 +1,6 @@
+<map id="GetStaticGateway" name="GetStaticGateway">
+<area shape="rect" id="node1" title="Reads static gateway address from mygate file." alt="" coords="5,31,145,56"/>
+<area shape="rect" id="node2" href="$classSystem.html#a7114619c558a6753b86838fde9ae99e5" title=" " alt="" coords="193,5,339,31"/>
+<area shape="rect" id="node4" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="233,55,299,80"/>
+<area shape="rect" id="node3" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="387,5,499,31"/>
+</map>

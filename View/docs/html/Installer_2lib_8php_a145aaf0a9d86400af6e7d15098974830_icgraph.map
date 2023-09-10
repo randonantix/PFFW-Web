@@ -1,0 +1,8 @@
+<map id="readline2" name="readline2">
+<area shape="rect" id="node1" title="Reads a line of input from stdin." alt="" coords="369,57,452,82"/>
+<area shape="rect" id="node2" href="$Installer_2lib_8php.html#a3390e3f892dda6066dce17beee66b32e" title=" " alt="" coords="17,6,108,31"/>
+<area shape="rect" id="node3" href="$Installer_2lib_8php.html#ad5a078365927d96d2415d64e4b596ebb" title=" " alt="" coords="168,31,321,57"/>
+<area shape="rect" id="node4" href="$Installer_2lib_8php.html#a28e0c4aa16394f9ec95e2061d760ff88" title="Asks user for internal and external interface selection." alt="" coords="5,130,120,155"/>
+<area shape="rect" id="node5" href="$Installer_2lib_8php.html#a3c2b58de943a20cfab983d1d44e17968" title="Prompts for and reads user selection." alt="" coords="187,81,302,106"/>
+<area shape="rect" id="node6" href="$Installer_2lib_8php.html#ad5649da477168837a7637eb687279d1e" title=" " alt="" coords="7,81,119,106"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="IsLogFileModified" name="IsLogFileModified">
+<area shape="rect" id="node1" title="Checks if the given log file has been updated." alt="" coords="5,52,140,78"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="390,27,482,52"/>
+<area shape="rect" id="node3" href="$classModel.html#adf44e19a68f4a6be9289e2e39a5698f7" title="Gets the original file name for the given log file." alt="" coords="557,52,692,78"/>
+<area shape="rect" id="node4" href="$classModel.html#a2ef1e4c1d1fadd3c6696a101cd2aa7e5" title="Gets previous line count and stat() from statistics file." alt="" coords="188,78,315,103"/>
+<area shape="rect" id="node5" href="$classModel.html#ae24c34977ae6864272b678fe40fdb09a" title="Gets name of the tmp statistics file for the given log file." alt="" coords="366,127,506,152"/>
+<area shape="rect" id="node6" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="363,78,509,103"/>
+</map>

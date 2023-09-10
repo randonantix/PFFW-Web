@@ -1,0 +1,9 @@
+<map id="GetRemoteTime" name="GetRemoteTime">
+<area shape="rect" id="node1" title="Reads datetime temporary output file." alt="" coords="5,55,135,80"/>
+<area shape="rect" id="node2" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="192,5,304,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a73fbf3721e73a688382663bf84e1e428" title="Checks if the given process(es) is running." alt="" coords="183,55,313,80"/>
+<area shape="rect" id="node7" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="215,104,281,129"/>
+<area shape="rect" id="node4" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="401,5,493,31"/>
+<area shape="rect" id="node5" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="420,55,473,80"/>
+<area shape="rect" id="node6" href="$classModel.html#aead9ffea53f83ba54a7bc722dbc81841" title="Selects user processes from ps output." alt="" coords="361,104,532,129"/>
+</map>

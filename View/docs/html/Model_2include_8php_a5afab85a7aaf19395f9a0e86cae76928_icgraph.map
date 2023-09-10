@@ -1,0 +1,52 @@
+<map id="Error" name="Error">
+<area shape="rect" id="node1" title="Sets or updates $Error with the given message." alt="" coords="1111,1207,1164,1232"/>
+<area shape="rect" id="node2" href="$classSystem.html#a49daa94413bf23bd40398338c9af41d6" title=" " alt="" coords="830,101,1049,127"/>
+<area shape="rect" id="node5" href="$classSystem.html#ab11c15607f702856d377b575f60d875a" title="Gets system gateway, static or dynamic." alt="" coords="539,153,742,179"/>
+<area shape="rect" id="node6" href="$classSystem.html#a6c0c91116842cbcd97f4311fea0acc8c" title="Restarts the network." alt="" coords="289,203,418,228"/>
+<area shape="rect" id="node8" href="$classSystem.html#a723a43cc29d0cb1acad6ba10ae65767f" title="Runs installer with the automatic configuration option." alt="" coords="866,304,1013,329"/>
+<area shape="rect" id="node9" href="$classModel.html#a5cdc13ae8497b92e1c6cbf8b85c6d43c" title="Uncompresses gzipped log file to tmp dir." alt="" coords="259,405,447,431"/>
+<area shape="rect" id="node11" href="$classModel.html#a2d296f9267d193d0b2295d611dcbea6c" title="Creates a system user." alt="" coords="870,608,1009,633"/>
+<area shape="rect" id="node12" href="$classSystem.html#a282f20714f3029dbaa359f9dc6762a04" title="Rotate all log files via newsyslog." alt="" coords="831,658,1048,698"/>
+<area shape="rect" id="node13" href="$classSystem.html#a8f54af1e94c8b939b1ebb436baacd58f" title="Rotate log file via newsyslog." alt="" coords="816,723,1063,748"/>
+<area shape="rect" id="node14" href="$classModel.html#a620707dcc4093d4ca002e3dfdfa68af1" title="Deletes the given file or directory." alt="" coords="873,405,1005,431"/>
+<area shape="rect" id="node16" href="$classSystem.html#a42b0b5d72ae916a9ebee4585fab1512b" title="Deletes temporary logs, statistics, and output files created by the WUI." alt="" coords="864,772,1015,797"/>
+<area shape="rect" id="node17" href="$classSystem.html#a734fbb6f672840eca1c83f1a5df91b46" title="Generates SSL key pair for httpd." alt="" coords="836,821,1043,847"/>
+<area shape="rect" id="node18" href="$classModel.html#ac63c8a259bd05dfef1e6979a2c1f76d0" title="Gets the list of processes running." alt="" coords="869,871,1009,896"/>
+<area shape="rect" id="node19" href="$classModel.html#a7fb8ac5678a9e42f00fb66780296bca9" title=" " alt="" coords="867,972,1012,997"/>
+<area shape="rect" id="node20" href="$classModel.html#ab735f5a4ded9f9c9a5b04f182205fd7d" title=" " alt="" coords="575,947,706,972"/>
+<area shape="rect" id="node21" href="$classModel.html#a5cf12375d05dca29b3c81333ff1882a2" title="Gets service statuses." alt="" coords="850,1021,1029,1047"/>
+<area shape="rect" id="node22" href="$classPf.html#a78e93f4a99a55eb82256365889c2c7c1" title="Gets the pftop output." alt="" coords="880,1071,999,1096"/>
+<area shape="rect" id="node23" href="$classSystem.html#a8956c6d3e8da2d43bd91e9c100dd4b03" title=" " alt="" coords="870,1120,1009,1145"/>
+<area shape="rect" id="node24" href="$classSystem.html#add8a6f584d9f2e8a2915a556c21e2b1c" title="Deletes all graph files and recreates them as necessary." alt="" coords="868,1169,1011,1195"/>
+<area shape="rect" id="node25" href="$namespaceModel.html#a832b4c091a1c2e68fdeec97bf478d60e" title="Checks and validates any inline rules." alt="" coords="860,1243,1019,1268"/>
+<area shape="rect" id="node26" href="$classModel.html#a73fbf3721e73a688382663bf84e1e428" title="Checks if the given process(es) is running." alt="" coords="874,1344,1005,1369"/>
+<area shape="rect" id="node27" href="$classModel.html#aeb3147c61c1c08d30c6b360ba839b213" title="Stops module&#39;s parent process with its pid." alt="" coords="597,1319,684,1344"/>
+<area shape="rect" id="node28" href="$classModel.html#a4a41a34d3378ee890958973fce464aa8" title="Kills the given process(es)." alt="" coords="593,1381,688,1407"/>
+<area shape="rect" id="node29" href="$classModel.html#a58a42cd2dbcf0483f1da759a8d283d58" title="Start module process(es)." alt="" coords="592,1445,689,1471"/>
+<area shape="rect" id="node30" href="$classModel.html#a68390acfc08f9138f4ec2fcc1e18ef7e" title="Kills process with the given pid." alt="" coords="886,1496,993,1521"/>
+<area shape="rect" id="node31" href="$classModel_1_1RuleSet.html#ab0b389ad9ebc166cb794517ae2d32f77" title="Loads the rule definitions given in an array." alt="" coords="865,1545,1013,1571"/>
+<area shape="rect" id="node32" href="$classModel_1_1RuleSet.html#a5b90753ebc701d41dbd2e3abb2e64cdb" title="Collects inline anchor rules spanning multiple lines." alt="" coords="843,1595,1035,1635"/>
+<area shape="rect" id="node33" href="$classModel.html#afb9609a07caf72ce5cc529f4dcca949f" title="Prepares file for download over WUI." alt="" coords="241,531,465,556"/>
+<area shape="rect" id="node34" href="$classSystem.html#a3ef8e518d427acae8ded8298e22cf659" title=" " alt="" coords="558,203,723,228"/>
+<area shape="rect" id="node35" href="$classPf.html#ac6529441d83b539995734d1285c5fafa" title="Runs pfctl info commands." alt="" coords="873,1660,1005,1685"/>
+<area shape="rect" id="node36" href="$classModel.html#a4c5f8b05e5cbfffe696da52ce05f066a" title="Sets the value of NVP configuration." alt="" coords="863,1709,1016,1735"/>
+<area shape="rect" id="node37" href="$classSystem.html#ad2cd348ab121f61f1f2117f0fa927798" title="Sets system clock." alt="" coords="859,1759,1019,1784"/>
+<area shape="rect" id="node38" href="$classSystem.html#a720a20bdd5c627ed1fa72e374d5451ed" title="Sets system interface configuration." alt="" coords="887,1808,992,1833"/>
+<area shape="rect" id="node39" href="$classModel.html#a356c4619bee6a35594a2ee7ecb7f9d2d" title="Sets user&#39;s password in the system password file." alt="" coords="865,1857,1013,1883"/>
+<area shape="rect" id="node40" href="$classPf.html#a58a42cd2dbcf0483f1da759a8d283d58" title="Enable pf." alt="" coords="904,1907,975,1932"/>
+<area shape="rect" id="node41" href="$classPf.html#a0f17de803b9ad897ee1e879e90982bd2" title="Disable pf." alt="" coords="905,1956,973,1981"/>
+<area shape="rect" id="node42" href="$classModel_1_1RuleSet.html#a6177d48190953277c146592478f02e24" title="Validates the ruleset." alt="" coords="853,2005,1026,2031"/>
+<area shape="rect" id="node43" href="$classModel_1_1Rule.html#a6945888a8bff78801ed111a0614e029a" title="Validates rule array." alt="" coords="863,2055,1015,2080"/>
+<area shape="rect" id="node44" href="$Controller_2lib_8php.html#a2934d5622cf3c44660691b4dc45fd695" title="Checks types of the arguments passed." alt="" coords="887,2156,991,2181"/>
+<area shape="rect" id="node45" href="$Controller_2lib_8php.html#afd1654c63c9492f308c3f7111f2862d4" title="Validates command line." alt="" coords="569,2131,712,2156"/>
+<area shape="rect" id="node46" href="$classModel_1_1Rule.html#ac346884d2c002f9049547879f9047dbb" title="Applies validation method to values in rule array." alt="" coords="846,2206,1033,2246"/>
+<area shape="rect" id="node47" href="$classModel.html#afb379dac54166aba28a4e7e22d0fa772" title="Checks if the given file exists and not larger than $MaxFileSizeToProcess in MBs." alt="" coords="569,505,712,531"/>
+<area shape="rect" id="node48" href="$classModel.html#ab81972f4cb26c1d07ac429589bb4d62d" title=" " alt="" coords="849,507,1030,532"/>
+<area shape="rect" id="node49" href="$classModel_1_1Rule.html#a510cd31ccdc9ebbb4ee79ac1b87e5967" title="Finds the validation method to apply to rule value." alt="" coords="840,2271,1039,2296"/>
+<area shape="rect" id="node50" href="$classModel_1_1Rule.html#af3fb11187e81b9bc9f010a8b18831824" title="Validates a value." alt="" coords="845,2320,1033,2345"/>
+<area shape="rect" id="node3" href="$classSystem.html#a6baa62a81a32e122dde71ac97c46fe9a" title="Reads hostname, gateway, and interface configuration." alt="" coords="571,5,710,31"/>
+<area shape="rect" id="node4" href="$classSystem.html#af5b501167fb4c9699ed55aeb6f0a5d1a" title="Reads the default gateway on the routing table." alt="" coords="533,55,748,80"/>
+<area shape="rect" id="node7" href="$classSystem.html#ab381c295914ea1ed53086961d2fcb94e" title="Converts dynamic gateway address to static address." alt="" coords="513,104,768,129"/>
+<area shape="rect" id="node10" href="$classModel.html#ad4d7aefbd214d3da3f1965e6ddddb998" title="Copies the original log file to tmp folder." alt="" coords="5,405,193,431"/>
+<area shape="rect" id="node15" href="$classSystem.html#abb4eb7780d65c831b01cd1eab2d118ab" title="Deconfigures an interface by deleting its hostname file." alt="" coords="577,456,704,481"/>
+</map>

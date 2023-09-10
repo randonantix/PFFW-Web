@@ -1,0 +1,10 @@
+<map id="__destruct" name="__destruct">
+<area shape="rect" id="node1" title="Destructor." alt="" coords="5,56,95,81"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#abe175fcf658475bc56e9d6fa02bc88ec" title="Disconnect." alt="" coords="143,56,235,81"/>
+<area shape="rect" id="node3" href="$classNet__SSH2.html#a646e753a466ce7684dabc773a480a8ac" title="Disconnect." alt="" coords="283,56,381,81"/>
+<area shape="rect" id="node4" href="$classNet__SSH2.html#ab77f420b7405c4cdf59c7339f959ec9f" title="Sends Binary Packets." alt="" coords="429,56,588,81"/>
+<area shape="rect" id="node5" href="$classNet__SSH2.html#acfeeec987ce1573ddb80312e068504a0" title="Logs data packets." alt="" coords="646,31,750,56"/>
+<area shape="rect" id="node8" href="$classNet__SSH2.html#a43186604926a3172896ce2353437d5b8" title="Have you successfully been logged in?" alt="" coords="636,80,760,105"/>
+<area shape="rect" id="node6" href="$classNet__SSH2.html#a919c6647c9fd11655b42dc81a4d62e26" title="Formats a log for printing." alt="" coords="808,5,908,31"/>
+<area shape="rect" id="node7" href="$classNet__SSH2.html#ab009fa6f4ba09daa679a30e9b5bcfe35" title="String Shift." alt="" coords="956,31,1057,56"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="_getDynamicGateway" name="_getDynamicGateway">
+<area shape="rect" id="node1" title=" " alt="" coords="379,80,545,105"/>
+<area shape="rect" id="node2" href="$classSystem.html#a6baa62a81a32e122dde71ac97c46fe9a" title="Reads hostname, gateway, and interface configuration." alt="" coords="187,5,273,31"/>
+<area shape="rect" id="node3" href="$classSystem.html#af5b501167fb4c9699ed55aeb6f0a5d1a" title="Reads the default gateway on the routing table." alt="" coords="149,55,311,80"/>
+<area shape="rect" id="node4" href="$classSystem.html#ab11c15607f702856d377b575f60d875a" title="Gets system gateway, static or dynamic." alt="" coords="155,104,305,129"/>
+<area shape="rect" id="node6" href="$classSystem.html#ab381c295914ea1ed53086961d2fcb94e" title="Converts dynamic gateway address to static address." alt="" coords="129,153,331,179"/>
+<area shape="rect" id="node5" href="$classSystem.html#a6c0c91116842cbcd97f4311fea0acc8c" title="Restarts the network." alt="" coords="5,104,81,129"/>
+</map>

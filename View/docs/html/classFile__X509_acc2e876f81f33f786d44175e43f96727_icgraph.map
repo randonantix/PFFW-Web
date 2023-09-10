@@ -1,0 +1,5 @@
+<map id="_testForIntermediate" name="_testForIntermediate">
+<area shape="rect" id="node1" title="Validates an intermediate cert as identified via authority info access extension." alt="" coords="449,5,608,31"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#a96ee8b07aceb37a5d949447f7349bf12" title="Validate a signature." alt="" coords="191,5,401,31"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#a63e18ebfa877fefabf86d16e0e2ceeaa" title="Validate a signature." alt="" coords="5,5,143,31"/>
+</map>

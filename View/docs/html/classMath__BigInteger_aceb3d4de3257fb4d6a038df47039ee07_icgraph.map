@@ -1,0 +1,4 @@
+<map id="__construct" name="__construct">
+<area shape="rect" id="node1" title="Converts base&#45;2, base&#45;10, base&#45;16, and binary strings (base&#45;256) to BigIntegers." alt="" coords="183,5,279,31"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a24305d90b2b40a9a2dc9f5628759e2ef" title="PHP4 compatible Default Constructor." alt="" coords="5,5,135,31"/>
+</map>

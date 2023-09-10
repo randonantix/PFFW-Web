@@ -1,0 +1,7 @@
+<map id="SetNewsyslogConfig" name="SetNewsyslogConfig">
+<area shape="rect" id="node1" title="Sets newsyslog configuration for log file." alt="" coords="5,80,160,105"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="208,5,300,31"/>
+<area shape="rect" id="node3" href="$lib_2lib_8php.html#a998c26d78939d233b87794689e841eb9" title="Escapes chars." alt="" coords="220,55,288,80"/>
+<area shape="rect" id="node4" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="220,104,288,129"/>
+<area shape="rect" id="node5" href="$classModel.html#a24813c8e79a850571607408548a88528" title="Writes contents to file." alt="" coords="221,153,287,179"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PrintProcessTableHeader" name="PrintProcessTableHeader">
+<area shape="rect" id="node1" title="Prints headers for processes table." alt="" coords="364,5,547,31"/>
+<area shape="rect" id="node2" href="$classView.html#ab01dd9990a4e547d5519dd0d9174fdb7" title="Gets and lists processes for daemons/services." alt="" coords="180,5,316,31"/>
+<area shape="rect" id="node3" href="$classView.html#ac66492e0af705fe63013ec18a7a9fa15" title="Displays module status, software version, Restart/Stop buttons, and process table." alt="" coords="5,5,132,31"/>
+</map>

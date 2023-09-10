@@ -1,0 +1,5 @@
+<map id="RunPfInfoCmd" name="RunPfInfoCmd">
+<area shape="rect" id="node1" title="Runs pfctl info commands." alt="" coords="191,31,305,56"/>
+<area shape="rect" id="node2" href="$classPf.html#a38ca1b7038f0abfc232f79b0e960873f" title="Gets pf memory info." alt="" coords="16,5,132,31"/>
+<area shape="rect" id="node3" href="$classPf.html#affaf24885607f02f42192efae751f760" title="Gets pf timeouts." alt="" coords="5,55,143,80"/>
+</map>

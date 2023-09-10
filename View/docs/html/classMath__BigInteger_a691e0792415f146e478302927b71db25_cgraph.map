@@ -1,0 +1,16 @@
+<map id="bitwise_rightRotate" name="bitwise_rightRotate">
+<area shape="rect" id="node1" title="Logical Right Rotate." alt="" coords="5,80,155,105"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a9982d49144851db482b563c0f30d8090" title="Logical Left Rotate." alt="" coords="203,80,343,105"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#aa152f07e39bfa5ea214c5988cd2b214a" title="Normalize." alt="" coords="712,80,807,105"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#adbc569100876fbd1f32816ed3ba636eb" title="Logical Left Shift." alt="" coords="395,29,521,55"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a921ccf9ea92ebe45d9bc3dc609487cd2" title="Logical Right Shift." alt="" coords="391,80,525,105"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#af2ee38d1ce36008491d935c9431afc7b" title="Copy an object." alt="" coords="592,131,645,156"/>
+<area shape="rect" id="node8" href="$classMath__BigInteger.html#ad8be3a467f4c9c5a97b631564f6942a9" title="Converts a BigInteger to a byte string (eg." alt="" coords="422,181,494,207"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a76477f8e2f8776056aa2fb0e36bf209d" title="Trim." alt="" coords="1001,131,1057,156"/>
+<area shape="rect" id="node9" href="$classMath__BigInteger.html#a7e8c056838bce5675facb24d6db190ab" title="Converts 32&#45;bit integers to bytes." alt="" coords="573,180,664,205"/>
+<area shape="rect" id="node10" href="$classMath__BigInteger.html#aaf020bdbcf9ae9e3a9d362011f2c0562" title="Adds two BigIntegers." alt="" coords="595,229,642,255"/>
+<area shape="rect" id="node14" href="$classMath__BigInteger.html#ab3e827e63797760d741d346cac1581bf" title="Compares two numbers." alt="" coords="857,283,935,308"/>
+<area shape="rect" id="node11" href="$classMath__BigInteger.html#ac73ee119572907c1dea2a9527959931f" title="Performs addition." alt="" coords="733,181,786,207"/>
+<area shape="rect" id="node12" href="$classMath__BigInteger.html#a424a23a2d4d86ec9ed41c7b532fc0dd8" title="Compares two numbers." alt="" coords="985,232,1072,257"/>
+<area shape="rect" id="node13" href="$classMath__BigInteger.html#a927fb1de927c67f3cb631acab6bee2de" title="Performs subtraction." alt="" coords="855,181,937,207"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_divide_digit" name="_divide_digit">
+<area shape="rect" id="node1" title="Divides a BigInteger by a regular integer." alt="" coords="5,5,111,31"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a8fb3789b41dc77a5a46edaad5f2a2afb" title="Single digit division." alt="" coords="159,5,263,31"/>
+</map>

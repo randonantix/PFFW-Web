@@ -1,0 +1,32 @@
+<map id="SetNVP" name="SetNVP">
+<area shape="rect" id="node1" title="Changes value of NVP." alt="" coords="496,672,567,697"/>
+<area shape="rect" id="node2" href="$classSystem.html#a7c21107fcd868c9590f376c07f02afaf" title=" " alt="" coords="251,5,385,31"/>
+<area shape="rect" id="node3" href="$classSystem.html#a91b60c705c31df895a96ff1480ce85db" title=" " alt="" coords="229,55,407,80"/>
+<area shape="rect" id="node4" href="$classSystem.html#a6f28b1520f68197fc3089c87d3ee5a86" title=" " alt="" coords="253,104,383,129"/>
+<area shape="rect" id="node5" href="$classSystem.html#a77b569ce1603eae5f71e4f90e9e5c3a0" title=" " alt="" coords="231,153,405,179"/>
+<area shape="rect" id="node6" href="$classSystem.html#a84af1d367e28f412bc9a7e07464defc6" title=" " alt="" coords="188,203,448,228"/>
+<area shape="rect" id="node7" href="$classSystem.html#a896e4c34afa76bb1359be66b348597f6" title=" " alt="" coords="191,252,445,277"/>
+<area shape="rect" id="node8" href="$classModel.html#a4c5f8b05e5cbfffe696da52ce05f066a" title="Sets the value of NVP configuration." alt="" coords="263,301,373,327"/>
+<area shape="rect" id="node9" href="$classModel.html#a859ad1e51288c4d72ed9eda0f6f5e43e" title="Sets default locale." alt="" coords="251,351,385,376"/>
+<area shape="rect" id="node10" href="$classModel.html#a396fea6ec5c2ad29ebee26ea36723133" title="Enables or disables HTTPs." alt="" coords="259,400,377,425"/>
+<area shape="rect" id="node11" href="$classModel.html#abbf4c282267beb7f8667d0882d82b983" title="Enables or disables help boxes." alt="" coords="269,449,367,475"/>
+<area shape="rect" id="node12" href="$classPf.html#a8a838a5a93147d20d19f2f4c44a16b23" title="Sets interface names in pf.conf." alt="" coords="280,499,356,524"/>
+<area shape="rect" id="node13" href="$classPf.html#ae936293c9b2b0d90849d2c17acc1e6e8" title="Sets int_net." alt="" coords="269,548,367,573"/>
+<area shape="rect" id="node14" href="$classDnsmasq.html#aafd6db1bc365b4992ffdc2894821194f" title="Sets the interface that the DNS forwarder binds to listen for requests." alt="" coords="235,597,401,623"/>
+<area shape="rect" id="node15" href="$classModel.html#ace6809a36e1a52e1dde4c9d6d662ca4c" title="Sets global log level." alt="" coords="267,647,369,672"/>
+<area shape="rect" id="node16" href="$classModel.html#ad3d333424199ea8d1475ffb779b5407c" title="Sets the max number of nested anchors allowed." alt="" coords="235,696,401,721"/>
+<area shape="rect" id="node17" href="$classModel.html#a396a20de76a1a352c40b3eb64d21bce9" title="Sets max file size to process." alt="" coords="225,745,411,771"/>
+<area shape="rect" id="node18" href="$classSystem.html#a59df788be29e03ef99af4f3a16fdb1a0" title=" " alt="" coords="257,795,379,820"/>
+<area shape="rect" id="node19" href="$classSystem.html#af6fa08d72148c73798549ca54163b619" title=" " alt="" coords="243,844,393,869"/>
+<area shape="rect" id="node20" href="$classSystem.html#ae08f689f2d21a3414d7f1f667a0d5350" title=" " alt="" coords="223,893,413,919"/>
+<area shape="rect" id="node21" href="$classSystem.html#ac188e028fb53e14e566562ae2e805f09" title=" " alt="" coords="231,943,405,968"/>
+<area shape="rect" id="node22" href="$classSystem.html#a43705d78ea353c6e76f34342df25ea58" title=" " alt="" coords="219,992,417,1017"/>
+<area shape="rect" id="node23" href="$classSystem.html#a3ad0b53500536d14f25a7d95f819a977" title=" " alt="" coords="233,1041,403,1067"/>
+<area shape="rect" id="node24" href="$classModel.html#a2b4ff4a876f224dcd90e3d5cb3e288a4" title="Sets pfctl timeout." alt="" coords="255,1091,381,1116"/>
+<area shape="rect" id="node25" href="$classModel.html#add75f616f424040c62005634d34c20b0" title="Sets default reload rate." alt="" coords="259,1140,377,1165"/>
+<area shape="rect" id="node26" href="$classModel.html#a3070438f6bedf2aeeeb313d7c32e5e1e" title="Sets session timeout." alt="" coords="245,1189,391,1215"/>
+<area shape="rect" id="node27" href="$classModel.html#a31cfb3981a2789a48b91e3b2ea325681" title="Sets status check interval." alt="" coords="231,1239,405,1264"/>
+<area shape="rect" id="node29" href="$classSystem.html#ad6ebf17ff7b76e126f2c94d29bde51d4" title=" " alt="" coords="241,1288,395,1313"/>
+<area shape="rect" id="node30" href="$classModel.html#a760367a76e1eae0a8e8e7bc6c9e0579e" title="Enables or disables SSH." alt="" coords="271,1337,365,1363"/>
+<area shape="rect" id="node28" href="$classModel.html#a5cf12375d05dca29b3c81333ff1882a2" title="Gets service statuses." alt="" coords="5,1239,140,1264"/>
+</map>

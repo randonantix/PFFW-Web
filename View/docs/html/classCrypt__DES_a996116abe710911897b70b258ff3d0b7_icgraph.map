@@ -1,0 +1,5 @@
+<map id="_processBlock" name="_processBlock">
+<area shape="rect" id="node1" title="Encrypts or decrypts a 64&#45;bit block." alt="" coords="168,31,283,56"/>
+<area shape="rect" id="node2" href="$classCrypt__DES.html#a2a08218631ae2281ca8cf6032c34a843" title="Decrypts a block." alt="" coords="5,5,120,31"/>
+<area shape="rect" id="node3" href="$classCrypt__DES.html#adbb5f094cd3af568d05434b7a4b3e6e2" title="Encrypts a block." alt="" coords="5,55,120,80"/>
+</map>

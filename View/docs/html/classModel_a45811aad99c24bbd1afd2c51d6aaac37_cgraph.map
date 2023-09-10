@@ -1,0 +1,10 @@
+<map id="DisableConf" name="DisableConf">
+<area shape="rect" id="node1" title="Disables a configuration item in conf file." alt="" coords="5,104,107,129"/>
+<area shape="rect" id="node2" href="$classModel.html#a997af94797f7368e6f273a6f9f63d8a8" title="Disables a Name." alt="" coords="170,5,281,31"/>
+<area shape="rect" id="node5" href="$classModel.html#a05257350a817e0a8da3dfaa868c623b1" title="Disables an NVP." alt="" coords="176,55,275,80"/>
+<area shape="rect" id="node6" href="$classModel.html#ae08f1955abf4f7b5ca00ec1fec76041f" title="Returns configuration file of the module." alt="" coords="176,104,275,129"/>
+<area shape="rect" id="node7" href="$classModel.html#a3d6c4b92ec14b5133d20ce287ef720ca" title=" " alt="" coords="155,153,296,179"/>
+<area shape="rect" id="node8" href="$classModel.html#a63e6c944f6d63934ee3f05c24bc3e122" title="Sets configuration file based on config type provided." alt="" coords="183,203,267,228"/>
+<area shape="rect" id="node3" href="$classModel.html#aa97184370ce56f1abd12ae18ddbf2c40" title="Searches a needle and replaces with a value in the given file." alt="" coords="344,31,467,56"/>
+<area shape="rect" id="node4" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="515,31,607,56"/>
+</map>

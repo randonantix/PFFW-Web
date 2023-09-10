@@ -1,0 +1,6 @@
+<map id="PrintHelpWindow" name="PrintHelpWindow">
+<area shape="rect" id="node1" title="Prints the message in a box with a title bar and an image." alt="" coords="261,55,396,80"/>
+<area shape="rect" id="node2" href="$libwui_8php.html#ad0344d5e87e556ea3f0b910c91653621" title="Processes posted start line on logs pages." alt="" coords="44,5,175,31"/>
+<area shape="rect" id="node3" href="$libwui_8php.html#ab4c204aee4e6fa9c741a43e60e6c1401" title="Updates refresh interval for live pages." alt="" coords="38,55,181,80"/>
+<area shape="rect" id="node4" href="$libwui_8php.html#afca5cfa896e8acab9c1f1917bb3b2adf" title="Updates logs and live logs session variables." alt="" coords="5,104,213,129"/>
+</map>

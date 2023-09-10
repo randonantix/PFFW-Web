@@ -1,0 +1,8 @@
+<map id="setRevokedCertificateExtension" name="setRevokedCertificateExtension">
+<area shape="rect" id="node1" title="Set a Revoked Certificate Extension." alt="" coords="5,55,235,80"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#a8fd951ac4d21092f644bd6528c171bcb" title="Get the index of a revoked certificate." alt="" coords="283,5,431,31"/>
+<area shape="rect" id="node4" href="$classFile__X509.html#a28a18c05603a638bcb114897dffeee6d" title="Set an Extension." alt="" coords="300,55,413,80"/>
+<area shape="rect" id="node6" href="$classFile__X509.html#aa200f8fe0af46a9daef5d95bfe2ce471" title="Get a reference to a subarray." alt="" coords="627,80,713,105"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#a8aecc48efc4e9677b47bd540fc26a089" title="Helper function to build a time field according to RFC 3280 section." alt="" coords="483,5,574,31"/>
+<area shape="rect" id="node5" href="$classFile__X509.html#a8524c1f84d3dc74f7dd247fd12a122e6" title="Get a reference to an extension subarray." alt="" coords="479,55,579,80"/>
+</map>

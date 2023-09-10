@@ -1,0 +1,13 @@
+<map id="_barrett" name="_barrett">
+<area shape="rect" id="node1" title="Barrett Modular Reduction." alt="" coords="5,271,79,297"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#ac73ee119572907c1dea2a9527959931f" title="Performs addition." alt="" coords="604,195,657,221"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a424a23a2d4d86ec9ed41c7b532fc0dd8" title="Compares two numbers." alt="" coords="903,119,989,145"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a927fb1de927c67f3cb631acab6bee2de" title="Performs subtraction." alt="" coords="757,246,840,271"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#a76477f8e2f8776056aa2fb0e36bf209d" title="Trim." alt="" coords="918,347,974,373"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a2ef1d563be21155662d4bcae575a9a7e" title="Array Repeat." alt="" coords="743,423,855,449"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#a465c06adada9b0b45f76668c4844f05f" title="Performs multiplication." alt="" coords="295,473,377,498"/>
+<area shape="rect" id="node10" href="$classMath__BigInteger.html#a6de4a6166aa7097b3a4fef67896e69da" title="(Regular) Barrett Modular Reduction" alt="" coords="127,271,247,297"/>
+<area shape="rect" id="node8" href="$classMath__BigInteger.html#ac5e379cf64a3227f01d0f3dc591b0683" title="Performs Karatsuba multiplication on two BigIntegers." alt="" coords="425,371,519,397"/>
+<area shape="rect" id="node9" href="$classMath__BigInteger.html#a54d83005fd8be82533338ceeb77fbf7e" title="Performs long multiplication on two BigIntegers." alt="" coords="567,397,695,422"/>
+<area shape="rect" id="node11" href="$classMath__BigInteger.html#adba80f3a3d05c9fbd5d80daf020feab8" title="Performs long multiplication up to $stop digits." alt="" coords="569,347,692,373"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="DeleteIf" name="DeleteIf">
+<area shape="rect" id="node1" title="Deconfigures an interface by deleting its hostname file." alt="" coords="5,31,80,56"/>
+<area shape="rect" id="node2" href="$classModel.html#a620707dcc4093d4ca002e3dfdfa68af1" title="Deletes the given file or directory." alt="" coords="128,31,260,56"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="308,5,400,31"/>
+<area shape="rect" id="node4" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="327,55,381,80"/>
+</map>

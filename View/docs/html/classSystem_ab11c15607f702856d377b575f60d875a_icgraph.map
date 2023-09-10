@@ -1,0 +1,4 @@
+<map id="getSystemGateway" name="getSystemGateway">
+<area shape="rect" id="node1" title="Gets system gateway, static or dynamic." alt="" coords="129,5,280,31"/>
+<area shape="rect" id="node2" href="$classSystem.html#a6c0c91116842cbcd97f4311fea0acc8c" title="Restarts the network." alt="" coords="5,5,81,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GetStatsLogLines" name="GetStatsLogLines">
+<area shape="rect" id="node1" title="Builds generic grep command and extracts log lines." alt="" coords="455,55,589,80"/>
+<area shape="rect" id="node2" href="$classModel.html#a4b2587fd477dfc21d60f1185c624521c" title="Updates statistics incrementally, both brief and full." alt="" coords="304,55,407,80"/>
+<area shape="rect" id="node3" href="$classModel.html#a879807a0b92e50464699e78d3c216483" title=" " alt="" coords="161,29,243,55"/>
+<area shape="rect" id="node6" href="$classModel.html#aacf995c8c1f12fe1a00b653fd790c3ef" title="Gets the log file under the tmp folder." alt="" coords="148,79,256,104"/>
+<area shape="rect" id="node4" href="$classModel.html#a2f595c1fea08e09a47f744ff8fec6815" title="Gets both brief and full statistics." alt="" coords="5,5,100,31"/>
+<area shape="rect" id="node5" href="$classModel.html#ac746ea8beac01d38d9d0289c6c08fe4a" title="Main statistics collector, as module data set." alt="" coords="13,55,92,80"/>
+</map>

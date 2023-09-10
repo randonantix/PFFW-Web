@@ -1,0 +1,6 @@
+<map id="GetPartitions" name="GetPartitions">
+<area shape="rect" id="node1" title="Gets partition list." alt="" coords="5,31,112,56"/>
+<area shape="rect" id="node2" href="$classSystem.html#a941c3c7c9570b1a241f58024b3cc7963" title="Returns all partitions mounted." alt="" coords="160,5,271,31"/>
+<area shape="rect" id="node4" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="182,55,249,80"/>
+<area shape="rect" id="node3" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="319,5,509,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="getRevokedCertificateExtensions" name="getRevokedCertificateExtensions">
+<area shape="rect" id="node1" title="Returns a list of all extensions in use for a given revoked certificate." alt="" coords="5,56,243,81"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#a7dfd9393f164e45947bac81e5bc97d7f" title="Returns a list of all extensions in use." alt="" coords="304,5,425,31"/>
+<area shape="rect" id="node4" href="$classFile__X509.html#aa200f8fe0af46a9daef5d95bfe2ce471" title="Get a reference to a subarray." alt="" coords="635,31,721,56"/>
+<area shape="rect" id="node5" href="$classFile__X509.html#a8fd951ac4d21092f644bd6528c171bcb" title="Get the index of a revoked certificate." alt="" coords="291,107,439,132"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#a8524c1f84d3dc74f7dd247fd12a122e6" title="Get a reference to an extension subarray." alt="" coords="487,5,587,31"/>
+<area shape="rect" id="node6" href="$classFile__X509.html#a8aecc48efc4e9677b47bd540fc26a089" title="Helper function to build a time field according to RFC 3280 section." alt="" coords="491,107,582,132"/>
+</map>

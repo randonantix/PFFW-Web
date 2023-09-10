@@ -1,0 +1,9 @@
+<map id="_reset_connection" name="_reset_connection">
+<area shape="rect" id="node1" title="Resets a connection for re&#45;use." alt="" coords="5,56,145,81"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#a646e753a466ce7684dabc773a480a8ac" title="Disconnect." alt="" coords="193,56,292,81"/>
+<area shape="rect" id="node3" href="$classNet__SSH2.html#ab77f420b7405c4cdf59c7339f959ec9f" title="Sends Binary Packets." alt="" coords="340,56,499,81"/>
+<area shape="rect" id="node4" href="$classNet__SSH2.html#acfeeec987ce1573ddb80312e068504a0" title="Logs data packets." alt="" coords="557,31,661,56"/>
+<area shape="rect" id="node7" href="$classNet__SSH2.html#a43186604926a3172896ce2353437d5b8" title="Have you successfully been logged in?" alt="" coords="547,80,671,105"/>
+<area shape="rect" id="node5" href="$classNet__SSH2.html#a919c6647c9fd11655b42dc81a4d62e26" title="Formats a log for printing." alt="" coords="719,5,819,31"/>
+<area shape="rect" id="node6" href="$classNet__SSH2.html#ab009fa6f4ba09daa679a30e9b5bcfe35" title="String Shift." alt="" coords="867,31,968,56"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Kill" name="Kill">
+<area shape="rect" id="node1" title="Stops module&#39;s parent process with its pid." alt="" coords="5,104,48,129"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="308,5,400,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="327,129,381,155"/>
+<area shape="rect" id="node4" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="135,104,203,129"/>
+<area shape="rect" id="node5" href="$classModel.html#a73fbf3721e73a688382663bf84e1e428" title="Checks if the given process(es) is running." alt="" coords="126,55,213,80"/>
+<area shape="rect" id="node7" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="96,205,243,231"/>
+<area shape="rect" id="node6" href="$classModel.html#aead9ffea53f83ba54a7bc722dbc81841" title="Selects user processes from ps output." alt="" coords="291,55,417,80"/>
+</map>

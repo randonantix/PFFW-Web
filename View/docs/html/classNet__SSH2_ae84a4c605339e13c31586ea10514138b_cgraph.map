@@ -1,0 +1,4 @@
+<map id="getSupportedEncryptionAlgorithms" name="getSupportedEncryptionAlgorithms">
+<area shape="rect" id="node1" title="Returns a list of symmetric key algorithms that phpseclib supports." alt="" coords="5,13,255,38"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#abe5a7dd40c236de2788a513757dafd80" title="Maps an encryption algorithm name to an instance of a subclass of \phpseclib\Crypt\Base." alt="" coords="303,5,471,45"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="GetStatus" name="GetStatus">
+<area shape="rect" id="node1" title=" " alt="" coords="5,133,92,159"/>
+<area shape="rect" id="node2" href="$defs_8php.html#a76b8877d5a35c08959e2609908c669b6" title="For classifying gettext strings into files." alt="" coords="159,5,223,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="844,183,897,208"/>
+<area shape="rect" id="node4" href="$classModel.html#a75a2cec868b2b3cf1d0f2ae81a799298" title=" " alt="" coords="142,133,239,159"/>
+<area shape="rect" id="node10" href="$classModel.html#a7fb8ac5678a9e42f00fb66780296bca9" title=" " alt="" coords="140,259,241,284"/>
+<area shape="rect" id="node13" href="$classModel.html#a6b114b525be039c9d40aced2dba528f6" title=" " alt="" coords="161,308,220,333"/>
+<area shape="rect" id="node5" href="$classModel.html#a80a9c7ffc5b622913366185669db13f8" title="Gets logs for live logs pages, the actual method." alt="" coords="319,133,426,159"/>
+<area shape="rect" id="node6" href="$classModel.html#ad8dbb64d308bdf8cbe3dfee2c84fb9bb" title="Parses the given log line." alt="" coords="504,108,611,133"/>
+<area shape="rect" id="node8" href="$classModel.html#afb379dac54166aba28a4e7e22d0fa772" title="Checks if the given file exists and not larger than $MaxFileSizeToProcess in MBs." alt="" coords="508,157,607,183"/>
+<area shape="rect" id="node7" href="$classModel.html#af4eb638f282def52a768efc7dbcbc698" title="Parses standard syslog line." alt="" coords="664,107,791,132"/>
+<area shape="rect" id="node9" href="$classModel.html#ab81972f4cb26c1d07ac429589bb4d62d" title=" " alt="" coords="659,208,796,233"/>
+<area shape="rect" id="node11" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="327,309,419,335"/>
+<area shape="rect" id="node12" href="$classModel.html#a106f3eba1442c7e4cf721764772bc724" title=" " alt="" coords="289,359,456,384"/>
+</map>

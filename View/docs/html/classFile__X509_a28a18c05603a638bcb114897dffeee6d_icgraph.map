@@ -1,0 +1,7 @@
+<map id="_setExtension" name="_setExtension">
+<area shape="rect" id="node1" title="Set an Extension." alt="" coords="405,55,519,80"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#aec94c39b26c9f4af4efe2ebf74cd914f" title="Set a certificate, CSR or CRL Extension." alt="" coords="189,29,296,55"/>
+<area shape="rect" id="node5" href="$classFile__X509.html#a28ba1f404bda71c06dc86b209616f53d" title="Set a Revoked Certificate Extension." alt="" coords="128,79,357,104"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#a86265f41fc9ab04b810aa1a14a613477" title="Sign an X.509 certificate." alt="" coords="18,5,67,31"/>
+<area shape="rect" id="node4" href="$classFile__X509.html#a2b25616309652968bc8a61f44415c14d" title="Sign a CRL." alt="" coords="5,55,80,80"/>
+</map>

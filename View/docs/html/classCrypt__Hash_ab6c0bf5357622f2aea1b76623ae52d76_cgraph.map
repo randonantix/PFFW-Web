@@ -1,0 +1,5 @@
+<map id="setHash" name="setHash">
+<area shape="rect" id="node1" title="Sets the hash function." alt="" coords="5,31,80,56"/>
+<area shape="rect" id="node2" href="$classCrypt__Hash.html#a478270388b4769bdc3c10048b2d8c569" title="Pre&#45;compute the key used by the HMAC." alt="" coords="128,5,239,31"/>
+<area shape="rect" id="node3" href="$classCrypt__Hash.html#af61d86b77a292e0c3f808b373daec17d" title="Compute the HMAC." alt="" coords="287,31,340,56"/>
+</map>

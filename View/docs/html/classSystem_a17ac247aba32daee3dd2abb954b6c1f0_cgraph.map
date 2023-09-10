@@ -1,0 +1,5 @@
+<map id="RotateLogFile" name="RotateLogFile">
+<area shape="rect" id="node1" title="Calls forked rotation function." alt="" coords="5,5,116,31"/>
+<area shape="rect" id="node2" href="$classSystem.html#ab317867ba90d6be00943388908228c59" title="Daemonizes to run the given function." alt="" coords="164,5,291,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="339,5,431,31"/>
+</map>

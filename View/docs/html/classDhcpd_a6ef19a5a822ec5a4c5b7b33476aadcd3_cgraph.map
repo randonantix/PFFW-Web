@@ -1,0 +1,7 @@
+<map id="GetLeases" name="GetLeases">
+<area shape="rect" id="node1" title="Gets dhcpd leases." alt="" coords="5,55,96,80"/>
+<area shape="rect" id="node2" href="$classDhcpd.html#a41befaaa7e57ab544a686a23333a2086" title=" " alt="" coords="144,29,239,55"/>
+<area shape="rect" id="node5" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="158,79,225,104"/>
+<area shape="rect" id="node3" href="$lib_2lib_8php.html#a998c26d78939d233b87794689e841eb9" title="Escapes chars." alt="" coords="309,5,377,31"/>
+<area shape="rect" id="node4" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="287,55,399,80"/>
+</map>

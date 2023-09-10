@@ -1,0 +1,9 @@
+<map id="EnableNotifier" name="EnableNotifier">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,120,82"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="403,6,495,31"/>
+<area shape="rect" id="node3" href="$classSystem.html#a42acd46e4e13a7ca4ce63619a861885e" title=" " alt="" coords="189,80,314,106"/>
+<area shape="rect" id="node5" href="$classSystem.html#ad87f076a746be808dbe36ced5c7a1a68" title=" " alt="" coords="185,130,318,155"/>
+<area shape="rect" id="node7" href="$classModel.html#aa97184370ce56f1abd12ae18ddbf2c40" title="Searches a needle and replaces with a value in the given file." alt="" coords="168,31,335,56"/>
+<area shape="rect" id="node4" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="393,80,505,106"/>
+<area shape="rect" id="node6" href="$classModel.html#a151a013af243c2c1255caf53dffadc9b" title="Searches the given file with the given regex." alt="" coords="383,130,516,155"/>
+</map>

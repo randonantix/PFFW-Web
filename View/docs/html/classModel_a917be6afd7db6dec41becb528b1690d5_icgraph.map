@@ -1,0 +1,5 @@
+<map id="_getPhyIfs" name="_getPhyIfs">
+<area shape="rect" id="node1" title=" " alt="" coords="192,31,283,56"/>
+<area shape="rect" id="node2" href="$classSystem.html#a6baa62a81a32e122dde71ac97c46fe9a" title="Reads hostname, gateway, and interface configuration." alt="" coords="5,5,144,31"/>
+<area shape="rect" id="node3" href="$classModel.html#aa7dc2e292df1ab234a44e9e2a5b170b0" title="Extracts physical interface names from ifconfig output." alt="" coords="32,55,117,80"/>
+</map>

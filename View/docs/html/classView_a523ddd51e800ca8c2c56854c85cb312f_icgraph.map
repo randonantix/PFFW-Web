@@ -1,0 +1,11 @@
+<map id="Controller" name="Controller">
+<area shape="rect" id="node1" title="Calls the controller." alt="" coords="555,155,641,180"/>
+<area shape="rect" id="node2" href="$classPf.html#a466fac5fced11e2731c73da0430d590b" title="Gets and lists pf states." alt="" coords="363,5,507,31"/>
+<area shape="rect" id="node3" href="$classView.html#a2b7b8e472e1742ee0be6390ae6c85670" title="Prints general text statistics." alt="" coords="392,55,477,80"/>
+<area shape="rect" id="node4" href="$classView.html#ac66492e0af705fe63013ec18a7a9fa15" title="Displays module status, software version, Restart/Stop buttons, and process table." alt="" coords="371,104,498,129"/>
+<area shape="rect" id="node5" href="$classView.html#a0e15d34b5378973d7c5f425eea21cbfe" title="Processes user posts for process start and stop." alt="" coords="5,205,197,231"/>
+<area shape="rect" id="node6" href="$classView.html#a58a42cd2dbcf0483f1da759a8d283d58" title="Starts module process(es)." alt="" coords="408,205,461,231"/>
+<area shape="rect" id="node8" href="$classView.html#a0f17de803b9ad897ee1e879e90982bd2" title="Stops module process(es)." alt="" coords="409,255,460,280"/>
+<area shape="rect" id="node9" href="$classView.html#aef4854da4a80f863418cbc2360cc33df" title="Uploads selected log file." alt="" coords="377,304,492,329"/>
+<area shape="rect" id="node7" href="$classView.html#a07c2efd2b813bc974c545fcf33783926" title="Stops and restarts module process(es)." alt="" coords="245,205,315,231"/>
+</map>

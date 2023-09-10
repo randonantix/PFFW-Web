@@ -1,0 +1,8 @@
+<map id="SetSensors" name="SetSensors">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,100,56"/>
+<area shape="rect" id="node2" href="$classModel.html#ad150b90d723746fef93c906fb8548a9e" title="Finds sysctl temp and fan sensors." alt="" coords="161,5,301,31"/>
+<area shape="rect" id="node5" href="$classModel.html#aa97184370ce56f1abd12ae18ddbf2c40" title="Searches a needle and replaces with a value in the given file." alt="" coords="148,55,315,80"/>
+<area shape="rect" id="node3" href="$classModel.html#a5e24130261dd255285454c45adc570eb" title=" " alt="" coords="363,5,497,31"/>
+<area shape="rect" id="node4" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="545,5,736,31"/>
+<area shape="rect" id="node6" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="384,55,476,80"/>
+</map>

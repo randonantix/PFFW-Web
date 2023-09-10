@@ -1,0 +1,7 @@
+<map id="AddHost" name="AddHost">
+<area shape="rect" id="node1" title="Adds host line to hosts file." alt="" coords="5,29,83,55"/>
+<area shape="rect" id="node2" href="$classModel.html#aa2af57dba14ec82874dc3302908f36e5" title="Appends a string to a file." alt="" coords="261,5,413,31"/>
+<area shape="rect" id="node4" href="$classSystem.html#a3a530bfd8a776d55344d8122cab77469" title="Deletes host line from hosts file." alt="" coords="131,55,205,80"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="468,31,560,56"/>
+<area shape="rect" id="node5" href="$classModel.html#aa97184370ce56f1abd12ae18ddbf2c40" title="Searches a needle and replaces with a value in the given file." alt="" coords="253,55,420,80"/>
+</map>

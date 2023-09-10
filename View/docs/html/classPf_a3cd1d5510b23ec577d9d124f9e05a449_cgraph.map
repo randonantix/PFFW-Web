@@ -1,0 +1,12 @@
+<map id="GetLogs" name="GetLogs">
+<area shape="rect" id="node1" title="Gets lines in log file." alt="" coords="5,129,80,155"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="177,5,269,31"/>
+<area shape="rect" id="node3" href="$classPf.html#a3827d539c75623fd5345ab590caaa2cb" title="Generates the module specific datetime regexp for filtering logs." alt="" coords="135,55,312,80"/>
+<area shape="rect" id="node5" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="190,104,257,129"/>
+<area shape="rect" id="node6" href="$classPf.html#ad8dbb64d308bdf8cbe3dfee2c84fb9bb" title="Parses the given log line." alt="" coords="170,153,277,179"/>
+<area shape="rect" id="node7" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="128,203,319,228"/>
+<area shape="rect" id="node8" href="$classModel.html#afb379dac54166aba28a4e7e22d0fa772" title="Checks if the given file exists and not larger than $MaxFileSizeToProcess in MBs." alt="" coords="152,252,295,277"/>
+<area shape="rect" id="node4" href="$classModel.html#a9e0bb0c7dbe09da8be1338e15c21068a" title=" " alt="" coords="367,47,588,87"/>
+<area shape="rect" id="node9" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="636,252,689,277"/>
+<area shape="rect" id="node10" href="$classModel.html#ab81972f4cb26c1d07ac429589bb4d62d" title=" " alt="" coords="387,277,568,303"/>
+</map>

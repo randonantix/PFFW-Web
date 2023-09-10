@@ -1,0 +1,6 @@
+<map id="_random_number_helper" name="_random_number_helper">
+<area shape="rect" id="node1" title="Generates a random BigInteger." alt="" coords="284,31,468,56"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a928a1f0b42ca5cf04432a313d1878946" title="Generate a random number." alt="" coords="164,31,236,56"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a7a8ccdcad32569732a8e0208c7af1e16" title="Checks a numer to see if it&#39;s prime." alt="" coords="25,5,96,31"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a981bff72218e76ee5ae6d41f07340c75" title="Generate a random prime number." alt="" coords="5,55,116,80"/>
+</map>

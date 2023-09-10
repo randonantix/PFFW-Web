@@ -1,0 +1,7 @@
+<map id="GetTmpLogFileName" name="GetTmpLogFileName">
+<area shape="rect" id="node1" title="Gets the name of the file in the tmp folder." alt="" coords="367,55,525,80"/>
+<area shape="rect" id="node2" href="$classModel.html#aab423e07962bdc1319b01c6d7c679f0f" title=" " alt="" coords="184,29,319,55"/>
+<area shape="rect" id="node5" href="$classModel.html#aacf995c8c1f12fe1a00b653fd790c3ef" title="Gets the log file under the tmp folder." alt="" coords="197,79,305,104"/>
+<area shape="rect" id="node3" href="$classModel.html#aed5ee3c735f862c4d99761b379f31729" title="Gets log files list with start dates." alt="" coords="10,5,131,31"/>
+<area shape="rect" id="node4" href="$classModel.html#a40159dcd03e82eade9e96fd6b8080e89" title="Extracts the datetime of the first line in the log file." alt="" coords="5,55,136,80"/>
+</map>

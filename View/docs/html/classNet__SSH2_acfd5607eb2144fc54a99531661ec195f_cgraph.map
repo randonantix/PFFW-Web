@@ -1,0 +1,30 @@
+<map id="getCompressionAlgorithmsServer2Client" name="getCompressionAlgorithmsServer2Client">
+<area shape="rect" id="node1" title="Return a list of the compression algorithms the server supports, when sending stuff to the client." alt="" coords="5,607,204,647"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#a056510893d19074b6d9138db970a8843" title="Connect to an SSHv2 server." alt="" coords="252,614,332,639"/>
+<area shape="rect" id="node3" href="$classNet__SSH2.html#acfeeec987ce1573ddb80312e068504a0" title="Logs data packets." alt="" coords="1963,43,2067,69"/>
+<area shape="rect" id="node6" href="$classNet__SSH2.html#a549eeeeb5a8ea6a8e921d8bde5a4243a" title="Generates the SSH identifier." alt="" coords="380,577,532,602"/>
+<area shape="rect" id="node7" href="$classNet__SSH2.html#acfe89a2c2728e0c85a62d764ae3e7990" title="Gets Binary Packets." alt="" coords="382,650,530,675"/>
+<area shape="rect" id="node18" href="$classNet__SSH2.html#ae8a6503569694b98291a5456f38b25fa" title="Key Exchange." alt="" coords="786,1041,909,1066"/>
+<area shape="rect" id="node4" href="$classNet__SSH2.html#a919c6647c9fd11655b42dc81a4d62e26" title="Formats a log for printing." alt="" coords="2125,43,2225,69"/>
+<area shape="rect" id="node5" href="$classNet__SSH2.html#ab009fa6f4ba09daa679a30e9b5bcfe35" title="String Shift." alt="" coords="2273,195,2375,221"/>
+<area shape="rect" id="node8" href="$classNet__SSH2.html#ab9f29b5fcb1976a823cfa2a0a5c37014" title="Tests whether or not proposed algorithm has a potential for issues." alt="" coords="1288,831,1483,857"/>
+<area shape="rect" id="node9" href="$classNet__SSH2.html#a0d9cacfa9329947e285c2d4ab027a230" title="Filter Binary Packets." alt="" coords="621,675,679,701"/>
+<area shape="rect" id="node11" href="$classNet__SSH2.html#ab77f420b7405c4cdf59c7339f959ec9f" title="Sends Binary Packets." alt="" coords="1747,371,1905,397"/>
+<area shape="rect" id="node12" href="$classNet__SSH2.html#a43186604926a3172896ce2353437d5b8" title="Have you successfully been logged in?" alt="" coords="1953,1391,2077,1417"/>
+<area shape="rect" id="node28" href="$classNet__SSH2.html#aaf238294e127f90ae67db9c22b148640" title="Resets a connection for re&#45;use." alt="" coords="580,725,720,750"/>
+<area shape="rect" id="node10" href="$classNet__SSH2.html#a646e753a466ce7684dabc773a480a8ac" title="Disconnect." alt="" coords="1565,549,1664,574"/>
+<area shape="rect" id="node13" href="$classNet__SSH2.html#aa423924aeb50cce066e1efc1a88a4f8f" title="Gets channel data." alt="" coords="768,390,927,415"/>
+<area shape="rect" id="node14" href="$classNet__SSH2.html#a73e8a0a7c7dd283bca12aa16dccad589" title="Closes and flushes a channel." alt="" coords="1047,422,1168,447"/>
+<area shape="rect" id="node16" href="$classNet__SSH2.html#a817c66059f956ee1a8bc49e87c6f4f30" title="Helper function for agent&#45;&gt;_on_channel_open()" alt="" coords="1036,297,1179,322"/>
+<area shape="rect" id="node17" href="$classNet__SSH2.html#a8411fd3679523acd664533a316a0da0a" title="Sends channel data." alt="" coords="1531,309,1699,334"/>
+<area shape="rect" id="node15" href="$classNet__SSH2.html#abe175fcf658475bc56e9d6fa02bc88ec" title="Disconnect." alt="" coords="1339,422,1431,447"/>
+<area shape="rect" id="node19" href="$classNet__SSH2.html#ac35bc7767a07ac20e80e10ca45821772" title="Returns the first value of the intersection of two arrays or false if the intersection is empty." alt="" coords="1028,991,1187,1017"/>
+<area shape="rect" id="node20" href="$classNet__SSH2.html#abe5a7dd40c236de2788a513757dafd80" title="Maps an encryption algorithm name to an instance of a subclass of \phpseclib\Crypt\Base." alt="" coords="1301,1108,1469,1148"/>
+<area shape="rect" id="node21" href="$classNet__SSH2.html#a0c7b27802b6cb540921a8d53bee55467" title="Maps an encryption algorithm name to the number of key bytes." alt="" coords="1023,827,1191,867"/>
+<area shape="rect" id="node22" href="$classNet__SSH2.html#aeaa8692c6a034dc3e58efc0e5111b8e9" title="Update packet types in log history." alt="" coords="1035,1090,1179,1115"/>
+<area shape="rect" id="node23" href="$classNet__SSH2.html#af90e69b9cad65a2edb9a674e0271843a" title="Returns a list of compression algorithms that phpseclib supports." alt="" coords="975,1139,1240,1165"/>
+<area shape="rect" id="node24" href="$classNet__SSH2.html#ae84a4c605339e13c31586ea10514138b" title="Returns a list of symmetric key algorithms that phpseclib supports." alt="" coords="983,1041,1232,1066"/>
+<area shape="rect" id="node25" href="$classNet__SSH2.html#af3e04a8e46698ece21fc24822917b377" title="Returns a list of host key algorithms that phpseclib supports." alt="" coords="990,1241,1225,1266"/>
+<area shape="rect" id="node26" href="$classNet__SSH2.html#abcbeadf8c82ab472093e30abc0f91efa" title="Returns a list of KEX algorithms that phpseclib supports." alt="" coords="1004,1290,1211,1315"/>
+<area shape="rect" id="node27" href="$classNet__SSH2.html#a444afa6fcbae26c87f081be454b27280" title="Returns a list of MAC algorithms that phpseclib supports." alt="" coords="1002,942,1213,967"/>
+</map>

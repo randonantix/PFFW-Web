@@ -1,0 +1,9 @@
+<map id="_baseSquare" name="_baseSquare">
+<area shape="rect" id="node1" title="Performs traditional squaring on two BigIntegers." alt="" coords="907,55,1012,80"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a3ca7d53fb2a9e79aef5cfa668188d005" title="Performs Karatsuba &quot;squaring&quot; on two BigIntegers." alt="" coords="720,29,859,55"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#ad7a42af2b66514271c42483e71e19831" title="Performs squaring." alt="" coords="599,55,672,80"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a00ff0622a8f898cc1fbd77fe9554eab4" title="Modular square." alt="" coords="429,29,551,55"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a585f1acf1b4a45c360281c6cffd0e9be" title="Performs modular exponentiation." alt="" coords="131,55,209,80"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#a3cf5d0f5670afb9a3ebecd201484ff1c" title="Sliding Window k&#45;ary Modular Exponentiation." alt="" coords="257,29,381,55"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#a488e7039c9a9dc54408413b241c0c400" title="Performs modular exponentiation." alt="" coords="5,55,83,80"/>
+</map>

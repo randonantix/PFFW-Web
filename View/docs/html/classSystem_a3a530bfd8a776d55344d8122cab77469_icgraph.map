@@ -1,0 +1,4 @@
+<map id="DelHost" name="DelHost">
+<area shape="rect" id="node1" title="Deletes host line from hosts file." alt="" coords="131,5,205,31"/>
+<area shape="rect" id="node2" href="$classSystem.html#ae71ff078bde201e683fe532347febfd7" title="Adds host line to hosts file." alt="" coords="5,5,83,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SetLogsConfig" name="SetLogsConfig">
+<area shape="rect" id="node1" title="Set logs configuration." alt="" coords="5,5,120,31"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="168,5,260,31"/>
+</map>

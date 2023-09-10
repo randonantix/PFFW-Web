@@ -1,0 +1,6 @@
+<map id="PrintProcessTable" name="PrintProcessTable">
+<area shape="rect" id="node1" title="Gets and lists processes for daemons/services." alt="" coords="5,31,141,56"/>
+<area shape="rect" id="node2" href="$defs_8php.html#a76b8877d5a35c08959e2609908c669b6" title="For classifying gettext strings into files." alt="" coords="249,5,313,31"/>
+<area shape="rect" id="node3" href="$classView.html#abb2db63abb2379f6fa3bfe17f4975d42" title="Prints headers for processes table." alt="" coords="189,55,372,80"/>
+<area shape="rect" id="node4" href="$view_8php.html#ab4da5c8117f5ef7afe6fdfeb41764bac" title="For classifying gettext strings into files." alt="" coords="420,55,492,80"/>
+</map>

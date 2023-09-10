@@ -1,0 +1,4 @@
+<map id="ReadSelection" name="ReadSelection">
+<area shape="rect" id="node1" title="Prompts for and reads user selection." alt="" coords="5,5,120,31"/>
+<area shape="rect" id="node2" href="$Installer_2lib_8php.html#a145aaf0a9d86400af6e7d15098974830" title="Reads a line of input from stdin." alt="" coords="168,5,251,31"/>
+</map>

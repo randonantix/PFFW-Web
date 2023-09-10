@@ -1,0 +1,5 @@
+<map id="GetPfInfo" name="GetPfInfo">
+<area shape="rect" id="node1" title="Gets general pf info." alt="" coords="5,31,88,56"/>
+<area shape="rect" id="node2" href="$classPf.html#a1f0549d5d17fd33598a22f56eac4883f" title=" " alt="" coords="136,5,224,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="147,55,213,80"/>
+</map>

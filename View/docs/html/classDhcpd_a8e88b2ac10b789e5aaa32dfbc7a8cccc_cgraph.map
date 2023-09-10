@@ -1,0 +1,9 @@
+<map id="AddIf" name="AddIf">
+<area shape="rect" id="node1" title="Adds a dhcpd interface to listen." alt="" coords="5,29,61,55"/>
+<area shape="rect" id="node2" href="$classDhcpd.html#a9511320b9872aead409f9be5ac942122" title=" " alt="" coords="211,5,277,31"/>
+<area shape="rect" id="node4" href="$classDhcpd.html#a86bbfb98cd42d2a36891000beff08549" title="Deletes a dhcpd interface to listen." alt="" coords="109,29,163,55"/>
+<area shape="rect" id="node5" href="$classDhcpd.html#a1a87501d4bbc360e41b6ae3487fea361" title="Sets dhcpd interfaces." alt="" coords="215,55,273,80"/>
+<area shape="rect" id="node3" href="$classModel.html#a151a013af243c2c1255caf53dffadc9b" title="Searches the given file with the given regex." alt="" coords="342,5,475,31"/>
+<area shape="rect" id="node6" href="$classModel.html#aa97184370ce56f1abd12ae18ddbf2c40" title="Searches a needle and replaces with a value in the given file." alt="" coords="325,55,492,80"/>
+<area shape="rect" id="node7" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="540,55,632,80"/>
+</map>

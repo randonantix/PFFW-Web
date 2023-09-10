@@ -1,0 +1,7 @@
+<map id="validate" name="validate">
+<area shape="rect" id="node1" title="Validates the ruleset." alt="" coords="5,55,80,80"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="128,5,220,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="147,55,201,80"/>
+<area shape="rect" id="node4" href="$tools_8inc.html#a585c262d16bad21a05af8804df8372b2" title=" " alt="" coords="149,104,199,129"/>
+<area shape="rect" id="node5" href="$tools_8inc.html#a5ba476111ad2c0046eb66f85f13d4919" title=" " alt="" coords="268,104,379,129"/>
+</map>

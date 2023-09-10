@@ -1,0 +1,5 @@
+<map id="GetHosts" name="GetHosts">
+<area shape="rect" id="node1" title="Reads hosts file contents." alt="" coords="5,31,88,56"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="178,5,245,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a42dee43d638f627934bd6bca7b8f1397" title="Multi&#45;searches a given file with a given regexp." alt="" coords="136,55,287,80"/>
+</map>

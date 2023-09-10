@@ -1,0 +1,52 @@
+<map id="SearchFile" name="SearchFile">
+<area shape="rect" id="node1" title="Searches the given file with the given regex." alt="" coords="851,402,940,427"/>
+<area shape="rect" id="node2" href="$classDhcpd.html#a9511320b9872aead409f9be5ac942122" title=" " alt="" coords="636,81,747,106"/>
+<area shape="rect" id="node7" href="$classModel.html#a6a716268fcbfd5197d5055df81c2dbc5" title="Checks if commented&#45;out Name exists." alt="" coords="621,229,762,254"/>
+<area shape="rect" id="node10" href="$classModel.html#a1aebe30cc76f4942c0333005444fb00f" title="Reads value of commented&#45;out NVP." alt="" coords="627,179,756,205"/>
+<area shape="rect" id="node11" href="$classModel.html#ae6cc2dcb5a8fe07db88766823322be7e" title="Checks if Name exists." alt="" coords="649,278,733,303"/>
+<area shape="rect" id="node13" href="$classSystem.html#a2fbd383f7bf3bfbec581cb5c42d8c4c7" title="Reads nameserver setting." alt="" coords="602,377,781,402"/>
+<area shape="rect" id="node14" href="$classModel.html#a8f197a5f9e014dc06404352d2f4b7e20" title="Reads value of NVP." alt="" coords="655,327,727,353"/>
+<area shape="rect" id="node42" href="$classDhcpd.html#a033c094b5472bdc653d6a0672ceb2b28" title="Reads the value of the given dhcpd option." alt="" coords="625,426,758,451"/>
+<area shape="rect" id="node43" href="$classDhcpd.html#aae69fbe200ad80522a57bbba8f62c691" title="Reads dhcpd range option." alt="" coords="626,475,757,501"/>
+<area shape="rect" id="node44" href="$classSystem.html#a16a9c3234c5fe7a46dce1f8e13514dae" title="Reads root e&#45;mail address." alt="" coords="609,525,774,550"/>
+<area shape="rect" id="node45" href="$classSystem.html#ab991b373017cf08337fee32a8f52e2ce" title="Gets service startup status in rc.conf.local." alt="" coords="582,665,801,705"/>
+<area shape="rect" id="node47" href="$classSystem.html#a4931cd6cb25fa48e27d5f7520444b0c0" title="Gets service startup status in rc.local." alt="" coords="580,775,803,801"/>
+<area shape="rect" id="node48" href="$classSystem.html#ad87f076a746be808dbe36ced5c7a1a68" title=" " alt="" coords="598,870,785,895"/>
+<area shape="rect" id="node3" href="$classDhcpd.html#a8e88b2ac10b789e5aaa32dfbc7a8cccc" title="Adds a dhcpd interface to listen." alt="" coords="85,30,186,55"/>
+<area shape="rect" id="node4" href="$classDhcpd.html#a86bbfb98cd42d2a36891000beff08549" title="Deletes a dhcpd interface to listen." alt="" coords="373,130,472,155"/>
+<area shape="rect" id="node5" href="$classDhcpd.html#ade8e406a98e0ded7913d3ddbcb5ed116" title="Gets the list of dhcpd interfaces from rc.conf.local file." alt="" coords="369,31,476,57"/>
+<area shape="rect" id="node6" href="$classDhcpd.html#a58a42cd2dbcf0483f1da759a8d283d58" title="Starts dhcpd with the list of interfaces obtained from rc.conf.local file." alt="" coords="373,81,472,106"/>
+<area shape="rect" id="node8" href="$classModel.html#a9aefd70a0fc1481512f149df7a0376aa" title="Returns all disabled configuration for a given configuration type." alt="" coords="353,179,492,205"/>
+<area shape="rect" id="node9" href="$classModel.html#a7b5bd25430f02d1925323e19f2861a9e" title="Gets all configuration for a given configuration type." alt="" coords="71,154,200,179"/>
+<area shape="rect" id="node12" href="$classModel.html#ae81727132988d14931750ce5e1c88bd7" title="Returns all enabled configuration for a given configuration type." alt="" coords="382,229,463,254"/>
+<area shape="rect" id="node15" href="$classModel.html#aa572c51a6d4aa52ec3029518451a05fe" title=" " alt="" coords="383,278,463,303"/>
+<area shape="rect" id="node20" href="$classModel.html#a7abfd365d79fd5b34b3aab5d4ff0c770" title=" " alt="" coords="385,377,461,402"/>
+<area shape="rect" id="node22" href="$classDnsmasq.html#a6ce8641410dc2a28206b2e8f6c9db6ff" title="Gets the interface that the DNS forwarder binds to listen for requests." alt="" coords="339,327,506,353"/>
+<area shape="rect" id="node23" href="$classModel.html#abcd01c30cbd8fa9ac1c84340e5ed33de" title="Changes value of NVP." alt="" coords="387,771,458,797"/>
+<area shape="rect" id="node16" href="$classSystem.html#a6baa62a81a32e122dde71ac97c46fe9a" title="Reads hostname, gateway, and interface configuration." alt="" coords="66,351,205,377"/>
+<area shape="rect" id="node17" href="$classModel.html#a190806315bf8a8147417f3735ba66bc5" title="Get ext_if." alt="" coords="98,203,173,229"/>
+<area shape="rect" id="node18" href="$classModel.html#a5cf12375d05dca29b3c81333ff1882a2" title="Gets service statuses." alt="" coords="68,253,203,278"/>
+<area shape="rect" id="node19" href="$classSystem.html#a6c0c91116842cbcd97f4311fea0acc8c" title="Restarts the network." alt="" coords="71,302,200,327"/>
+<area shape="rect" id="node21" href="$classModel.html#a14573cc2fd34870091dfe7e8aa1ab171" title="Get int_if." alt="" coords="100,401,171,426"/>
+<area shape="rect" id="node24" href="$classSystem.html#a7c21107fcd868c9590f376c07f02afaf" title=" " alt="" coords="69,1289,202,1314"/>
+<area shape="rect" id="node25" href="$classSystem.html#a91b60c705c31df895a96ff1480ce85db" title=" " alt="" coords="46,450,225,475"/>
+<area shape="rect" id="node26" href="$classSystem.html#a6f28b1520f68197fc3089c87d3ee5a86" title=" " alt="" coords="70,499,201,525"/>
+<area shape="rect" id="node27" href="$classSystem.html#a77b569ce1603eae5f71e4f90e9e5c3a0" title=" " alt="" coords="48,549,223,574"/>
+<area shape="rect" id="node28" href="$classSystem.html#a84af1d367e28f412bc9a7e07464defc6" title=" " alt="" coords="5,598,265,623"/>
+<area shape="rect" id="node29" href="$classSystem.html#a896e4c34afa76bb1359be66b348597f6" title=" " alt="" coords="8,647,263,673"/>
+<area shape="rect" id="node30" href="$classModel.html#a4c5f8b05e5cbfffe696da52ce05f066a" title="Sets the value of NVP configuration." alt="" coords="81,697,190,722"/>
+<area shape="rect" id="node31" href="$classModel.html#a859ad1e51288c4d72ed9eda0f6f5e43e" title="Sets default locale." alt="" coords="69,746,202,771"/>
+<area shape="rect" id="node32" href="$classModel.html#a396fea6ec5c2ad29ebee26ea36723133" title="Enables or disables HTTPs." alt="" coords="76,795,195,821"/>
+<area shape="rect" id="node33" href="$classModel.html#abbf4c282267beb7f8667d0882d82b983" title="Enables or disables help boxes." alt="" coords="86,845,185,870"/>
+<area shape="rect" id="node34" href="$classPf.html#a8a838a5a93147d20d19f2f4c44a16b23" title="Sets interface names in pf.conf." alt="" coords="97,894,173,919"/>
+<area shape="rect" id="node35" href="$classPf.html#ae936293c9b2b0d90849d2c17acc1e6e8" title="Sets int_net." alt="" coords="86,943,185,969"/>
+<area shape="rect" id="node36" href="$classDnsmasq.html#aafd6db1bc365b4992ffdc2894821194f" title="Sets the interface that the DNS forwarder binds to listen for requests." alt="" coords="53,993,218,1018"/>
+<area shape="rect" id="node37" href="$classModel.html#ace6809a36e1a52e1dde4c9d6d662ca4c" title="Sets global log level." alt="" coords="85,1042,186,1067"/>
+<area shape="rect" id="node38" href="$classModel.html#ad3d333424199ea8d1475ffb779b5407c" title="Sets the max number of nested anchors allowed." alt="" coords="52,1091,219,1117"/>
+<area shape="rect" id="node39" href="$classModel.html#a396a20de76a1a352c40b3eb64d21bce9" title="Sets max file size to process." alt="" coords="43,1141,228,1166"/>
+<area shape="rect" id="node40" href="$classSystem.html#a59df788be29e03ef99af4f3a16fdb1a0" title=" " alt="" coords="74,1190,197,1215"/>
+<area shape="rect" id="node41" href="$classSystem.html#af6fa08d72148c73798549ca54163b619" title=" " alt="" coords="60,1239,211,1265"/>
+<area shape="rect" id="node46" href="$classSystem.html#a808c908777b00099fd26d81392a16cea" title="Gets service start stati." alt="" coords="313,821,532,846"/>
+<area shape="rect" id="node49" href="$classSystem.html#a9ab68d76ae284801fab86bc79307f163" title=" " alt="" coords="337,919,509,945"/>
+<area shape="rect" id="node50" href="$classSystem.html#a35859a78a5736fe2821b4531775d4443" title=" " alt="" coords="339,870,506,895"/>
+</map>

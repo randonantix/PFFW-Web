@@ -1,0 +1,5 @@
+<map id="Stop" name="Stop">
+<area shape="rect" id="node1" title="Stops module process(es)." alt="" coords="363,5,413,31"/>
+<area shape="rect" id="node2" href="$classView.html#a0e15d34b5378973d7c5f425eea21cbfe" title="Processes user posts for process start and stop." alt="" coords="5,5,197,31"/>
+<area shape="rect" id="node3" href="$classView.html#a07c2efd2b813bc974c545fcf33783926" title="Stops and restarts module process(es)." alt="" coords="245,31,315,56"/>
+</map>

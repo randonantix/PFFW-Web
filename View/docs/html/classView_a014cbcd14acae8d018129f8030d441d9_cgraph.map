@@ -1,0 +1,6 @@
+<map id="PrintLogLine" name="PrintLogLine">
+<area shape="rect" id="node1" title="Generic parser, highlighter, and printer for the log line." alt="" coords="5,31,108,56"/>
+<area shape="rect" id="node2" href="$classView.html#a7380caec2969c7c943efab862b724b76" title="Determines log line color class." alt="" coords="156,5,284,31"/>
+<area shape="rect" id="node4" href="$libwui_8php.html#aab3036c36bc1cf224c89a6a1fb775728" title="Displays log fields in columns." alt="" coords="169,55,271,80"/>
+<area shape="rect" id="node3" href="$lib_2lib_8php.html#a998c26d78939d233b87794689e841eb9" title="Escapes chars." alt="" coords="332,5,400,31"/>
+</map>

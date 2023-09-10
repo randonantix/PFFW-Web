@@ -1,0 +1,10 @@
+<map id="modInverse" name="modInverse">
+<area shape="rect" id="node1" title="Calculates modular inverses." alt="" coords="5,56,104,81"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#aa152f07e39bfa5ea214c5988cd2b214a" title="Normalize." alt="" coords="312,5,407,31"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#af3271c1a26c6f5de343ba9197e8f7a2e" title="Absolute value." alt="" coords="185,31,231,56"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#ab3e827e63797760d741d346cac1581bf" title="Compares two numbers." alt="" coords="169,129,247,155"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#a500a273c667f37213b91501d6828d891" title="Calculates the greatest common divisor and Bezout&#39;s identity." alt="" coords="152,80,264,105"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a76477f8e2f8776056aa2fb0e36bf209d" title="Trim." alt="" coords="455,5,511,31"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a424a23a2d4d86ec9ed41c7b532fc0dd8" title="Compares two numbers." alt="" coords="316,129,403,155"/>
+<area shape="rect" id="node8" href="$classMath__BigInteger.html#af2ee38d1ce36008491d935c9431afc7b" title="Copy an object." alt="" coords="333,80,386,105"/>
+</map>

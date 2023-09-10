@@ -1,0 +1,4 @@
+<map id="parseItem" name="parseItem">
+<area shape="rect" id="node1" title="Gets the items in delimiters and increments the index once for each word." alt="" coords="5,5,93,31"/>
+<area shape="rect" id="node2" href="$lib_2lib_8php.html#a5de4c118627ef9fcaa8eeed364b7616f" title="Converts an array to a simple value." alt="" coords="141,5,244,31"/>
+</map>

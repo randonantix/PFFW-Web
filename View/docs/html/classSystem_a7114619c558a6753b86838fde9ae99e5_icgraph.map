@@ -1,0 +1,7 @@
+<map id="_getStaticGateway" name="_getStaticGateway">
+<area shape="rect" id="node1" title=" " alt="" coords="328,55,473,80"/>
+<area shape="rect" id="node2" href="$classSystem.html#a6baa62a81a32e122dde71ac97c46fe9a" title="Reads hostname, gateway, and interface configuration." alt="" coords="161,5,248,31"/>
+<area shape="rect" id="node3" href="$classSystem.html#a4f4e4e9f2af4ade1afb253c004db47db" title="Reads static gateway address from mygate file." alt="" coords="135,55,275,80"/>
+<area shape="rect" id="node4" href="$classSystem.html#ab11c15607f702856d377b575f60d875a" title="Gets system gateway, static or dynamic." alt="" coords="129,104,280,129"/>
+<area shape="rect" id="node5" href="$classSystem.html#a6c0c91116842cbcd97f4311fea0acc8c" title="Restarts the network." alt="" coords="5,104,81,129"/>
+</map>

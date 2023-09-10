@@ -1,0 +1,4 @@
+<map id="_setupMcrypt" name="_setupMcrypt">
+<area shape="rect" id="node1" title="Setup the CRYPT_ENGINE_MCRYPT $engine." alt="" coords="5,5,116,31"/>
+<area shape="rect" id="node2" href="$classCrypt__Base.html#a1a87457f321c145b43893358a820f55a" title="Clears internal buffers." alt="" coords="164,5,271,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="_keyboard_interactive_process" name="_keyboard_interactive_process">
+<area shape="rect" id="node1" title="Handle the keyboard&#45;interactive requests / responses." alt="" coords="589,35,756,75"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#aef12912326ba82cdc30d4d8b59ab384d" title="Login via keyboard&#45;interactive authentication." alt="" coords="375,5,541,45"/>
+<area shape="rect" id="node3" href="$classNet__SSH2.html#ac8a487031191e557cfb8b5bc06a05a46" title="Login Helper." alt="" coords="217,42,327,67"/>
+<area shape="rect" id="node4" href="$classNet__SSH2.html#af724b6769f4530de459ea01bf327242a" title="Login Helper." alt="" coords="108,42,169,67"/>
+<area shape="rect" id="node5" href="$classNet__SSH2.html#a6c0872fca276099dd4e9d5de6813c9a9" title="Login." alt="" coords="5,42,60,67"/>
+</map>

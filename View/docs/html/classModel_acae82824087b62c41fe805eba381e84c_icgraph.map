@@ -1,0 +1,6 @@
+<map id="GetDateRegexp" name="GetDateRegexp">
+<area shape="rect" id="node1" title="Generates date regexp to be used by statistics functions." alt="" coords="279,31,404,56"/>
+<area shape="rect" id="node2" href="$classModel.html#a879807a0b92e50464699e78d3c216483" title=" " alt="" coords="148,31,231,56"/>
+<area shape="rect" id="node3" href="$classModel.html#a2f595c1fea08e09a47f744ff8fec6815" title="Gets both brief and full statistics." alt="" coords="5,5,100,31"/>
+<area shape="rect" id="node4" href="$classModel.html#ac746ea8beac01d38d9d0289c6c08fe4a" title="Main statistics collector, as module data set." alt="" coords="13,55,92,80"/>
+</map>

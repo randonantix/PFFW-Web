@@ -1,0 +1,7 @@
+<map id="SaveStats" name="SaveStats">
+<area shape="rect" id="node1" title="Saves collected statistics with the current line count and stat() output." alt="" coords="5,81,92,107"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="164,5,256,31"/>
+<area shape="rect" id="node3" href="$classModel.html#adf44e19a68f4a6be9289e2e39a5698f7" title="Gets the original file name for the given log file." alt="" coords="328,81,463,107"/>
+<area shape="rect" id="node4" href="$classModel.html#ae24c34977ae6864272b678fe40fdb09a" title="Gets name of the tmp statistics file for the given log file." alt="" coords="140,107,280,132"/>
+<area shape="rect" id="node5" href="$classModel.html#a24813c8e79a850571607408548a88528" title="Writes contents to file." alt="" coords="177,156,243,181"/>
+</map>

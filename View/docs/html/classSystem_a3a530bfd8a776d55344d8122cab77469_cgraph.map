@@ -1,0 +1,5 @@
+<map id="DelHost" name="DelHost">
+<area shape="rect" id="node1" title="Deletes host line from hosts file." alt="" coords="5,5,80,31"/>
+<area shape="rect" id="node2" href="$classModel.html#aa97184370ce56f1abd12ae18ddbf2c40" title="Searches a needle and replaces with a value in the given file." alt="" coords="128,5,295,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="343,5,435,31"/>
+</map>

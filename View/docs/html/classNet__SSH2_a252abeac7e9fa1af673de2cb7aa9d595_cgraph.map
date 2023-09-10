@@ -1,0 +1,9 @@
+<map id="setPreferredAlgorithms" name="setPreferredAlgorithms">
+<area shape="rect" id="node1" title="Accepts an associative array with up to four parameters as described at https://www...." alt="" coords="5,104,179,129"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#af90e69b9cad65a2edb9a674e0271843a" title="Returns a list of compression algorithms that phpseclib supports." alt="" coords="227,5,492,31"/>
+<area shape="rect" id="node3" href="$classNet__SSH2.html#ae84a4c605339e13c31586ea10514138b" title="Returns a list of symmetric key algorithms that phpseclib supports." alt="" coords="235,55,484,80"/>
+<area shape="rect" id="node5" href="$classNet__SSH2.html#af3e04a8e46698ece21fc24822917b377" title="Returns a list of host key algorithms that phpseclib supports." alt="" coords="242,104,477,129"/>
+<area shape="rect" id="node6" href="$classNet__SSH2.html#abcbeadf8c82ab472093e30abc0f91efa" title="Returns a list of KEX algorithms that phpseclib supports." alt="" coords="256,153,463,179"/>
+<area shape="rect" id="node7" href="$classNet__SSH2.html#a444afa6fcbae26c87f081be454b27280" title="Returns a list of MAC algorithms that phpseclib supports." alt="" coords="254,203,465,228"/>
+<area shape="rect" id="node4" href="$classNet__SSH2.html#abe5a7dd40c236de2788a513757dafd80" title="Maps an encryption algorithm name to an instance of a subclass of \phpseclib\Crypt\Base." alt="" coords="540,47,708,87"/>
+</map>

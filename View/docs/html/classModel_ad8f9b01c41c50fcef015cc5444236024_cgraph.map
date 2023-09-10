@@ -1,0 +1,4 @@
+<map id="GetFileFirstLine" name="GetFileFirstLine">
+<area shape="rect" id="node1" title="Gets first line of file." alt="" coords="5,5,128,31"/>
+<area shape="rect" id="node2" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="176,5,323,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="__construct" name="__construct">
+<area shape="rect" id="node1" title="Default Constructor." alt="" coords="5,31,101,56"/>
+<area shape="rect" id="node2" href="$classFile__ANSI.html#ae01ea049fb3be49ce113f6cb2cfe0bf9" title="Set terminal width and height." alt="" coords="149,5,268,31"/>
+<area shape="rect" id="node3" href="$classFile__ANSI.html#ad5bc55a3727505278215d8d736cc2a11" title="Set the number of lines that should be logged past the terminal height." alt="" coords="164,55,253,80"/>
+</map>

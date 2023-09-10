@@ -1,0 +1,5 @@
+<map id="asn1map" name="asn1map">
+<area shape="rect" id="node1" title="ASN.1 Map." alt="" coords="5,31,88,56"/>
+<area shape="rect" id="node2" href="$classFile__ASN1.html#ae93cbfbb826db862f63b3a54ff46df4e" title="BER&#45;decode the time (using DateTime)" alt="" coords="136,5,276,31"/>
+<area shape="rect" id="node3" href="$classFile__ASN1.html#a8f552e81456e1e55cd55bb4158adb82a" title="BER&#45;decode the time (using UNIX time)" alt="" coords="137,55,275,80"/>
+</map>

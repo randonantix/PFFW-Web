@@ -1,0 +1,4 @@
+<map id="IsModulePidRunning" name="IsModulePidRunning">
+<area shape="rect" id="node1" title="Checks if the pid is running." alt="" coords="5,5,160,31"/>
+<area shape="rect" id="node2" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="208,5,355,31"/>
+</map>

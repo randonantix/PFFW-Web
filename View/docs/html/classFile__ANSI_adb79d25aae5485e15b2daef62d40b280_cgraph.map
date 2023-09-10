@@ -1,0 +1,6 @@
+<map id="loadString" name="loadString">
+<area shape="rect" id="node1" title="Load a string." alt="" coords="5,31,93,56"/>
+<area shape="rect" id="node2" href="$classFile__ANSI.html#a675a2f56c0500d9989d73f579f0897f3" title="Appdend a string." alt="" coords="147,5,255,31"/>
+<area shape="rect" id="node4" href="$classFile__ANSI.html#ae01ea049fb3be49ce113f6cb2cfe0bf9" title="Set terminal width and height." alt="" coords="141,55,260,80"/>
+<area shape="rect" id="node3" href="$classFile__ANSI.html#a62aa5f4f6948a5652e6220c0d6677c90" title="Add a new line." alt="" coords="308,5,391,31"/>
+</map>

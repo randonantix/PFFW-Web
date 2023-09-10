@@ -1,0 +1,8 @@
+<map id="abs" name="abs">
+<area shape="rect" id="node1" title="Absolute value." alt="" coords="455,31,500,56"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#aceb3d4de3257fb4d6a038df47039ee07" title="Converts base&#45;2, base&#45;10, base&#45;16, and binary strings (base&#45;256) to BigIntegers." alt="" coords="309,5,405,31"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#abe9d4e468a14156ff8c72c9b50489ef5" title="Calculates modular inverses." alt="" coords="308,55,407,80"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a24305d90b2b40a9a2dc9f5628759e2ef" title="PHP4 compatible Default Constructor." alt="" coords="131,5,260,31"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#a585f1acf1b4a45c360281c6cffd0e9be" title="Performs modular exponentiation." alt="" coords="156,55,235,80"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a488e7039c9a9dc54408413b241c0c400" title="Performs modular exponentiation." alt="" coords="5,55,83,80"/>
+</map>

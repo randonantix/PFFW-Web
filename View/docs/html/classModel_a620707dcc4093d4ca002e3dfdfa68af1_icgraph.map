@@ -1,0 +1,11 @@
+<map id="DeleteFile" name="DeleteFile">
+<area shape="rect" id="node1" title="Deletes the given file or directory." alt="" coords="761,105,849,131"/>
+<area shape="rect" id="node2" href="$classModel.html#a5cdc13ae8497b92e1c6cbf8b85c6d43c" title="Uncompresses gzipped log file to tmp dir." alt="" coords="533,56,677,81"/>
+<area shape="rect" id="node8" href="$classSystem.html#abb4eb7780d65c831b01cd1eab2d118ab" title="Deconfigures an interface by deleting its hostname file." alt="" coords="541,105,668,131"/>
+<area shape="rect" id="node9" href="$classSystem.html#a6f642ec1c473f0c2e671baaa1a53e279" title="Converts static gateway address to dynamic address." alt="" coords="496,155,713,195"/>
+<area shape="rect" id="node3" href="$classModel.html#ad4d7aefbd214d3da3f1965e6ddddb998" title="Copies the original log file to tmp folder." alt="" coords="304,56,448,81"/>
+<area shape="rect" id="node4" href="$classModel.html#a879807a0b92e50464699e78d3c216483" title=" " alt="" coords="161,31,243,56"/>
+<area shape="rect" id="node7" href="$classModel.html#aacf995c8c1f12fe1a00b653fd790c3ef" title="Gets the log file under the tmp folder." alt="" coords="148,80,256,105"/>
+<area shape="rect" id="node5" href="$classModel.html#a2f595c1fea08e09a47f744ff8fec6815" title="Gets both brief and full statistics." alt="" coords="5,5,100,31"/>
+<area shape="rect" id="node6" href="$classModel.html#ac746ea8beac01d38d9d0289c6c08fe4a" title="Main statistics collector, as module data set." alt="" coords="13,55,92,80"/>
+</map>

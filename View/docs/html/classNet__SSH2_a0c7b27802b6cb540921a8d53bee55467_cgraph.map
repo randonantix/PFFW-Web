@@ -1,0 +1,4 @@
+<map id="_encryption_algorithm_to_key_size" name="_encryption_algorithm_to_key_size">
+<area shape="rect" id="node1" title="Maps an encryption algorithm name to the number of key bytes." alt="" coords="5,5,173,45"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#ab9f29b5fcb1976a823cfa2a0a5c37014" title="Tests whether or not proposed algorithm has a potential for issues." alt="" coords="221,13,416,38"/>
+</map>

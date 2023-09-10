@@ -1,0 +1,7 @@
+<map id="SetPartitions" name="SetPartitions">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,109,56"/>
+<area shape="rect" id="node2" href="$classModel.html#a941c3c7c9570b1a241f58024b3cc7963" title="Returns all partitions mounted." alt="" coords="163,5,318,31"/>
+<area shape="rect" id="node4" href="$classModel.html#aa97184370ce56f1abd12ae18ddbf2c40" title="Searches a needle and replaces with a value in the given file." alt="" coords="157,55,324,80"/>
+<area shape="rect" id="node3" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="372,5,563,31"/>
+<area shape="rect" id="node5" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="421,55,513,80"/>
+</map>

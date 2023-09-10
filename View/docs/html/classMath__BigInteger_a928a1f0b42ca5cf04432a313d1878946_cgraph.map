@@ -1,0 +1,6 @@
+<map id="random" name="random">
+<area shape="rect" id="node1" title="Generate a random number." alt="" coords="5,31,77,56"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#aa152f07e39bfa5ea214c5988cd2b214a" title="Normalize." alt="" coords="170,5,265,31"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#ac30f703797155bd3b3a858c4c0577aba" title="Generates a random BigInteger." alt="" coords="125,55,309,80"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a76477f8e2f8776056aa2fb0e36bf209d" title="Trim." alt="" coords="357,5,413,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GetVersion" name="GetVersion">
+<area shape="rect" id="node1" title="Gets software version string." alt="" coords="5,31,99,56"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="187,5,253,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="147,55,293,80"/>
+</map>

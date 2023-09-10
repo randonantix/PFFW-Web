@@ -1,0 +1,7 @@
+<map id="_privatekey_login" name="_privatekey_login">
+<area shape="rect" id="node1" title="Login with an RSA private key." alt="" coords="557,29,695,55"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#ac8a487031191e557cfb8b5bc06a05a46" title="Login Helper." alt="" coords="217,29,327,55"/>
+<area shape="rect" id="node5" href="$classNet__SSH2.html#a2c02288adcad28d69cebd957deb463ad" title="Login with an ssh&#45;agent provided key." alt="" coords="375,55,509,80"/>
+<area shape="rect" id="node3" href="$classNet__SSH2.html#af724b6769f4530de459ea01bf327242a" title="Login Helper." alt="" coords="108,29,169,55"/>
+<area shape="rect" id="node4" href="$classNet__SSH2.html#a6c0872fca276099dd4e9d5de6813c9a9" title="Login." alt="" coords="5,29,60,55"/>
+</map>

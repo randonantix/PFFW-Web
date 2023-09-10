@@ -1,0 +1,40 @@
+<map id="_compare" name="_compare">
+<area shape="rect" id="node1" title="Compares two numbers." alt="" coords="1748,555,1835,580"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#ac73ee119572907c1dea2a9527959931f" title="Performs addition." alt="" coords="1647,555,1700,580"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a9424e6b47f0491afe73d929a35e14a38" title="Barrett Modular Reduction." alt="" coords="863,681,936,707"/>
+<area shape="rect" id="node13" href="$classMath__BigInteger.html#ab4c9117274c8777181668bffc87e26c2" title="Montgomery Multiply." alt="" coords="984,403,1151,428"/>
+<area shape="rect" id="node14" href="$classMath__BigInteger.html#a6de4a6166aa7097b3a4fef67896e69da" title="(Regular) Barrett Modular Reduction" alt="" coords="1007,707,1127,732"/>
+<area shape="rect" id="node18" href="$classMath__BigInteger.html#adba86351e63c14e27145271e7e8e750f" title="Montgomery Modular Reduction." alt="" coords="1342,403,1455,428"/>
+<area shape="rect" id="node19" href="$classMath__BigInteger.html#a927fb1de927c67f3cb631acab6bee2de" title="Performs subtraction." alt="" coords="1516,680,1599,705"/>
+<area shape="rect" id="node37" href="$classMath__BigInteger.html#ab3e827e63797760d741d346cac1581bf" title="Compares two numbers." alt="" coords="589,203,667,228"/>
+<area shape="rect" id="node11" href="$classMath__BigInteger.html#ac5e379cf64a3227f01d0f3dc591b0683" title="Performs Karatsuba multiplication on two BigIntegers." alt="" coords="1352,528,1445,553"/>
+<area shape="rect" id="node16" href="$classMath__BigInteger.html#a3ca7d53fb2a9e79aef5cfa668188d005" title="Performs Karatsuba &quot;squaring&quot; on two BigIntegers." alt="" coords="1329,907,1468,932"/>
+<area shape="rect" id="node21" href="$classMath__BigInteger.html#aaf020bdbcf9ae9e3a9d362011f2c0562" title="Adds two BigIntegers." alt="" coords="605,252,651,277"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#ad4d1e148d6d2811c5f1be37281ebf51e" title="Modular reduction." alt="" coords="741,503,815,528"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#a24566c6d32efec0c56c997bbbb332535" title="Modular multiply." alt="" coords="563,403,693,428"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a3cf5d0f5670afb9a3ebecd201484ff1c" title="Sliding Window k&#45;ary Modular Exponentiation." alt="" coords="391,453,515,479"/>
+<area shape="rect" id="node9" href="$classMath__BigInteger.html#aff629f93a4232da76fd4da2b32ca0bb1" title="Modular reduction preperation." alt="" coords="565,504,691,529"/>
+<area shape="rect" id="node10" href="$classMath__BigInteger.html#a00ff0622a8f898cc1fbd77fe9554eab4" title="Modular square." alt="" coords="567,553,689,579"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#a585f1acf1b4a45c360281c6cffd0e9be" title="Performs modular exponentiation." alt="" coords="233,400,312,425"/>
+<area shape="rect" id="node8" href="$classMath__BigInteger.html#a488e7039c9a9dc54408413b241c0c400" title="Performs modular exponentiation." alt="" coords="41,400,119,425"/>
+<area shape="rect" id="node12" href="$classMath__BigInteger.html#a465c06adada9b0b45f76668c4844f05f" title="Performs multiplication." alt="" coords="1199,605,1281,631"/>
+<area shape="rect" id="node15" href="$classMath__BigInteger.html#aa7f6ff5800cef129f470b8691172b053" title="Multiplies two BigIntegers." alt="" coords="1029,605,1105,631"/>
+<area shape="rect" id="node17" href="$classMath__BigInteger.html#ad7a42af2b66514271c42483e71e19831" title="Performs squaring." alt="" coords="741,604,815,629"/>
+<area shape="rect" id="node20" href="$classMath__BigInteger.html#aa3a8b9984a8433d69fa47f2b33032a91" title="Subtracts two BigIntegers." alt="" coords="1361,680,1436,705"/>
+<area shape="rect" id="node22" href="$classMath__BigInteger.html#aceb3d4de3257fb4d6a038df47039ee07" title="Converts base&#45;2, base&#45;10, base&#45;16, and binary strings (base&#45;256) to BigIntegers." alt="" coords="405,389,501,415"/>
+<area shape="rect" id="node24" href="$classMath__BigInteger.html#ad8be3a467f4c9c5a97b631564f6942a9" title="Converts a BigInteger to a byte string (eg." alt="" coords="417,227,489,252"/>
+<area shape="rect" id="node23" href="$classMath__BigInteger.html#a24305d90b2b40a9a2dc9f5628759e2ef" title="PHP4 compatible Default Constructor." alt="" coords="208,449,337,475"/>
+<area shape="rect" id="node25" href="$classMath__BigInteger.html#ab1b7acb81705db09cdd8cc3abc71fa9e" title="Logical And." alt="" coords="223,153,323,179"/>
+<area shape="rect" id="node27" href="$classMath__BigInteger.html#a9982d49144851db482b563c0f30d8090" title="Logical Left Rotate." alt="" coords="203,203,343,228"/>
+<area shape="rect" id="node29" href="$classMath__BigInteger.html#ae82a5a4f4da93fe04e31816e334ea635" title="Logical Not." alt="" coords="224,252,321,277"/>
+<area shape="rect" id="node30" href="$classMath__BigInteger.html#a93159506e69315d770c0ab23b3505a84" title="Logical Or." alt="" coords="228,301,317,327"/>
+<area shape="rect" id="node31" href="$classMath__BigInteger.html#a07f27c1ef4e6ec689752adb5feed27ad" title="Logical Exclusive&#45;Or." alt="" coords="225,351,321,376"/>
+<area shape="rect" id="node32" href="$classMath__BigInteger.html#a7a8ccdcad32569732a8e0208c7af1e16" title="Checks a numer to see if it&#39;s prime." alt="" coords="237,55,308,80"/>
+<area shape="rect" id="node33" href="$classMath__BigInteger.html#a21f54d740a636aff66b16c0bbf929516" title="Converts a BigInteger to a hex string (eg." alt="" coords="242,104,303,129"/>
+<area shape="rect" id="node26" href="$classMath__BigInteger.html#a8ff643e3f9ae1face5beee40d816a66e" title="Modulos for Powers of Two." alt="" coords="47,153,113,179"/>
+<area shape="rect" id="node28" href="$classMath__BigInteger.html#a691e0792415f146e478302927b71db25" title="Logical Right Rotate." alt="" coords="5,203,155,228"/>
+<area shape="rect" id="node34" href="$classMath__BigInteger.html#aca922c6f7bcc068784112a8e402a59f7" title="__debugInfo() magic method" alt="" coords="29,55,131,80"/>
+<area shape="rect" id="node35" href="$classMath__BigInteger.html#aaf11785905da71774e052912d784e3b4" title="__sleep() magic method" alt="" coords="45,104,115,129"/>
+<area shape="rect" id="node36" href="$classMath__BigInteger.html#a61513c81f48e7fe1acd92a72fb7020ef" title="Converts a BigInteger to a bit string (eg." alt="" coords="50,5,110,31"/>
+<area shape="rect" id="node38" href="$classMath__BigInteger.html#abe9d4e468a14156ff8c72c9b50489ef5" title="Calculates modular inverses." alt="" coords="403,277,502,303"/>
+</map>

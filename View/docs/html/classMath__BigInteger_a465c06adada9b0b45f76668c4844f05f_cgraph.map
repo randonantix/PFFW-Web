@@ -1,0 +1,10 @@
+<map id="_multiply" name="_multiply">
+<area shape="rect" id="node1" title="Performs multiplication." alt="" coords="5,132,88,157"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#ac5e379cf64a3227f01d0f3dc591b0683" title="Performs Karatsuba multiplication on two BigIntegers." alt="" coords="136,68,229,93"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a76477f8e2f8776056aa2fb0e36bf209d" title="Trim." alt="" coords="629,107,685,132"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#a54d83005fd8be82533338ceeb77fbf7e" title="Performs long multiplication on two BigIntegers." alt="" coords="277,132,405,157"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#ac73ee119572907c1dea2a9527959931f" title="Performs addition." alt="" coords="315,56,368,81"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#a927fb1de927c67f3cb631acab6bee2de" title="Performs subtraction." alt="" coords="468,5,551,31"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a424a23a2d4d86ec9ed41c7b532fc0dd8" title="Compares two numbers." alt="" coords="613,31,700,56"/>
+<area shape="rect" id="node8" href="$classMath__BigInteger.html#a2ef1d563be21155662d4bcae575a9a7e" title="Array Repeat." alt="" coords="453,157,565,183"/>
+</map>

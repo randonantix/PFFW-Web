@@ -1,0 +1,4 @@
+<map id="_revokedCertificate" name="_revokedCertificate">
+<area shape="rect" id="node1" title="Get the index of a revoked certificate." alt="" coords="5,5,153,31"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#a8aecc48efc4e9677b47bd540fc26a089" title="Helper function to build a time field according to RFC 3280 section." alt="" coords="201,5,292,31"/>
+</map>

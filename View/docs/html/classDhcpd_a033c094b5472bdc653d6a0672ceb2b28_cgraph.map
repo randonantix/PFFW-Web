@@ -1,0 +1,5 @@
+<map id="GetOption" name="GetOption">
+<area shape="rect" id="node1" title="Reads the value of the given dhcpd option." alt="" coords="5,31,93,56"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="175,5,241,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a151a013af243c2c1255caf53dffadc9b" title="Searches the given file with the given regex." alt="" coords="141,55,275,80"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Pkill" name="Pkill">
+<area shape="rect" id="node1" title="Kills the given process(es)." alt="" coords="261,80,312,105"/>
+<area shape="rect" id="node2" href="$classSystem.html#a1ffd9dc72330e3a8049e5565d8861ea5" title="Displays datetime from the given time server." alt="" coords="5,5,213,31"/>
+<area shape="rect" id="node3" href="$classSystem.html#a7d00602ba2d2adb8db74ff7712fc1bd4" title="Sets datetime from the given time server." alt="" coords="19,55,199,80"/>
+<area shape="rect" id="node4" href="$classCollectd.html#a0f17de803b9ad897ee1e879e90982bd2" title="Kills collectd with the KILL signal, if the parent Stop() call fails." alt="" coords="55,104,163,129"/>
+<area shape="rect" id="node5" href="$classModel.html#a0f17de803b9ad897ee1e879e90982bd2" title="Stops module process(es)" alt="" coords="84,153,135,179"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PrintHelpBox" name="PrintHelpBox">
+<area shape="rect" id="node1" title="Prints the message in a simple box, without an image." alt="" coords="260,179,367,204"/>
+<area shape="rect" id="node2" href="$classView_1_1__Include.html#a360a99608a477ea81f3324b55b46685d" title=" " alt="" coords="15,5,203,31"/>
+<area shape="rect" id="node3" href="$conf_8basic_8php.html#ab3302a35af4868f1fc1ff6222f796d84" title="Displays a form to change system datetime." alt="" coords="34,55,183,80"/>
+<area shape="rect" id="node4" href="$dhcpd_2conf_8php.html#a2eea294566bdde7cf0a2e80b7b8c6eca" title="Displays a form to change the interface(s) DHCP server distributes IPs from." alt="" coords="19,104,199,129"/>
+<area shape="rect" id="node5" href="$dhcpd_2conf_8php.html#a37e99c4c5d101e3c7cff9650e914f1a3" title="Displays a form to change DHCP server dynamic options." alt="" coords="26,153,191,179"/>
+<area shape="rect" id="node6" href="$dhcpd_2conf_8php.html#a4a6333c62648873c6a94314cda235035" title="Displays a form to change DHCP server IP range." alt="" coords="5,203,212,228"/>
+<area shape="rect" id="node7" href="$conf_8net_8php.html#a617ae963935c14fc2383a1192e78ea7d" title="Displays a list box with hosts file contents." alt="" coords="47,252,170,277"/>
+<area shape="rect" id="node8" href="$lib_2conf_8php.html#a2ece31f37146fc34809ebf4f5a2f19f6" title="Displays an NVP configuration form, usually a textbox and buttons." alt="" coords="53,301,165,327"/>
+<area shape="rect" id="node9" href="$lib_2conf_8php.html#a45dc744c70d3f37f235fa734e4e15fc9" title=" " alt="" coords="23,351,194,376"/>
+</map>

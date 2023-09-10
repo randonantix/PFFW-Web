@@ -1,0 +1,5 @@
+<map id="SetSubmenu" name="SetSubmenu">
+<area shape="rect" id="node1" title="Sets session submenu variable." alt="" coords="5,31,109,56"/>
+<area shape="rect" id="node2" href="$defs_8php.html#a76b8877d5a35c08959e2609908c669b6" title="For classifying gettext strings into files." alt="" coords="173,5,237,31"/>
+<area shape="rect" id="node3" href="$libauth_8php.html#aafa5d84b0ff32cf3d31b8cdfd1c6d769" title="Wrapper for syslog()." alt="" coords="157,55,252,80"/>
+</map>

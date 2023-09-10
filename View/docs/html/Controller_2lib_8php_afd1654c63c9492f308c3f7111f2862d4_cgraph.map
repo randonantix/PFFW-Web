@@ -1,0 +1,7 @@
+<map id="ValidateCommand" name="ValidateCommand">
+<area shape="rect" id="node1" title="Validates command line." alt="" coords="5,81,148,107"/>
+<area shape="rect" id="node2" href="$Controller_2lib_8php.html#a4cb8008bacc088a8c38119169c9cc3a6" title="Computes and fills arg count variables." alt="" coords="196,5,344,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="392,83,484,108"/>
+<area shape="rect" id="node4" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="411,132,465,157"/>
+<area shape="rect" id="node5" href="$Controller_2lib_8php.html#a2934d5622cf3c44660691b4dc45fd695" title="Checks types of the arguments passed." alt="" coords="218,107,322,132"/>
+</map>

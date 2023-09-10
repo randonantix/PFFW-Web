@@ -1,0 +1,804 @@
+# Copyright (C) 2004-2023 Soner Tari, The UTMFW project
+# This file is distributed under the same license as UTMFW.
+# Soner Tari <sonertari@gmail.com>, 2009-2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PFFW 7.3\n"
+"Report-Msgid-Bugs-To: sonertari@gmail.com\n"
+"POT-Creation-Date: 2009-11-11 16:21+0200\n"
+"PO-Revision-Date: 2022-05-05 14:58+0300\n"
+"Last-Translator: Soner Tari <sonertari@gmail.com>\n"
+"Language: tr\n"
+"Language-Team: Turkish <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Gtranslator 3.36.0\n"
+
+msgid "%CPU"
+msgstr "CPU%"
+
+msgid "Add DHCP interface"
+msgstr "DHCP arayüzü ekle"
+
+msgid "Add filter"
+msgstr "Elek ekle"
+
+msgid "Add host"
+msgstr "Bilgisayar ekle"
+
+msgid "Add notifier user"
+msgstr "Uyarı kullanıcısı ekle"
+
+msgid "Age"
+msgstr "Süre"
+
+msgid "Arg type check failed"
+msgstr "Argüman tür kontrolü başarısız oldu"
+
+msgid "Automatic configuration"
+msgstr "Otomatik yapılandırma"
+
+msgid "Bytes"
+msgstr "Bayt"
+
+msgid "Cannot determine the resolution in rrdfetch output"
+msgstr "rrdfetch komutunun çıktısından çözünürlük belirlenemedi"
+
+msgid "Cannot find default route"
+msgstr "Öndeğerli yönlendirme adresi bulunamadı"
+
+msgid "Cannot fork process"
+msgstr "Süreç fork edilemedi"
+
+msgid "Cannot get MFS size"
+msgstr "MFS boyutu alınamadı"
+
+msgid "Cannot get contents of /etc/rc"
+msgstr "/etc/rc içeriği alınamadı"
+
+msgid "Cannot get contents of /etc/sync.var"
+msgstr "/etc/sync.var içeriği alınamadı"
+
+msgid "Cannot get mount MFS"
+msgstr "MFS yükleme ayarı alınamadı"
+
+msgid "Cannot get persistent MFS"
+msgstr "Kalıcı MFS ayarı alınamadı"
+
+msgid "Cannot install rule file"
+msgstr "Kural dosyası kurulamadı"
+
+msgid "Cannot load rules"
+msgstr "Kurallar yüklenemedi"
+
+msgid "Cannot remove tmp file"
+msgstr "Geçici dosya silinemedi"
+
+msgid "Cannot write to tmp file"
+msgstr "Geçici dosyaya yazılamadı"
+
+msgid "Check if process running"
+msgstr "Sürecin çalıştığını kontrol et"
+
+msgid "Cleared"
+msgstr "Temizlenme"
+
+msgid "Compressed"
+msgstr "Sıkıştırılmış"
+
+msgid "Configure an interface"
+msgstr "Arayüzü yapılandır"
+
+msgid "Create user"
+msgstr "Kullanıcı yarat"
+
+msgid "Datetime wrong"
+msgstr "Tarih-saat hatalı"
+
+msgid "Delete DHCP interface"
+msgstr "DHCP arayüzünü sil"
+
+msgid "Delete filter"
+msgstr "Elek sil"
+
+msgid "Delete host"
+msgstr "Bilgisayar sil"
+
+msgid "Delete notifier user"
+msgstr "Uyarı kullanıcısı sil"
+
+msgid "Delete rule file"
+msgstr "Kural dosyasını sil"
+
+msgid "Dest"
+msgstr "Hedef"
+
+msgid "Dir"
+msgstr "Yön"
+
+msgid "Disable config"
+msgstr "Yapılandırmayı kapat"
+
+msgid "Disable notifier"
+msgstr "Uyarıları kapat"
+
+msgid "Disable notifier SSL verify peer"
+msgstr "Uyarı sunucusu SSL doğrulamayı kapat"
+
+msgid "Display remote time"
+msgstr "Uzaktaki zamanı göster"
+
+msgid "Dropped Bytes"
+msgstr "Engellenen Baytlar"
+
+msgid "Dropped Packets"
+msgstr "Engellenen Paketler"
+
+msgid "E-mail address wrong"
+msgstr "E-posta adresi hatalı"
+
+msgid "Enable config"
+msgstr "Yapılandırmayı aç"
+
+msgid "Enable hostap on an interface"
+msgstr "Bir arayüzün hostap modunu aç"
+
+msgid "Enable notifier"
+msgstr "Uyarıları aç"
+
+msgid "Enable notifier SSL verify peer"
+msgstr "Uyarı sunucusu SSL doğrulamayı aç"
+
+msgid "English"
+msgstr "İngilizce"
+
+msgid "Erase statistics files"
+msgstr "İstatistik dosyalarını sil"
+
+msgid "Error in include file"
+msgstr "Eklenen dosyada hata"
+
+msgid "Error loading, rule load forced"
+msgstr "Yüklemede hata, kural hatalara rağmen yüklendi"
+
+msgid "Error loading, rule loaded partially"
+msgstr "Yüklemede hata, kural sorunlu olarak yüklendi"
+
+msgid "Evaluations"
+msgstr "Değerlendirme"
+
+msgid "Expr"
+msgstr "Aşım"
+
+msgid "Failed creating or attaching to message queue"
+msgstr "Mesaj kuyruğu yaratılamadı veya bağlantı başarısız oldu"
+
+msgid "Failed executing rrdfetch"
+msgstr "rrdfetch komutu başarısız oldu"
+
+msgid "Failed loading rules"
+msgstr "Kural yüklemesi başarısız oldu"
+
+msgid "Failed removing message queue"
+msgstr "Mesaj kuyruğunun silinmesi başarısız oldu"
+
+msgid "Failed running pfctl command"
+msgstr "Pfctl komutu başarısız oldu"
+
+msgid "Failed testing rules"
+msgstr "Kuralların testi başarısız oldu"
+
+msgid "Failed validating command line"
+msgstr "Komut satırı doğrulaması başarısız oldu"
+
+msgid "File does not exit"
+msgstr "Dosya mevcut değil"
+
+msgid "File too large, will not process files larger than <SIZE> MB"
+msgstr "Dosya fazla büyük,<SIZE> MB'dan büyük dosyalar işlenmez"
+
+msgid "Filename not accepted"
+msgstr "Dosya adı kabul edilmedi"
+
+msgid "Filepath wrong"
+msgstr "Dosya yolu yanlış"
+
+msgid "Generate SSL key pair"
+msgstr "SSL anahtarını üret"
+
+msgid "Generate rule"
+msgstr "Kural üretimi"
+
+msgid "Generate rules"
+msgstr "Kural listesi üretimi"
+
+msgid "Get DHCP IP range"
+msgstr "DHCP IP aralığını getir"
+
+msgid "Get DHCP interfaces"
+msgstr "DHCP arayüzlerini getir"
+
+msgid "Get DHCP option"
+msgstr "DHCP seçeneğini getir"
+
+msgid "Get MFS config"
+msgstr "MFS ayarlarını getir"
+
+msgid "Get all stats"
+msgstr "Tüm istatistikleri getir"
+
+msgid "Get arp table"
+msgstr "Arp tablosunu getir"
+
+msgid "Get arp table size"
+msgstr "Arp tablosu boyutunu getir"
+
+msgid "Get config values"
+msgstr "Yapılandırma değerlerini getir"
+
+msgid "Get configuration"
+msgstr "Yapılandırmayı getir"
+
+msgid "Get critical errors"
+msgstr "Kritik hataları getir"
+
+msgid "Get datetime"
+msgstr "Tarih-saati getir"
+
+msgid "Get dhcp leases"
+msgstr "Kiralanan DHCP adreslerini getir"
+
+msgid "Get dhcp leases count"
+msgstr "Kiralanan DHCP adres sayısını getir"
+
+msgid "Get ext_if"
+msgstr "ext_if'i getir"
+
+msgid "Get graph"
+msgstr "Grafiği getir"
+
+msgid "Get if config"
+msgstr "Arayüz yapılandırmasını getir"
+
+msgid "Get int_if"
+msgstr "int_if'i getir"
+
+msgid "Get interface DNS forwarder listens on"
+msgstr "DNS ileticinin dinlediği arayüzü getir"
+
+msgid "Get last logs"
+msgstr "Son kayıtları getir"
+
+msgid "Get line count"
+msgstr "Satır sayısını getir"
+
+msgid "Get lines"
+msgstr "Satırları getir"
+
+msgid "Get log file"
+msgstr "Kayıt dosyasını getir"
+
+msgid "Get log files list"
+msgstr "Kayıt dosyası listesini getir"
+
+msgid "Get log start date"
+msgstr "Kayıt başlangıç tarihini getir"
+
+msgid "Get logs configuration"
+msgstr "Kayıt yapılandırmasını getir"
+
+msgid "Get module status"
+msgstr "Modül durumunu getir"
+
+msgid "Get partition list"
+msgstr "Disk bölümü listesini getir"
+
+msgid "Get pf info"
+msgstr "Pf bilgisini getir"
+
+msgid "Get pf interface info"
+msgstr "Pf arayüz bilgisini getir"
+
+msgid "Get pf memory info"
+msgstr "Pf bellek bilgisini getir"
+
+msgid "Get pf queue info"
+msgstr "Pf kuyruk bilgisini getir"
+
+msgid "Get pf rules info"
+msgstr "Pf kural bilgisini getir"
+
+msgid "Get pf state count"
+msgstr "Pf durum sayısını getir"
+
+msgid "Get pf states"
+msgstr "Pf durumlarını getir"
+
+msgid "Get pf timeout info"
+msgstr "Pf zaman aşımı bilgisini getir"
+
+msgid "Get process list"
+msgstr "Süreç listesini getir"
+
+msgid "Get reload rate"
+msgstr "Tekrar yükleme süresini getir"
+
+msgid "Get remote time"
+msgstr "Uzaktaki zamanı getir"
+
+msgid "Get rule files"
+msgstr "Kural dosyalarını getir"
+
+msgid "Get rules"
+msgstr "Kuralları getir"
+
+msgid "Get service start status"
+msgstr "Servis başlatma durumunu getir"
+
+msgid "Get service status"
+msgstr "Servis durumunu getir"
+
+msgid "Get software version"
+msgstr "Yazılım sürümünü getir"
+
+msgid "Get stat lines"
+msgstr "İstatistik satırlarını getir"
+
+msgid "Get stats"
+msgstr "İstatistikleri getir"
+
+msgid "Get sysctl values"
+msgstr "Sysctl değerlerini getir"
+
+msgid "Get system admin e-mail address"
+msgstr "Sistem yöneticisi e-posta adresini getir"
+
+msgid "Get system gateway"
+msgstr "Sistem ağ geçidini getir"
+
+msgid "Get system information"
+msgstr "Sistem bilgisini getir"
+
+msgid "Get tail"
+msgstr "Kuyruğunu getir"
+
+msgid "Host wrong"
+msgstr "Bilgisayar öğesi hatalı"
+
+msgid "Hourly"
+msgstr "Saatlik"
+
+msgid "IP address wrong"
+msgstr "IP adresi hatalı"
+
+msgid "IP or IP list wrong"
+msgstr "IP veya IP listesi hatalı"
+
+msgid "IP range wrong"
+msgstr "IP aralığı hatalı"
+
+msgid "IPv4"
+msgstr "IPv4"
+
+msgid "IPv6"
+msgstr "IPv6"
+
+msgid "In4 Block"
+msgstr "İçeri IP4 Engelleme"
+
+msgid "In4 Pass"
+msgstr "İçeri IP4 Geçirme"
+
+msgid "In6 Block"
+msgstr "İçeri IP6 Engelleme"
+
+msgid "In6 Pass"
+msgstr "İçeri IP6 Geçirme"
+
+msgid "Init graphs"
+msgstr "Grafikleri sıfırla"
+
+msgid "Inserted"
+msgstr "Eklenme"
+
+msgid "Install rules"
+msgstr "Kural kurulumu"
+
+msgid "Interface up or down"
+msgstr "Arayüzü aç veya kapat"
+
+msgid "Invalid inline rules, parser output"
+msgstr "Geçersiz satıriçi kurallar, işleme çıktısı"
+
+msgid "Invalid value"
+msgstr "Geçersiz değer"
+
+msgid "Invalid value for"
+msgstr "Geçersiz değer"
+
+msgid "Is notifier enabled"
+msgstr "Uyarılar açık mı"
+
+msgid "Line"
+msgstr "Satır"
+
+msgid "List hosts"
+msgstr "Bilgisayarları listele"
+
+msgid "List physical interfaces"
+msgstr "Fiziksel arayüzleri listele"
+
+msgid "Load Error"
+msgstr "Yükleme Hatası"
+
+msgid "Make system gateway dynamic"
+msgstr "Sistem ağ geçidini dinamik yap"
+
+msgid "Make system gateway static"
+msgstr "Sistem ağ geçidini sabit yap"
+
+msgid "Method does not exist"
+msgstr "Yöntem bulunamadı"
+
+msgid "Mfs size wrong"
+msgstr "Mfs boyutu hatalı"
+
+msgid "Multiple values not allowed for"
+msgstr "Birden fazla değer kullanılamaz"
+
+msgid "NI"
+msgstr "NI"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "Name wrong"
+msgstr "Ad yanlış"
+
+msgid "No regex or func def for"
+msgstr "Regex veya fonksiyon tanımlanmamış"
+
+msgid "No such file"
+msgstr "Böyle bir dosya yok"
+
+msgid "Not JSON encoded string"
+msgstr "JSON ile kodlanmış bir metin değil"
+
+msgid "Not asterisk"
+msgstr "Asterisk değil"
+
+msgid "Not boolean"
+msgstr "Boolean değir"
+
+msgid "Not config name"
+msgstr "Yapılandırma adı değil"
+
+msgid "Not empty string"
+msgstr "Boş dizi değil"
+
+msgid "Not enough args"
+msgstr "Argüman sayısı yetersiz"
+
+msgid "Not running command"
+msgstr "Komut çalıştırılmadı"
+
+msgid "Not serialized array"
+msgstr "Serileştirilmiş tablo değil"
+
+msgid "Not sha1 encrypted string"
+msgstr "Sha1 ile şifrelenmiş bir metin değil"
+
+msgid "Number"
+msgstr "Sayı"
+
+msgid "Number wrong"
+msgstr "Sayı yanlış"
+
+msgid "Out4 Block"
+msgstr "Dışarı IP4 Engelleme"
+
+msgid "Out4 Pass"
+msgstr "Dışarı IP4 Geçirme"
+
+msgid "Out6 Block"
+msgstr "Dışarı IP6 Engelleme"
+
+msgid "Out6 Pass"
+msgstr "Dışarı IP6 Geçirme"
+
+msgid "Output not in correct format"
+msgstr "Çıktı doğru yapıda değil"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Packets"
+msgstr "Paketler"
+
+msgid "Parse Error"
+msgstr "İşleme Hatası"
+
+msgid "Parse rules"
+msgstr "Kuralları işle"
+
+msgid "Prepare file for download"
+msgstr "Dosyayı indirme için hazırla"
+
+msgid "Proto"
+msgstr "Proto"
+
+msgid "Queue Length"
+msgstr "Kuyruk Boyu"
+
+msgid "RRD file does not exist"
+msgstr "RRD dosya bulunamadı"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Reached max nesting for inline anchors"
+msgstr "Satıriçi çapalar için en fazla içiçe sayıya ulaşıldı"
+
+msgid "Read system gateway"
+msgstr "Sistem ağ geçidini getir"
+
+msgid "Read system hostname"
+msgstr "Sistem adını getir"
+
+msgid "Read system nameserver"
+msgstr "Sistem ad sunucusunu getir"
+
+msgid "Regular expression wrong"
+msgstr "Düzenli ifade hatalı"
+
+msgid "Render layout"
+msgstr "Layout'u üret"
+
+msgid "Requests by date"
+msgstr "Tarihe göre istekler"
+
+msgid "Required element missing"
+msgstr "Gerekli eleman yok"
+
+msgid "Restart network"
+msgstr "Ağı tekrar başlat"
+
+msgid "Rotate all log files"
+msgstr "Bütün kayıt dosyalarını döndür"
+
+msgid "Rotate log file"
+msgstr "Kayıt dosyasını döndür"
+
+msgid "Rule"
+msgstr "Kural"
+
+msgid "Rules"
+msgstr "Kurallar"
+
+msgid "Ruleset contains errors"
+msgstr "Kural listesinde hata var"
+
+msgid "STAT"
+msgstr "DURUM"
+
+msgid "Select log file"
+msgstr "Kayıt dosyası seç"
+
+msgid "Set MFS"
+msgstr "MFS'i ayarla"
+
+msgid "Set MFS size"
+msgstr "MFS boyutunu ayarla"
+
+msgid "Set configuration"
+msgstr "Yapılandırmayı ayarla"
+
+msgid "Set default locale"
+msgstr "Öntanımlı dili ayarla"
+
+msgid "Set dhcpd conf"
+msgstr "dhcpd.conf'u ayarla"
+
+msgid "Set e-mail address"
+msgstr "E-posta adresini ayarla"
+
+msgid "Set force HTTPs"
+msgstr "HTTPs uygulamayı ayarla"
+
+msgid "Set help boxes"
+msgstr "Yardım kutularını ayarla"
+
+msgid "Set interface DNS forwarder listens on"
+msgstr "DNS ileticinin dinlediği arayüzü ayarla"
+
+msgid "Set interfaces"
+msgstr "Arayüzleri ayarla"
+
+msgid "Set internal net"
+msgstr "İç ağı ayarla"
+
+msgid "Set log level"
+msgstr "Kayıt seviyesini ayarla"
+
+msgid "Set logs configuration"
+msgstr "Kayıt yapılandırmasını ayarla"
+
+msgid "Set man.cgi home"
+msgstr "man.cgi adresini ayarla"
+
+msgid "Set max anchor nesting"
+msgstr "En fazla içiçe çapa sayısını ayarla"
+
+msgid "Set max file size to process"
+msgstr "İşlenecek en fazla dosya boyutunu ayarla"
+
+msgid "Set name value pair"
+msgstr "Ad değer çiftini ayarla"
+
+msgid "Set notifier API key"
+msgstr "Uyarı API anahtarını ayarla"
+
+msgid "Set notifier host"
+msgstr "Uyarı sunucuyu ayarla"
+
+msgid "Set notifier timeout"
+msgstr "Uyarı zaman aşımını ayarla"
+
+msgid "Set notify level"
+msgstr "Uyarı seviyesini ayarla"
+
+msgid "Set pfctl timeout"
+msgstr "Pfctl zaman aşımını ayarla"
+
+msgid "Set reload rate"
+msgstr "Tekrar yükleme sıklığını ayarla"
+
+msgid "Set remote time"
+msgstr "Uzak zamanı ayarla"
+
+msgid "Set session timeout"
+msgstr "Oturum zaman aşımını ayarla"
+
+msgid "Set status check interval"
+msgstr "Durum kontrol aralığını ayarla"
+
+msgid "Set symon conf"
+msgstr "Symon yapılandırmasını ayarla"
+
+msgid "Set symon cpus"
+msgstr "Symon işlemcilerini ayarla"
+
+msgid "Set symon ifs"
+msgstr "Symon arayüzlerini ayarla"
+
+msgid "Set symon partitions"
+msgstr "Symon disk bölümlerini ayarla"
+
+msgid "Set symon sensors"
+msgstr "Symon sensörlerini ayarla"
+
+msgid "Set sync MFS"
+msgstr "MFS kaydetmeyi ayarla"
+
+msgid "Set system clock"
+msgstr "Sistem saatini ayarla"
+
+msgid "Set system gateway"
+msgstr "Sistem ağ geçidini ayarla"
+
+msgid "Set system hostname"
+msgstr "Sistem adını ayarla"
+
+msgid "Set system nameserver"
+msgstr "Sistem ad sunucusunu ayarla"
+
+msgid "Set use SSH"
+msgstr "SSH kullanımını ayarla"
+
+msgid "Set user password"
+msgstr "Kullanıcı parolasını ayarla"
+
+msgid "Source"
+msgstr "Kaynak"
+
+msgid "Start "
+msgstr "Başlangıç"
+
+msgid "State"
+msgstr "Durum"
+
+msgid "State Creations"
+msgstr "Yaratılan Durum"
+
+msgid "States"
+msgstr "Durumlar"
+
+msgid "Stop "
+msgstr "Durdur"
+
+msgid "String wrong"
+msgstr "Dizi hatalı"
+
+msgid "System has no gateway"
+msgstr "Sistemin ağ geçidi yok"
+
+msgid "System is starting up..."
+msgstr "Sistem başlıyor..."
+
+msgid "System restart"
+msgstr "Sistem tekrar başlatma"
+
+msgid "System shutdown"
+msgstr "Sistem kapatma"
+
+msgid "Tail number wrong"
+msgstr "Kuyruk sayısı yanlış"
+
+msgid "Test rules"
+msgstr "Kuralları test et"
+
+msgid "The process is taking too long, thus will run in the background."
+msgstr "Sürecin işlemesi uzun zaman aldığından arka planda çalıştırılacaktır."
+
+msgid "Timed out running command"
+msgstr "Komut zaman aşımına uğradı"
+
+msgid "Too many args"
+msgstr "Argüman sayısı fazla"
+
+msgid "Turkish"
+msgstr "Türkçe"
+
+msgid "Turn off service"
+msgstr "Servisleri kapat"
+
+msgid "Turn on service"
+msgstr "Servisleri aç"
+
+msgid "Unconfigure an interface"
+msgstr "Arayüzünün yapılandırmasını kaldır"
+
+msgid "Unexpected elements"
+msgstr "Beklenmeyen elemanlar"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "Unsupported command"
+msgstr "Desteklenmeyen komut"
+
+msgid "Unsupported interface configuration"
+msgstr "Desteklenmeyen arayüz yapılandırması"
+
+msgid "Update mail aliases"
+msgstr "Posta adresi adlarını güncelle"
+
+msgid "Url wrong"
+msgstr "Url hatalı"
+
+msgid "VSZ"
+msgstr "VSZ"
+
+msgid "Validation Error"
+msgstr "Doğrulama Hatası"
+
+msgid "View not in Models"
+msgstr "View Modeller arasında bulunamadı"
+
+msgid "Will not load rules with errors"
+msgstr "Hatalı kurallar yüklenmez"
+
+msgid "Will not test rules with errors"
+msgstr "Hatalı kurallar test edilmez"
+
+msgid "running"
+msgstr "çalışıyor"
+
+msgid "stopped"
+msgstr "durdu"
+
+msgid "unconfigured"
+msgstr "yapılandırılmamış"

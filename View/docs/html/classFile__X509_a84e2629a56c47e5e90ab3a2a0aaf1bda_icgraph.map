@@ -1,0 +1,6 @@
+<map id="_fetchURL" name="_fetchURL">
+<area shape="rect" id="node1" title="Fetches a URL." alt="" coords="656,5,744,31"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#acc2e876f81f33f786d44175e43f96727" title="Validates an intermediate cert as identified via authority info access extension." alt="" coords="449,5,608,31"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#a96ee8b07aceb37a5d949447f7349bf12" title="Validate a signature." alt="" coords="191,5,401,31"/>
+<area shape="rect" id="node4" href="$classFile__X509.html#a63e18ebfa877fefabf86d16e0e2ceeaa" title="Validate a signature." alt="" coords="5,5,143,31"/>
+</map>

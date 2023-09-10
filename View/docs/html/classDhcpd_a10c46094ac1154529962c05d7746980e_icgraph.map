@@ -1,0 +1,5 @@
+<map id="SetOption" name="SetOption">
+<area shape="rect" id="node1" title="Sets the value of the given dhcpd option." alt="" coords="309,5,396,31"/>
+<area shape="rect" id="node2" href="$classDhcpd.html#ab6cf9d91b80a332efa987969bbf2dfa4" title="Sets dhcpd configuration." alt="" coords="168,5,261,31"/>
+<area shape="rect" id="node3" href="$classDhcpd.html#a04b594220b8e02597d5e871a4f71a874" title="Sets dhcpd configuration." alt="" coords="5,5,120,31"/>
+</map>

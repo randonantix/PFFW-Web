@@ -1,0 +1,5 @@
+<map id="GetName" name="GetName">
+<area shape="rect" id="node1" title="Checks if Name exists." alt="" coords="312,5,396,31"/>
+<area shape="rect" id="node2" href="$classModel.html#ae81727132988d14931750ce5e1c88bd7" title="Returns all enabled configuration for a given configuration type." alt="" coords="183,5,264,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a7b5bd25430f02d1925323e19f2861a9e" title="Gets all configuration for a given configuration type." alt="" coords="5,5,135,31"/>
+</map>

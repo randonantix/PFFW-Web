@@ -1,0 +1,7 @@
+<map id="_divide_digit" name="_divide_digit">
+<area shape="rect" id="node1" title="Divides a BigInteger by a regular integer." alt="" coords="368,29,473,55"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a8add84dc5ddc37795390f87b36fdc6a8" title="Divides two BigIntegers." alt="" coords="257,55,320,80"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a7a8ccdcad32569732a8e0208c7af1e16" title="Checks a numer to see if it&#39;s prime." alt="" coords="135,5,205,31"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a585f1acf1b4a45c360281c6cffd0e9be" title="Performs modular exponentiation." alt="" coords="131,55,209,80"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#a488e7039c9a9dc54408413b241c0c400" title="Performs modular exponentiation." alt="" coords="5,55,83,80"/>
+</map>

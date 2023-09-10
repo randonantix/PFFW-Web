@@ -1,0 +1,9 @@
+<map id="SetConf" name="SetConf">
+<area shape="rect" id="node1" title="Sets interface names in the symon and symux config files." alt="" coords="5,80,79,105"/>
+<area shape="rect" id="node2" href="$classModel.html#a941c3c7c9570b1a241f58024b3cc7963" title="Returns all partitions mounted." alt="" coords="341,5,496,31"/>
+<area shape="rect" id="node4" href="$classModel.html#a5e24130261dd255285454c45adc570eb" title=" " alt="" coords="351,55,486,80"/>
+<area shape="rect" id="node5" href="$classModel.html#ad150b90d723746fef93c906fb8548a9e" title="Finds sysctl temp and fan sensors." alt="" coords="140,105,280,131"/>
+<area shape="rect" id="node6" href="$classModel.html#aa97184370ce56f1abd12ae18ddbf2c40" title="Searches a needle and replaces with a value in the given file." alt="" coords="127,155,293,180"/>
+<area shape="rect" id="node3" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="544,31,735,56"/>
+<area shape="rect" id="node7" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="373,155,465,180"/>
+</map>

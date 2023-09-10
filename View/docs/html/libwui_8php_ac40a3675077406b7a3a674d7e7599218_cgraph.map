@@ -1,0 +1,13 @@
+<map id="PrintGraphNVPSet" name="PrintGraphNVPSet">
+<area shape="rect" id="node1" title="Main function that prints both the graph and the NVPs below it." alt="" coords="5,104,144,129"/>
+<area shape="rect" id="node2" href="$libwui_8php.html#a829cfc84d44a63a264036c5becbde397" title="Divides array values by a divisor." alt="" coords="203,5,333,31"/>
+<area shape="rect" id="node3" href="$libwui_8php.html#a2ec50ba580aae5f465228a01981e6d7c" title="Fills graph data struct based on dates." alt="" coords="193,55,343,80"/>
+<area shape="rect" id="node5" href="$libwui_8php.html#a17e74286c4c680d265172bbec94a3bbe" title="Fills graph data struct based on a given range according to date." alt="" coords="192,104,344,129"/>
+<area shape="rect" id="node7" href="$libwui_8php.html#a1fa384aebb5cba44b1986f30e53bd12e" title="Sums up count fields of data arrays." alt="" coords="231,153,305,179"/>
+<area shape="rect" id="node11" href="$libwui_8php.html#a6d4c1e9983abb0c2314dff0b6cca6b28" title="Prints NVP statistics." alt="" coords="225,203,311,228"/>
+<area shape="rect" id="node4" href="$libwui_8php.html#ab0ee619103324af991f8cbcf7b173318" title=" " alt="" coords="392,55,505,80"/>
+<area shape="rect" id="node6" href="$libwui_8php.html#ab8cce844edfbd9a6026c6af7d78f0f69" title="Fills graph data struct based on a given range." alt="" coords="393,104,504,129"/>
+<area shape="rect" id="node8" href="$libwui_8php.html#a954268445f4f24fc41f8f0d51ef62c51" title="Sums up count fields of data arrays." alt="" coords="401,153,497,179"/>
+<area shape="rect" id="node9" href="$libwui_8php.html#aa174f78096158e6e3f4b410009feba95" title="Adds statistics values to the given data set." alt="" coords="553,153,636,179"/>
+<area shape="rect" id="node10" href="$lib_2lib_8php.html#ad33cadb8e288ea78e94fd94045f91e09" title=" " alt="" coords="684,153,835,179"/>
+</map>

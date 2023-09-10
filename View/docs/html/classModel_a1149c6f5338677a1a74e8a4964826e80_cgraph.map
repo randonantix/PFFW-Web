@@ -1,0 +1,7 @@
+<map id="GetSavedStats" name="GetSavedStats">
+<area shape="rect" id="node1" title="Gets saved statistics for the given log file." alt="" coords="5,55,124,80"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="196,5,288,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="208,55,276,80"/>
+<area shape="rect" id="node4" href="$classModel.html#ae24c34977ae6864272b678fe40fdb09a" title="Gets name of the tmp statistics file for the given log file." alt="" coords="172,104,312,129"/>
+<area shape="rect" id="node5" href="$classModel.html#adf44e19a68f4a6be9289e2e39a5698f7" title="Gets the original file name for the given log file." alt="" coords="360,104,495,129"/>
+</map>

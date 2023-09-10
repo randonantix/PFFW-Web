@@ -1,0 +1,4 @@
+<map id="GetFiles" name="GetFiles">
+<area shape="rect" id="node1" title="Returns files with the given filepath pattern." alt="" coords="175,5,249,31"/>
+<area shape="rect" id="node2" href="$classModel.html#aed5ee3c735f862c4d99761b379f31729" title="Gets log files list with start dates." alt="" coords="5,5,127,31"/>
+</map>

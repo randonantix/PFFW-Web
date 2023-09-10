@@ -1,0 +1,34 @@
+<map id="ReplaceRegexp" name="ReplaceRegexp">
+<area shape="rect" id="node1" title="Searches a needle and replaces with a value in the given file." alt="" coords="703,580,825,605"/>
+<area shape="rect" id="node2" href="$classSystem.html#a3a530bfd8a776d55344d8122cab77469" title="Deletes host line from hosts file." alt="" coords="480,5,607,31"/>
+<area shape="rect" id="node4" href="$classModel.html#a997af94797f7368e6f273a6f9f63d8a8" title="Disables a Name." alt="" coords="488,153,599,179"/>
+<area shape="rect" id="node6" href="$classSystem.html#a9ab68d76ae284801fab86bc79307f163" title=" " alt="" coords="457,104,629,129"/>
+<area shape="rect" id="node7" href="$classModel.html#a05257350a817e0a8da3dfaa868c623b1" title="Disables an NVP." alt="" coords="494,55,593,80"/>
+<area shape="rect" id="node8" href="$classSystem.html#a4e594b13d3033b5cbc33d058e7601c2d" title="Turn off (disable) service startup in rc.conf.local." alt="" coords="434,253,653,293"/>
+<area shape="rect" id="node10" href="$classSystem.html#a8e8c70ccebed0fc6e5a96402f33b002a" title="Turn off (disable) service startup in rc.local." alt="" coords="432,203,655,228"/>
+<area shape="rect" id="node11" href="$classModel.html#a65410624e4cac2f3429147c621873382" title="Enables a Name: configuration item without value." alt="" coords="491,416,596,441"/>
+<area shape="rect" id="node13" href="$classSystem.html#a35859a78a5736fe2821b4531775d4443" title=" " alt="" coords="460,367,627,392"/>
+<area shape="rect" id="node14" href="$classModel.html#af8a29b93534e66eb054051710d774895" title="Enables an NVP configuration item with value." alt="" coords="497,317,590,343"/>
+<area shape="rect" id="node15" href="$classSystem.html#a35dbaab405c8a07cba37b4a253b4bade" title="Turn on (enable) service startup in rc.conf.local." alt="" coords="437,515,650,555"/>
+<area shape="rect" id="node17" href="$classSystem.html#a93af2ff9e1a06c35ad0870f6ff51cd3e" title="Turn on (enable) service startup in rc.local." alt="" coords="435,465,652,491"/>
+<area shape="rect" id="node18" href="$classSymon.html#a7cfa59b60de90b66fac33786564689da" title="Sets interface names in the symon and symux config files." alt="" coords="482,580,605,605"/>
+<area shape="rect" id="node19" href="$classSymon.html#a8c586413d2b45bcb21c3ef170e641e69" title=" " alt="" coords="481,629,605,655"/>
+<area shape="rect" id="node20" href="$classDhcpd.html#a04b594220b8e02597d5e871a4f71a874" title="Sets dhcpd configuration." alt="" coords="5,828,164,853"/>
+<area shape="rect" id="node21" href="$classDhcpd.html#a1a87501d4bbc360e41b6ae3487fea361" title="Sets dhcpd interfaces." alt="" coords="491,1027,595,1052"/>
+<area shape="rect" id="node24" href="$classSymon.html#a8a838a5a93147d20d19f2f4c44a16b23" title="Sets interface names in the layout files." alt="" coords="489,777,597,803"/>
+<area shape="rect" id="node25" href="$classSystem.html#af02c4260858b31c97d512b72b68e3fc9" title="Set int_net." alt="" coords="451,827,635,852"/>
+<area shape="rect" id="node26" href="$classSystem.html#ae4217fec0664943b8bec39928f5a66c8" title="Changes nameserver." alt="" coords="455,876,632,901"/>
+<area shape="rect" id="node27" href="$classDhcpd.html#a10c46094ac1154529962c05d7746980e" title="Sets the value of the given dhcpd option." alt="" coords="478,728,609,753"/>
+<area shape="rect" id="node29" href="$classSymon.html#a0e98d8a401fc7d293c027316be99f6b8" title=" " alt="" coords="467,977,620,1003"/>
+<area shape="rect" id="node30" href="$classDhcpd.html#a1b56e203683177fd18806ee4dfd4cecc" title="Sets dhcpd range option." alt="" coords="479,679,608,704"/>
+<area shape="rect" id="node31" href="$classSystem.html#a01c46f6f48d8aec5c8ed6fa98183798c" title="Changes root e&#45;mail address." alt="" coords="462,1076,625,1101"/>
+<area shape="rect" id="node32" href="$classSymon.html#a50f7fad3eb7f171ae72bcafa7c8a2275" title=" " alt="" coords="472,1125,615,1151"/>
+<area shape="rect" id="node3" href="$classSystem.html#ae71ff078bde201e683fe532347febfd7" title="Adds host line to hosts file." alt="" coords="233,5,363,31"/>
+<area shape="rect" id="node5" href="$classModel.html#a45811aad99c24bbd1afd2c51d6aaac37" title="Disables a configuration item in conf file." alt="" coords="247,104,349,129"/>
+<area shape="rect" id="node9" href="$classSystem.html#aa1fde596bca2fbb737d9818321b55e91" title="Turn off (disable) service startup." alt="" coords="212,232,384,257"/>
+<area shape="rect" id="node12" href="$classModel.html#a6abe8763d4525946e15e0d9784d500b8" title="Enables a configuration item in conf file." alt="" coords="250,367,346,392"/>
+<area shape="rect" id="node16" href="$classSystem.html#ad3a8a9f79ad33c163c269244d66b356a" title="Turn on (enable) service startup." alt="" coords="215,495,381,520"/>
+<area shape="rect" id="node22" href="$classDhcpd.html#a8e88b2ac10b789e5aaa32dfbc7a8cccc" title="Adds a dhcpd interface to listen." alt="" coords="34,1027,135,1052"/>
+<area shape="rect" id="node23" href="$classDhcpd.html#a86bbfb98cd42d2a36891000beff08549" title="Deletes a dhcpd interface to listen." alt="" coords="249,1001,347,1027"/>
+<area shape="rect" id="node28" href="$classDhcpd.html#ab6cf9d91b80a332efa987969bbf2dfa4" title="Sets dhcpd configuration." alt="" coords="229,728,367,753"/>
+</map>

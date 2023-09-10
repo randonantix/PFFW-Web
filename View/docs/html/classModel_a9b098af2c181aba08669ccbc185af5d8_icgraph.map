@@ -1,0 +1,52 @@
+<map id="RunShellCommand" name="RunShellCommand">
+<area shape="rect" id="node1" title="Runs the given shell command and returns its output as string." alt="" coords="687,871,833,896"/>
+<area shape="rect" id="node2" href="$classDhcpd.html#a107dc08748424350811474f49f7558cf" title=" " alt="" coords="464,29,615,55"/>
+<area shape="rect" id="node5" href="$classModel.html#aec3d644e69b54bae382fe3aa894c0879" title=" " alt="" coords="470,476,609,501"/>
+<area shape="rect" id="node9" href="$classOpenssh.html#aec3d644e69b54bae382fe3aa894c0879" title=" " alt="" coords="440,131,639,156"/>
+<area shape="rect" id="node10" href="$classPf.html#aec3d644e69b54bae382fe3aa894c0879" title=" " alt="" coords="462,180,617,205"/>
+<area shape="rect" id="node11" href="$classSystem.html#a8f266bbe68428102e21654d0ce0ad832" title=" " alt="" coords="463,229,616,255"/>
+<area shape="rect" id="node14" href="$classOpenssh.html#a80a9c7ffc5b622913366185669db13f8" title="Gets logs for live logs pages, the actual method." alt="" coords="456,279,623,304"/>
+<area shape="rect" id="node15" href="$classPf.html#a80a9c7ffc5b622913366185669db13f8" title="Gets logs for live logs pages, the actual method." alt="" coords="477,328,601,353"/>
+<area shape="rect" id="node16" href="$classSystem.html#a65ffe7950ba3a608bd8839a16ab88fe5" title=" " alt="" coords="451,377,627,403"/>
+<area shape="rect" id="node17" href="$classModel.html#a941c3c7c9570b1a241f58024b3cc7963" title="Returns all partitions mounted." alt="" coords="484,624,595,649"/>
+<area shape="rect" id="node20" href="$classSystem.html#a941c3c7c9570b1a241f58024b3cc7963" title="Returns all partitions mounted." alt="" coords="457,575,621,600"/>
+<area shape="rect" id="node22" href="$classModel.html#a917be6afd7db6dec41becb528b1690d5" title=" " alt="" coords="494,427,585,452"/>
+<area shape="rect" id="node24" href="$classPf.html#affff9e51fb2f2d1b6902cd781cfc4d33" title=" " alt="" coords="470,673,609,699"/>
+<area shape="rect" id="node27" href="$classModel.html#a5e24130261dd255285454c45adc570eb" title=" " alt="" coords="494,969,585,995"/>
+<area shape="rect" id="node29" href="$classSystem.html#a1ffd9dc72330e3a8049e5565d8861ea5" title="Displays datetime from the given time server." alt="" coords="180,1169,388,1195"/>
+<area shape="rect" id="node30" href="$classModel.html#ad8f9b01c41c50fcef015cc5444236024" title="Gets first line of file." alt="" coords="478,723,601,748"/>
+<area shape="rect" id="node31" href="$classModel.html#aa4ee9332ba73886bc02ffb1903a050ba" title="Returns files with the given filepath pattern." alt="" coords="502,772,577,797"/>
+<area shape="rect" id="node32" href="$classOpenssh.html#a3cd1d5510b23ec577d9d124f9e05a449" title="Gets lines in log file." alt="" coords="472,821,607,847"/>
+<area shape="rect" id="node33" href="$classPf.html#a3cd1d5510b23ec577d9d124f9e05a449" title="Gets lines in log file." alt="" coords="493,871,585,896"/>
+<area shape="rect" id="node34" href="$classModel.html#a392e2975b79f55e83ed15c7c6ed8725c" title="Collects text statistics for the proc stats general page." alt="" coords="473,920,606,945"/>
+<area shape="rect" id="node35" href="$classModel.html#a2ef1e4c1d1fadd3c6696a101cd2aa7e5" title="Gets previous line count and stat() from statistics file." alt="" coords="476,525,603,551"/>
+<area shape="rect" id="node36" href="$classModel.html#ad26e67d9a70c2182a67b939ae61b6d01" title="Builds generic grep command and extracts log lines." alt="" coords="217,129,351,155"/>
+<area shape="rect" id="node37" href="$classSystem.html#a8dd6fe957cf137b1ac7fba58dfc19d2b" title="Gets system information." alt="" coords="453,1071,625,1096"/>
+<area shape="rect" id="node38" href="$classCollectd.html#ac9a300b28f440e32170130534117802e" title="Gets software version string." alt="" coords="464,1120,615,1145"/>
+<area shape="rect" id="node39" href="$classDnsmasq.html#ac9a300b28f440e32170130534117802e" title="Gets software version string." alt="" coords="460,1169,619,1195"/>
+<area shape="rect" id="node40" href="$classHttpd.html#ac9a300b28f440e32170130534117802e" title="Gets software version string." alt="" coords="473,1219,606,1244"/>
+<area shape="rect" id="node41" href="$classModel.html#ac9a300b28f440e32170130534117802e" title="Gets software version string." alt="" coords="493,1268,586,1293"/>
+<area shape="rect" id="node42" href="$classModel.html#a93da2b4fba63c0813e0210b9d61b5ede" title="Checks if the pid is running." alt="" coords="462,1569,617,1595"/>
+<area shape="rect" id="node43" href="$classModel.html#a68390acfc08f9138f4ec2fcc1e18ef7e" title="Kills process with the given pid." alt="" coords="253,1544,315,1569"/>
+<area shape="rect" id="node44" href="$classPf.html#a73fbf3721e73a688382663bf84e1e428" title="Checks if pf is enabled or not." alt="" coords="488,1419,591,1444"/>
+<area shape="rect" id="node45" href="$classModel.html#aeb3147c61c1c08d30c6b360ba839b213" title="Stops module&#39;s parent process with its pid." alt="" coords="518,1468,561,1493"/>
+<area shape="rect" id="node46" href="$classModel.html#a4a41a34d3378ee890958973fce464aa8" title="Kills the given process(es)." alt="" coords="514,1317,565,1343"/>
+<area shape="rect" id="node47" href="$classSystem.html#a7d00602ba2d2adb8db74ff7712fc1bd4" title="Sets datetime from the given time server." alt="" coords="194,1343,374,1368"/>
+<area shape="rect" id="node48" href="$classSystem.html#a07c2efd2b813bc974c545fcf33783926" title="Restarts the system." alt="" coords="478,1619,601,1644"/>
+<area shape="rect" id="node49" href="$classSystem.html#a7a28685b91bcce6b83b26e8d89ea3dee" title="Halts and powers the system down." alt="" coords="470,1668,609,1693"/>
+<area shape="rect" id="node50" href="$classSystem.html#a63fe9a960016cbab10ae7db33026de7c" title="Updates mail aliases." alt="" coords="441,1717,638,1743"/>
+<area shape="rect" id="node3" href="$classDhcpd.html#a2098bc3392b8cf60eeacce3c674a3983" title=" " alt="" coords="176,55,392,80"/>
+<area shape="rect" id="node4" href="$classDhcpd.html#a877ec4d441366844660c27babee71d1a" title="Gets arp table." alt="" coords="211,5,357,31"/>
+<area shape="rect" id="node6" href="$classModel.html#ab1e8cbbabce3210438cebad028f153d7" title="Gets the number of lines added to log files since last tmp file update." alt="" coords="214,525,354,551"/>
+<area shape="rect" id="node7" href="$classModel.html#a4b2587fd477dfc21d60f1185c624521c" title="Updates statistics incrementally, both brief and full." alt="" coords="15,475,118,500"/>
+<area shape="rect" id="node8" href="$classModel.html#aeea778b449fceb9e5e77cc98440ac4bd" title="Gets line count of the given log file." alt="" coords="217,424,351,449"/>
+<area shape="rect" id="node12" href="$classSystem.html#a6baa62a81a32e122dde71ac97c46fe9a" title="Reads hostname, gateway, and interface configuration." alt="" coords="215,301,353,327"/>
+<area shape="rect" id="node13" href="$classSystem.html#a3303bbb179d383a51f6981bcf65372a8" title="Reads interface configuration." alt="" coords="210,229,358,255"/>
+<area shape="rect" id="node18" href="$classSymon.html#a7cfa59b60de90b66fac33786564689da" title="Sets interface names in the symon and symux config files." alt="" coords="5,919,128,944"/>
+<area shape="rect" id="node19" href="$classSymon.html#a0e98d8a401fc7d293c027316be99f6b8" title=" " alt="" coords="207,624,361,649"/>
+<area shape="rect" id="node21" href="$classSystem.html#a272de03ad0df8fd45a52b3297cff7aff" title="Gets partition list." alt="" coords="205,575,363,600"/>
+<area shape="rect" id="node23" href="$classModel.html#aa7dc2e292df1ab234a44e9e2a5b170b0" title="Extracts physical interface names from ifconfig output." alt="" coords="241,375,327,400"/>
+<area shape="rect" id="node25" href="$classPf.html#a65ffe7950ba3a608bd8839a16ab88fe5" title=" " alt="" coords="214,775,354,800"/>
+<area shape="rect" id="node26" href="$classPf.html#ac714c065acd4348f73a48b6fb9d9c9dc" title="Gets pf state count." alt="" coords="217,725,351,751"/>
+<area shape="rect" id="node28" href="$classModel.html#ad150b90d723746fef93c906fb8548a9e" title="Finds sysctl temp and fan sensors." alt="" coords="236,969,332,995"/>
+</map>

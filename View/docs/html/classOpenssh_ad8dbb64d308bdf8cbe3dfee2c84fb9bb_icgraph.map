@@ -1,0 +1,5 @@
+<map id="ParseLogLine" name="ParseLogLine">
+<area shape="rect" id="node1" title="Parses the given log line." alt="" coords="160,31,267,56"/>
+<area shape="rect" id="node2" href="$classOpenssh.html#a80a9c7ffc5b622913366185669db13f8" title="Gets logs for live logs pages, the actual method." alt="" coords="5,5,112,31"/>
+<area shape="rect" id="node3" href="$classOpenssh.html#a3cd1d5510b23ec577d9d124f9e05a449" title="Gets lines in log file." alt="" coords="21,55,96,80"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GetConfFile" name="GetConfFile">
+<area shape="rect" id="node1" title="Returns configuration file of the module." alt="" coords="369,104,468,129"/>
+<area shape="rect" id="node2" href="$classModel.html#a45811aad99c24bbd1afd2c51d6aaac37" title="Disables a configuration item in conf file." alt="" coords="201,5,303,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a6abe8763d4525946e15e0d9784d500b8" title="Enables a configuration item in conf file." alt="" coords="204,55,300,80"/>
+<area shape="rect" id="node4" href="$classModel.html#a9aefd70a0fc1481512f149df7a0376aa" title="Returns all disabled configuration for a given configuration type." alt="" coords="183,104,321,129"/>
+<area shape="rect" id="node6" href="$classModel.html#ae81727132988d14931750ce5e1c88bd7" title="Returns all enabled configuration for a given configuration type." alt="" coords="211,153,293,179"/>
+<area shape="rect" id="node7" href="$classModel.html#a4c5f8b05e5cbfffe696da52ce05f066a" title="Sets the value of NVP configuration." alt="" coords="197,203,307,228"/>
+<area shape="rect" id="node5" href="$classModel.html#a7b5bd25430f02d1925323e19f2861a9e" title="Gets all configuration for a given configuration type." alt="" coords="5,129,135,155"/>
+</map>

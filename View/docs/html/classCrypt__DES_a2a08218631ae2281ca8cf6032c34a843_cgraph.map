@@ -1,0 +1,4 @@
+<map id="_decryptBlock" name="_decryptBlock">
+<area shape="rect" id="node1" title="Decrypts a block." alt="" coords="5,5,120,31"/>
+<area shape="rect" id="node2" href="$classCrypt__DES.html#a996116abe710911897b70b258ff3d0b7" title="Encrypts or decrypts a 64&#45;bit block." alt="" coords="168,5,283,31"/>
+</map>

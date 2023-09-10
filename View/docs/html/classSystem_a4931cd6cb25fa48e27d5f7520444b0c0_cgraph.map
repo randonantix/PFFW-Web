@@ -1,0 +1,5 @@
+<map id="GetServiceStatRcLocal" name="GetServiceStatRcLocal">
+<area shape="rect" id="node1" title="Gets service startup status in rc.local." alt="" coords="5,31,175,56"/>
+<area shape="rect" id="node2" href="$lib_2lib_8php.html#a998c26d78939d233b87794689e841eb9" title="Escapes chars." alt="" coords="255,5,323,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a151a013af243c2c1255caf53dffadc9b" title="Searches the given file with the given regex." alt="" coords="223,55,356,80"/>
+</map>

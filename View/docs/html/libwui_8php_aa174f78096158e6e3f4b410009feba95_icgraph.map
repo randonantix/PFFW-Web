@@ -1,0 +1,6 @@
+<map id="SumData" name="SumData">
+<area shape="rect" id="node1" title="Adds statistics values to the given data set." alt="" coords="459,5,541,31"/>
+<area shape="rect" id="node2" href="$libwui_8php.html#a954268445f4f24fc41f8f0d51ef62c51" title="Sums up count fields of data arrays." alt="" coords="315,5,411,31"/>
+<area shape="rect" id="node3" href="$libwui_8php.html#a1fa384aebb5cba44b1986f30e53bd12e" title="Sums up count fields of data arrays." alt="" coords="192,5,267,31"/>
+<area shape="rect" id="node4" href="$libwui_8php.html#ac40a3675077406b7a3a674d7e7599218" title="Main function that prints both the graph and the NVPs below it." alt="" coords="5,5,144,31"/>
+</map>

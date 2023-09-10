@@ -1,0 +1,5 @@
+<map id="DaemonizeFunc" name="DaemonizeFunc">
+<area shape="rect" id="node1" title="Daemonizes to run the given function." alt="" coords="188,31,315,56"/>
+<area shape="rect" id="node2" href="$classSystem.html#a24d4b7ae170ad5b1a262bacdb1bc3eda" title="Calls forked full rotation function." alt="" coords="5,5,140,31"/>
+<area shape="rect" id="node3" href="$classSystem.html#a17ac247aba32daee3dd2abb954b6c1f0" title="Calls forked rotation function." alt="" coords="17,55,128,80"/>
+</map>

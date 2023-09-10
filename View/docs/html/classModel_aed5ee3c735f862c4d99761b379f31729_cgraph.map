@@ -1,0 +1,16 @@
+<map id="GetLogFilesList" name="GetLogFilesList">
+<area shape="rect" id="node1" title="Gets log files list with start dates." alt="" coords="5,107,127,132"/>
+<area shape="rect" id="node2" href="$classModel.html#aab423e07962bdc1319b01c6d7c679f0f" title=" " alt="" coords="175,107,309,132"/>
+<area shape="rect" id="node13" href="$classModel.html#aa4ee9332ba73886bc02ffb1903a050ba" title="Returns files with the given filepath pattern." alt="" coords="590,5,665,31"/>
+<area shape="rect" id="node14" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="209,156,275,181"/>
+<area shape="rect" id="node3" href="$classModel.html#ad8f9b01c41c50fcef015cc5444236024" title="Gets first line of file." alt="" coords="566,105,689,131"/>
+<area shape="rect" id="node5" href="$classModel.html#a7ece271b0ef8636736f58b3b75268931" title="Gets the name of the file in the tmp folder." alt="" coords="357,157,516,183"/>
+<area shape="rect" id="node6" href="$classModel.html#adef576154f41b9e06cbf28bb1a4f74b8" title="Checks if the given log file has been updated." alt="" coords="369,207,504,232"/>
+<area shape="rect" id="node11" href="$classModel.html#ad8dbb64d308bdf8cbe3dfee2c84fb9bb" title="Parses the given log line." alt="" coords="383,56,490,81"/>
+<area shape="rect" id="node4" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="739,105,885,131"/>
+<area shape="rect" id="node7" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="766,180,858,205"/>
+<area shape="rect" id="node8" href="$classModel.html#adf44e19a68f4a6be9289e2e39a5698f7" title="Gets the original file name for the given log file." alt="" coords="933,281,1068,307"/>
+<area shape="rect" id="node9" href="$classModel.html#a2ef1e4c1d1fadd3c6696a101cd2aa7e5" title="Gets previous line count and stat() from statistics file." alt="" coords="564,155,691,180"/>
+<area shape="rect" id="node10" href="$classModel.html#ae24c34977ae6864272b678fe40fdb09a" title="Gets name of the tmp statistics file for the given log file." alt="" coords="742,256,882,281"/>
+<area shape="rect" id="node12" href="$classModel.html#af4eb638f282def52a768efc7dbcbc698" title="Parses standard syslog line." alt="" coords="564,56,691,81"/>
+</map>

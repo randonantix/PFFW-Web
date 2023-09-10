@@ -1,0 +1,5 @@
+<map id="SetOption" name="SetOption">
+<area shape="rect" id="node1" title="Sets the value of the given dhcpd option." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="node2" href="$classModel.html#aa97184370ce56f1abd12ae18ddbf2c40" title="Searches a needle and replaces with a value in the given file." alt="" coords="140,5,307,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="355,5,447,31"/>
+</map>

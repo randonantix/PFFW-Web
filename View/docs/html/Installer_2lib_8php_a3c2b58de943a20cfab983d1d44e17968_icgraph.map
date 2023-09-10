@@ -1,0 +1,6 @@
+<map id="ReadSelection" name="ReadSelection">
+<area shape="rect" id="node1" title="Prompts for and reads user selection." alt="" coords="168,55,283,80"/>
+<area shape="rect" id="node2" href="$Installer_2lib_8php.html#a3390e3f892dda6066dce17beee66b32e" title=" " alt="" coords="17,5,108,31"/>
+<area shape="rect" id="node3" href="$Installer_2lib_8php.html#ad5649da477168837a7637eb687279d1e" title=" " alt="" coords="7,55,119,80"/>
+<area shape="rect" id="node4" href="$Installer_2lib_8php.html#a28e0c4aa16394f9ec95e2061d760ff88" title="Asks user for internal and external interface selection." alt="" coords="5,104,120,129"/>
+</map>

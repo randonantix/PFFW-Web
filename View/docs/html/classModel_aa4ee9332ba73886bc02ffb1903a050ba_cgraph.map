@@ -1,0 +1,4 @@
+<map id="GetFiles" name="GetFiles">
+<area shape="rect" id="node1" title="Returns files with the given filepath pattern." alt="" coords="5,5,80,31"/>
+<area shape="rect" id="node2" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="128,5,275,31"/>
+</map>

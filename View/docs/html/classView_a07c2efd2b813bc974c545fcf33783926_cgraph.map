@@ -1,0 +1,8 @@
+<map id="Restart" name="Restart">
+<area shape="rect" id="node1" title="Stops and restarts module process(es)." alt="" coords="5,31,75,56"/>
+<area shape="rect" id="node2" href="$classView.html#a58a42cd2dbcf0483f1da759a8d283d58" title="Starts module process(es)." alt="" coords="123,5,176,31"/>
+<area shape="rect" id="node6" href="$classView.html#a0f17de803b9ad897ee1e879e90982bd2" title="Stops module process(es)." alt="" coords="124,55,175,80"/>
+<area shape="rect" id="node3" href="$classView.html#a523ddd51e800ca8c2c56854c85cb312f" title="Calls the controller." alt="" coords="224,31,311,56"/>
+<area shape="rect" id="node4" href="$Installer_2lib_8php.html#ac089920689dafbf6a510f3b87eb6a6d4" title="Satisfies Controller." alt="" coords="359,5,493,31"/>
+<area shape="rect" id="node5" href="$libauth_8php.html#aafa5d84b0ff32cf3d31b8cdfd1c6d769" title="Wrapper for syslog()." alt="" coords="379,55,473,80"/>
+</map>

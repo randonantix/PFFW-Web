@@ -1,0 +1,6 @@
+<map id="toHex" name="toHex">
+<area shape="rect" id="node1" title="Converts a BigInteger to a hex string (eg." alt="" coords="155,55,216,80"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#aca922c6f7bcc068784112a8e402a59f7" title="__debugInfo() magic method" alt="" coords="5,5,107,31"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#aaf11785905da71774e052912d784e3b4" title="__sleep() magic method" alt="" coords="21,55,91,80"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a61513c81f48e7fe1acd92a72fb7020ef" title="Converts a BigInteger to a bit string (eg." alt="" coords="26,104,86,129"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="ParseLogLine" name="ParseLogLine">
+<area shape="rect" id="node1" title="Parses the given log line." alt="" coords="736,177,843,203"/>
+<area shape="rect" id="node2" href="$classModel.html#a80a9c7ffc5b622913366185669db13f8" title="Gets logs for live logs pages, the actual method." alt="" coords="567,79,674,104"/>
+<area shape="rect" id="node8" href="$classModel.html#aab423e07962bdc1319b01c6d7c679f0f" title=" " alt="" coords="553,128,688,153"/>
+<area shape="rect" id="node11" href="$classModel.html#aaf87c48d0be7e3e4563be72e08f120b0" title=" " alt="" coords="569,177,672,203"/>
+<area shape="rect" id="node12" href="$classModel.html#a3cd1d5510b23ec577d9d124f9e05a449" title="Gets lines in log file." alt="" coords="583,227,658,252"/>
+<area shape="rect" id="node13" href="$classModel.html#a4b2587fd477dfc21d60f1185c624521c" title="Updates statistics incrementally, both brief and full." alt="" coords="569,276,672,301"/>
+<area shape="rect" id="node3" href="$classModel.html#a75a2cec868b2b3cf1d0f2ae81a799298" title=" " alt="" coords="391,29,489,55"/>
+<area shape="rect" id="node7" href="$classModel.html#abd1e082730aeee7890560b4ca2ee0a62" title="Gets logs for live logs pages." alt="" coords="389,79,491,104"/>
+<area shape="rect" id="node4" href="$classModel.html#a5b9d9c5affe24f91a3151fa107ee80e4" title=" " alt="" coords="188,5,327,31"/>
+<area shape="rect" id="node6" href="$classModel.html#ab735f5a4ded9f9c9a5b04f182205fd7d" title=" " alt="" coords="214,55,301,80"/>
+<area shape="rect" id="node5" href="$classModel.html#ac74f9ae5abb475786f8f9278af56e953" title=" " alt="" coords="5,5,140,31"/>
+<area shape="rect" id="node9" href="$classModel.html#aed5ee3c735f862c4d99761b379f31729" title="Gets log files list with start dates." alt="" coords="379,128,501,153"/>
+<area shape="rect" id="node10" href="$classModel.html#a40159dcd03e82eade9e96fd6b8080e89" title="Extracts the datetime of the first line in the log file." alt="" coords="375,177,505,203"/>
+<area shape="rect" id="node14" href="$classModel.html#a879807a0b92e50464699e78d3c216483" title=" " alt="" coords="399,251,481,276"/>
+<area shape="rect" id="node17" href="$classModel.html#aacf995c8c1f12fe1a00b653fd790c3ef" title="Gets the log file under the tmp folder." alt="" coords="386,300,494,325"/>
+<area shape="rect" id="node15" href="$classModel.html#a2f595c1fea08e09a47f744ff8fec6815" title="Gets both brief and full statistics." alt="" coords="210,225,305,251"/>
+<area shape="rect" id="node16" href="$classModel.html#ac746ea8beac01d38d9d0289c6c08fe4a" title="Main statistics collector, as module data set." alt="" coords="218,275,297,300"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GetReloadRate" name="GetReloadRate">
+<area shape="rect" id="node1" title="Gets default reload rate." alt="" coords="5,31,125,56"/>
+<area shape="rect" id="node2" href="$classModel.html#a1151960aeff2e631b01f989afe5b2f7e" title=" " alt="" coords="173,5,299,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="203,55,269,80"/>
+</map>

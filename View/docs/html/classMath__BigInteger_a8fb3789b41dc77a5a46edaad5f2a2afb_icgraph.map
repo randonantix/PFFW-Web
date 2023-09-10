@@ -1,0 +1,8 @@
+<map id="_safe_divide" name="_safe_divide">
+<area shape="rect" id="node1" title="Single digit division." alt="" coords="521,31,625,56"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#afc22c1902453a26e1786a95db618740f" title="Divides a BigInteger by a regular integer." alt="" coords="368,56,473,81"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a8add84dc5ddc37795390f87b36fdc6a8" title="Divides two BigIntegers." alt="" coords="257,5,320,31"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a7a8ccdcad32569732a8e0208c7af1e16" title="Checks a numer to see if it&#39;s prime." alt="" coords="135,55,205,80"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#a585f1acf1b4a45c360281c6cffd0e9be" title="Performs modular exponentiation." alt="" coords="131,5,209,31"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a488e7039c9a9dc54408413b241c0c400" title="Performs modular exponentiation." alt="" coords="5,5,83,31"/>
+</map>

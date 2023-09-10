@@ -1,0 +1,34 @@
+<map id="SelectLogFile" name="SelectLogFile">
+<area shape="rect" id="node1" title="Gets the log file under the tmp folder." alt="" coords="5,560,113,585"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="789,535,881,560"/>
+<area shape="rect" id="node3" href="$classModel.html#a7ece271b0ef8636736f58b3b75268931" title="Gets the name of the file in the tmp folder." alt="" coords="161,459,320,484"/>
+<area shape="rect" id="node4" href="$classModel.html#adef576154f41b9e06cbf28bb1a4f74b8" title="Checks if the given log file has been updated." alt="" coords="373,509,507,535"/>
+<area shape="rect" id="node9" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="207,560,274,585"/>
+<area shape="rect" id="node10" href="$classModel.html#a4b2587fd477dfc21d60f1185c624521c" title="Updates statistics incrementally, both brief and full." alt="" coords="189,332,292,357"/>
+<area shape="rect" id="node13" href="$classModel.html#afb379dac54166aba28a4e7e22d0fa772" title="Checks if the given file exists and not larger than $MaxFileSizeToProcess in MBs." alt="" coords="786,957,885,983"/>
+<area shape="rect" id="node30" href="$classModel.html#ad4d7aefbd214d3da3f1965e6ddddb998" title="Copies the original log file to tmp folder." alt="" coords="169,763,313,788"/>
+<area shape="rect" id="node5" href="$classModel.html#adf44e19a68f4a6be9289e2e39a5698f7" title="Gets the original file name for the given log file." alt="" coords="980,408,1115,433"/>
+<area shape="rect" id="node6" href="$classModel.html#a2ef1e4c1d1fadd3c6696a101cd2aa7e5" title="Gets previous line count and stat() from statistics file." alt="" coords="566,509,693,535"/>
+<area shape="rect" id="node7" href="$classModel.html#ae24c34977ae6864272b678fe40fdb09a" title="Gets name of the tmp statistics file for the given log file." alt="" coords="765,408,905,433"/>
+<area shape="rect" id="node8" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="762,763,909,788"/>
+<area shape="rect" id="node11" href="$classModel.html#aec3d644e69b54bae382fe3aa894c0879" title=" " alt="" coords="560,763,699,788"/>
+<area shape="rect" id="node16" href="$lib_2lib_8php.html#ad33cadb8e288ea78e94fd94045f91e09" title=" " alt="" coords="972,55,1123,80"/>
+<area shape="rect" id="node17" href="$classModel.html#ac23e08bf49a305b2d76f11cecc62ba4c" title="Day statistics collector." alt="" coords="377,55,503,80"/>
+<area shape="rect" id="node21" href="$classModel.html#ab1e8cbbabce3210438cebad028f153d7" title="Gets the number of lines added to log files since last tmp file update." alt="" coords="370,459,510,484"/>
+<area shape="rect" id="node22" href="$classModel.html#a1149c6f5338677a1a74e8a4964826e80" title="Gets saved statistics for the given log file." alt="" coords="570,205,689,231"/>
+<area shape="rect" id="node24" href="$classModel.html#ad26e67d9a70c2182a67b939ae61b6d01" title="Builds generic grep command and extracts log lines." alt="" coords="562,913,697,939"/>
+<area shape="rect" id="node25" href="$classModel.html#ad8dbb64d308bdf8cbe3dfee2c84fb9bb" title="Parses the given log line." alt="" coords="387,307,493,332"/>
+<area shape="rect" id="node27" href="$classModel.html#ae6201c722387cb7120a3447378f73271" title="Further processes parser output fields." alt="" coords="376,356,504,381"/>
+<area shape="rect" id="node28" href="$classModel.html#ab5448888d58c0402bcc575e3a5cd9e9e" title="Saves collected statistics with the current line count and stat() output." alt="" coords="586,156,673,181"/>
+<area shape="rect" id="node12" href="$classModel.html#a3827d539c75623fd5345ab590caaa2cb" title="Generates the module specific datetime regexp for filtering logs." alt="" coords="747,713,924,739"/>
+<area shape="rect" id="node14" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="1171,971,1224,996"/>
+<area shape="rect" id="node15" href="$classModel.html#ab81972f4cb26c1d07ac429589bb4d62d" title=" " alt="" coords="979,945,1116,971"/>
+<area shape="rect" id="node18" href="$classModel.html#abe3e76f34ef7907cc5fcc6d2840bf081" title="Hour statistics collector." alt="" coords="564,55,695,80"/>
+<area shape="rect" id="node20" href="$classModel.html#a10ffb35c34bab2bd539a5a945a489625" title="Increments stats for the given values." alt="" coords="798,5,873,31"/>
+<area shape="rect" id="node19" href="$classModel.html#a3b4ab5022e1e5883d5292c024eaaf8c1" title="Minute statistics collector." alt="" coords="763,55,908,80"/>
+<area shape="rect" id="node23" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="801,257,869,283"/>
+<area shape="rect" id="node26" href="$classModel.html#af4eb638f282def52a768efc7dbcbc698" title="Parses standard syslog line." alt="" coords="566,307,693,332"/>
+<area shape="rect" id="node29" href="$classModel.html#a24813c8e79a850571607408548a88528" title="Writes contents to file." alt="" coords="802,156,869,181"/>
+<area shape="rect" id="node31" href="$classModel.html#a5cdc13ae8497b92e1c6cbf8b85c6d43c" title="Uncompresses gzipped log file to tmp dir." alt="" coords="368,864,512,889"/>
+<area shape="rect" id="node32" href="$classModel.html#a620707dcc4093d4ca002e3dfdfa68af1" title="Deletes the given file or directory." alt="" coords="585,864,673,889"/>
+</map>

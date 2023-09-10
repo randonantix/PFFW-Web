@@ -1,0 +1,5 @@
+<map id="_initShell" name="_initShell">
+<area shape="rect" id="node1" title="Creates an interactive shell." alt="" coords="108,31,191,56"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#ad5d484cb4a3a4b2e1194f86ed2a9e9fe" title="Returns the output of an interactive shell." alt="" coords="7,5,58,31"/>
+<area shape="rect" id="node3" href="$classNet__SSH2.html#a7d286197943620677cc46d850c43b65a" title="Inputs a command into an interactive shell." alt="" coords="5,55,60,80"/>
+</map>

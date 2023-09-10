@@ -1,0 +1,8 @@
+<map id="_sha256" name="_sha256">
+<area shape="rect" id="node1" title="Pure&#45;PHP implementation of SHA256." alt="" coords="5,104,81,129"/>
+<area shape="rect" id="node2" href="$classCrypt__Hash.html#ad18d0ebdfa9622d2e2dbae22b2fb8b98" title="Add." alt="" coords="154,5,207,31"/>
+<area shape="rect" id="node3" href="$classCrypt__Hash.html#a044f67b360ae96c6ea11192387210599" title="Not." alt="" coords="155,55,206,80"/>
+<area shape="rect" id="node4" href="$classCrypt__Hash.html#a46deaf37455d23c8be29ba1fba63f7c3" title="Right Rotate." alt="" coords="129,104,232,129"/>
+<area shape="rect" id="node5" href="$classCrypt__Hash.html#a346b2be179b63c46f89ad0528ed1619a" title="Right Shift." alt="" coords="137,153,225,179"/>
+<area shape="rect" id="node6" href="$classCrypt__Hash.html#ab009fa6f4ba09daa679a30e9b5bcfe35" title="String Shift." alt="" coords="130,203,231,228"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="_key_exchange" name="_key_exchange">
+<area shape="rect" id="node1" title="Key Exchange." alt="" coords="1187,951,1309,977"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#a056510893d19074b6d9138db970a8843" title="Connect to an SSHv2 server." alt="" coords="713,494,793,519"/>
+<area shape="rect" id="node22" href="$classNet__SSH2.html#a0d9cacfa9329947e285c2d4ab027a230" title="Filter Binary Packets." alt="" coords="1080,1002,1139,1027"/>
+<area shape="rect" id="node3" href="$classNet__SSH2.html#af724b6769f4530de459ea01bf327242a" title="Login Helper." alt="" coords="108,839,169,865"/>
+<area shape="rect" id="node5" href="$classNet__SSH2.html#ac8a487031191e557cfb8b5bc06a05a46" title="Login Helper." alt="" coords="224,922,333,947"/>
+<area shape="rect" id="node6" href="$classNet__SSH2.html#aad986b843e21a4edf8316cdf64015367" title="In situ reconnect method." alt="" coords="458,1225,551,1250"/>
+<area shape="rect" id="node8" href="$classNet__SSH2.html#ad4a808fbcbe8cba7dc6d441719ccd2c0" title="Return list of negotiated algorithms." alt="" coords="411,642,598,667"/>
+<area shape="rect" id="node9" href="$classNet__SSH2.html#af12288b3070b031dfbe0f5d452109c86" title="Return a list of the compression algorithms the server supports, when receiving stuff from the client..." alt="" coords="405,692,604,732"/>
+<area shape="rect" id="node10" href="$classNet__SSH2.html#acfd5607eb2144fc54a99531661ec195f" title="Return a list of the compression algorithms the server supports, when sending stuff to the client." alt="" coords="405,5,604,45"/>
+<area shape="rect" id="node11" href="$classNet__SSH2.html#a353bc83bf88e74374da934077b7684be" title="Return a list of the (symmetric key) encryption algorithms the server supports, when receiving stuff ..." alt="" coords="390,69,619,109"/>
+<area shape="rect" id="node12" href="$classNet__SSH2.html#a877c6e98d0733d2d5e4ee1cb0989a2e4" title="Return a list of the (symmetric key) encryption algorithms the server supports, when sending stuff to..." alt="" coords="388,133,621,173"/>
+<area shape="rect" id="node13" href="$classNet__SSH2.html#a48d2463893a93d97ece1e4642c4ced08" title="Return a list of the key exchange algorithms the server supports." alt="" coords="435,198,574,223"/>
+<area shape="rect" id="node14" href="$classNet__SSH2.html#aa91b33cf4ad5ce137d8097e3d4b6257b" title="Return a list of the languages the server supports, when receiving stuff from the client." alt="" coords="404,247,605,273"/>
+<area shape="rect" id="node15" href="$classNet__SSH2.html#ac40993d6832f9eeafb80b724128c8bfb" title="Return a list of the languages the server supports, when sending stuff to the client." alt="" coords="404,297,605,322"/>
+<area shape="rect" id="node16" href="$classNet__SSH2.html#ab16af4d8d06cd14c9511a3cea4830958" title="Return a list of the MAC algorithms the server supports, when receiving stuff from the client." alt="" coords="389,346,621,371"/>
+<area shape="rect" id="node17" href="$classNet__SSH2.html#a9996ef8a1b86fb30f8861f1469522d14" title="Return a list of the MAC algorithms the server supports, when sending stuff to the client." alt="" coords="389,395,621,421"/>
+<area shape="rect" id="node18" href="$classNet__SSH2.html#a0725864cfd00c9ac9cacd42d5b1c100f" title="Returns a list of algorithms the server supports." alt="" coords="427,445,583,470"/>
+<area shape="rect" id="node19" href="$classNet__SSH2.html#a7d3b53461c78ce2ce5e7cce25ff62c0c" title="Return a list of the host key (public key) algorithms the server supports." alt="" coords="399,494,610,519"/>
+<area shape="rect" id="node20" href="$classNet__SSH2.html#a5f1d04bed8b927b2009132fde209c1de" title="Return the server identification." alt="" coords="419,543,590,569"/>
+<area shape="rect" id="node21" href="$classNet__SSH2.html#ac4ea38e00b645a7f5de95e4a4e8e29ef" title="Returns the server public host key." alt="" coords="415,593,594,618"/>
+<area shape="rect" id="node4" href="$classNet__SSH2.html#a6c0872fca276099dd4e9d5de6813c9a9" title="Login." alt="" coords="5,839,60,865"/>
+<area shape="rect" id="node7" href="$classNet__SSH2.html#a6dad377f74b0ce6f21b485ba11052746" title="Pings a server connection, or tries to reconnect if the connection has gone down." alt="" coords="253,1313,304,1338"/>
+<area shape="rect" id="node23" href="$classNet__SSH2.html#acfe89a2c2728e0c85a62d764ae3e7990" title="Gets Binary Packets." alt="" coords="884,1002,1032,1027"/>
+<area shape="rect" id="node24" href="$classNet__SSH2.html#aa423924aeb50cce066e1efc1a88a4f8f" title="Gets channel data." alt="" coords="673,1274,832,1299"/>
+<area shape="rect" id="node35" href="$classNet__SSH2.html#a2ece39f3fc55ac48e87afaf39849ccba" title="Handle the keyboard&#45;interactive requests / responses." alt="" coords="669,915,836,955"/>
+<area shape="rect" id="node37" href="$classNet__SSH2.html#af8e1bfcb217d46550a2a9142e3e8ce0c" title="Login with an RSA private key." alt="" coords="684,1002,821,1027"/>
+<area shape="rect" id="node25" href="$classNet__SSH2.html#a73e8a0a7c7dd283bca12aa16dccad589" title="Closes and flushes a channel." alt="" coords="444,1425,565,1450"/>
+<area shape="rect" id="node27" href="$classNet__SSH2.html#a6423fa3b7ec1182a2285378fe540c038" title="Execute Command." alt="" coords="253,1510,305,1535"/>
+<area shape="rect" id="node30" href="$classNet__SSH2.html#afd46878f419e5ad927779370c04ee7eb" title="Creates an interactive shell." alt="" coords="463,1175,546,1201"/>
+<area shape="rect" id="node31" href="$classNet__SSH2.html#ad5d484cb4a3a4b2e1194f86ed2a9e9fe" title="Returns the output of an interactive shell." alt="" coords="253,1150,304,1175"/>
+<area shape="rect" id="node33" href="$classNet__SSH2.html#a8411fd3679523acd664533a316a0da0a" title="Sends channel data." alt="" coords="421,1274,589,1299"/>
+<area shape="rect" id="node34" href="$classNet__SSH2.html#ad213c3ac028955a1c5cf47d59be435ab" title="Start a subsystem." alt="" coords="443,1375,567,1401"/>
+<area shape="rect" id="node26" href="$classNet__SSH2.html#ae9108ffc8754b820ab8e72e3eb8f0090" title="Disable request&#45;pty when using exec()" alt="" coords="232,1362,325,1387"/>
+<area shape="rect" id="node28" href="$classNet__SSH2.html#a4a20559544fdf4dcb457e258dc976cf8" title="Closes a channel." alt="" coords="251,1411,306,1437"/>
+<area shape="rect" id="node29" href="$classNet__SSH2.html#ab9d9511da90378fc632b2256d37dc3b2" title="Stops a subsystem." alt="" coords="217,1461,340,1486"/>
+<area shape="rect" id="node32" href="$classNet__SSH2.html#a7d286197943620677cc46d850c43b65a" title="Inputs a command into an interactive shell." alt="" coords="251,1213,306,1238"/>
+<area shape="rect" id="node36" href="$classNet__SSH2.html#aef12912326ba82cdc30d4d8b59ab384d" title="Login via keyboard&#45;interactive authentication." alt="" coords="421,857,588,897"/>
+<area shape="rect" id="node38" href="$classNet__SSH2.html#a2c02288adcad28d69cebd957deb463ad" title="Login with an ssh&#45;agent provided key." alt="" coords="437,973,572,998"/>
+</map>

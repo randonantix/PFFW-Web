@@ -1,0 +1,4 @@
+<map id="ParseLogLine" name="ParseLogLine">
+<area shape="rect" id="node1" title="Parses the given log line." alt="" coords="5,5,112,31"/>
+<area shape="rect" id="node2" href="$classModel.html#af4eb638f282def52a768efc7dbcbc698" title="Parses standard syslog line." alt="" coords="160,5,331,31"/>
+</map>

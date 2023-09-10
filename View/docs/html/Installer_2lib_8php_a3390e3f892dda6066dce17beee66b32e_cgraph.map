@@ -1,0 +1,6 @@
+<map id="ConfigMFS" name="ConfigMFS">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,96,56"/>
+<area shape="rect" id="node2" href="$Installer_2lib_8php.html#a145aaf0a9d86400af6e7d15098974830" title="Reads a line of input from stdin." alt="" coords="307,5,389,31"/>
+<area shape="rect" id="node3" href="$Installer_2lib_8php.html#a3c2b58de943a20cfab983d1d44e17968" title="Prompts for and reads user selection." alt="" coords="144,31,259,56"/>
+<area shape="rect" id="node4" href="$libauth_8php.html#aafa5d84b0ff32cf3d31b8cdfd1c6d769" title="Wrapper for syslog()." alt="" coords="154,80,249,105"/>
+</map>

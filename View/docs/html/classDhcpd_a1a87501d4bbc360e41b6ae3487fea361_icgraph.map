@@ -1,0 +1,5 @@
+<map id="SetIfs" name="SetIfs">
+<area shape="rect" id="node1" title="Sets dhcpd interfaces." alt="" coords="211,5,269,31"/>
+<area shape="rect" id="node2" href="$classDhcpd.html#a8e88b2ac10b789e5aaa32dfbc7a8cccc" title="Adds a dhcpd interface to listen." alt="" coords="5,5,61,31"/>
+<area shape="rect" id="node3" href="$classDhcpd.html#a86bbfb98cd42d2a36891000beff08549" title="Deletes a dhcpd interface to listen." alt="" coords="109,31,163,56"/>
+</map>

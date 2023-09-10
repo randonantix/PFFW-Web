@@ -1,0 +1,5 @@
+<map id="GetSensors" name="GetSensors">
+<area shape="rect" id="node1" title="Finds sysctl temp and fan sensors." alt="" coords="196,31,292,56"/>
+<area shape="rect" id="node2" href="$classSymon.html#a7cfa59b60de90b66fac33786564689da" title="Sets interface names in the symon and symux config files." alt="" coords="15,5,138,31"/>
+<area shape="rect" id="node3" href="$classSymon.html#a50f7fad3eb7f171ae72bcafa7c8a2275" title=" " alt="" coords="5,55,148,80"/>
+</map>

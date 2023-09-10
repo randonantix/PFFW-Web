@@ -1,0 +1,8 @@
+<map id="SetMaxFileSizeToProcess" name="SetMaxFileSizeToProcess">
+<area shape="rect" id="node1" title="Sets max file size to process." alt="" coords="5,55,191,80"/>
+<area shape="rect" id="node2" href="$classModel.html#abcd01c30cbd8fa9ac1c84340e5ed33de" title="Changes value of NVP." alt="" coords="239,55,309,80"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="357,5,449,31"/>
+<area shape="rect" id="node4" href="$lib_2lib_8php.html#a998c26d78939d233b87794689e841eb9" title="Escapes chars." alt="" coords="369,55,437,80"/>
+<area shape="rect" id="node5" href="$classModel.html#a8f197a5f9e014dc06404352d2f4b7e20" title="Reads value of NVP." alt="" coords="367,104,439,129"/>
+<area shape="rect" id="node6" href="$classModel.html#a151a013af243c2c1255caf53dffadc9b" title="Searches the given file with the given regex." alt="" coords="497,104,587,129"/>
+</map>

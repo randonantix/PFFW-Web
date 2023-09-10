@@ -1,0 +1,13 @@
+<map id="__construct" name="__construct">
+<area shape="rect" id="node1" title="Converts base&#45;2, base&#45;10, base&#45;16, and binary strings (base&#45;256) to BigIntegers." alt="" coords="5,104,101,129"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a0035ad33032c8763faf5a6dc1924257c" title="Logical Right Shift." alt="" coords="149,5,273,31"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#ade8f3e02617d162e40519ae6fe250faf" title="Converts bytes to 32&#45;bit integers." alt="" coords="166,55,257,80"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a7e8c056838bce5675facb24d6db190ab" title="Converts 32&#45;bit integers to bytes." alt="" coords="166,104,257,129"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#af3271c1a26c6f5de343ba9197e8f7a2e" title="Absolute value." alt="" coords="189,153,234,179"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#aaf020bdbcf9ae9e3a9d362011f2c0562" title="Adds two BigIntegers." alt="" coords="188,203,235,228"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#ac73ee119572907c1dea2a9527959931f" title="Performs addition." alt="" coords="321,152,375,177"/>
+<area shape="rect" id="node11" href="$classMath__BigInteger.html#aa152f07e39bfa5ea214c5988cd2b214a" title="Normalize." alt="" coords="423,253,517,279"/>
+<area shape="rect" id="node8" href="$classMath__BigInteger.html#a424a23a2d4d86ec9ed41c7b532fc0dd8" title="Compares two numbers." alt="" coords="565,127,652,152"/>
+<area shape="rect" id="node9" href="$classMath__BigInteger.html#a927fb1de927c67f3cb631acab6bee2de" title="Performs subtraction." alt="" coords="429,152,511,177"/>
+<area shape="rect" id="node10" href="$classMath__BigInteger.html#a76477f8e2f8776056aa2fb0e36bf209d" title="Trim." alt="" coords="581,203,637,228"/>
+</map>

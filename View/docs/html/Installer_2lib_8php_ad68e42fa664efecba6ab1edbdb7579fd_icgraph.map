@@ -1,0 +1,4 @@
+<map id="ComputeIfDefs" name="ComputeIfDefs">
+<area shape="rect" id="node1" title="Computes network, broadcast, and CIDR net addresses, given ip and netmask." alt="" coords="153,5,273,31"/>
+<area shape="rect" id="node2" href="$Installer_2lib_8php.html#a62f814c225795441b5db9017327bd5be" title="Applies configuration." alt="" coords="5,5,105,31"/>
+</map>

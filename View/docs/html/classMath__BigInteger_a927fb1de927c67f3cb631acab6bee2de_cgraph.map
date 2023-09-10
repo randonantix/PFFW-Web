@@ -1,0 +1,6 @@
+<map id="_subtract" name="_subtract">
+<area shape="rect" id="node1" title="Performs subtraction." alt="" coords="5,29,88,55"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#ac73ee119572907c1dea2a9527959931f" title="Performs addition." alt="" coords="136,29,189,55"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a424a23a2d4d86ec9ed41c7b532fc0dd8" title="Compares two numbers." alt="" coords="237,5,324,31"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a76477f8e2f8776056aa2fb0e36bf209d" title="Trim." alt="" coords="253,55,309,80"/>
+</map>

@@ -1,0 +1,3543 @@
+# Copyright (C) 2004-2023 Soner Tari, The UTMFW project
+# This file is distributed under the same license as UTMFW.
+# Soner Tari <sonertari@gmail.com>, 2018-2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PFFW 7.3\n"
+"Report-Msgid-Bugs-To: sonertari@gmail.com\n"
+"POT-Creation-Date: 2009-11-11 16:21+0200\n"
+"PO-Revision-Date: 2019-04-07 16:05+0300\n"
+"Last-Translator: Soner Tari <sonertari@gmail.com>\n"
+"Language: Turkish\n"
+"Language-Team: Turkish <sonertari@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+msgid "%CPU"
+msgstr "CPU%"
+
+msgid "%MEM"
+msgstr "BELLEK%"
+
+#, php-format
+msgid "0-100% or 0-1"
+msgstr "%0-100 ya da 0-1"
+
+msgid "1 day"
+msgstr "1 gün"
+
+msgid "1 hour"
+msgstr "1 saat"
+
+msgid "1 min"
+msgstr "1 dakika"
+
+msgid "1 minute average"
+msgstr "1 dakikalık ortalama"
+
+msgid "1 month"
+msgstr "1 ay"
+
+msgid "1 week"
+msgstr "1 hafta"
+
+msgid "10 mins"
+msgstr "10 dakika"
+
+msgid "12 hours"
+msgstr "12 saat"
+
+msgid "15 minute average"
+msgstr "15 dakikalık ortalama"
+
+msgid "30 mins"
+msgstr "30 dakika"
+
+msgid "5 mins"
+msgstr "5 dakika"
+
+msgid "5 minute average"
+msgstr "5 dakikalık ortalama"
+
+msgid "6 months"
+msgstr "6 ay"
+
+msgid "< Previous"
+msgstr "< Önceki"
+
+msgid "<< First"
+msgstr "<< İlk"
+
+msgid "<MODEL> has CRITICAL errors"
+msgstr "<MODEL>: ÖNEMLi hatalar var"
+
+msgid "<MODEL> has ERRORs"
+msgstr "<MODEL>: HATALAR var"
+
+msgid "<MODEL> has WARNINGs"
+msgstr "<MODEL>: UYARILAR var"
+
+msgid "<RULE_TYPE> rule"
+msgstr "<RULE_TYPE> kuralı"
+
+msgid ""
+"<b>Make sure you have applied your changes to network settings system-wide "
+"using automatic configuration button.</b>\n"
+"\n"
+"If you change the IP address of the network interface over which you are "
+"connected to this web user interface, and use the network restart button on "
+"this page, do not forget to change the URL on your web browser accordingly.\n"
+"\n"
+"It is not advised to configure the internal interface as dhcp/autoconf."
+msgstr ""
+"<b>Otomatik yapılandırma tuşunu kullanarak ağ ayarlarını sistem geneline "
+"uygulayın.</b>\n"
+"\n"
+"Web arayüzüne bağlandığınız ağ arayüzünün IP adresini değiştirerek ağı "
+"tekrar başlatırsanız web tarayıcınızın adres çubuğundaki URL'yi buna göre "
+"değiştirmeyi unutmayın.\n"
+"\n"
+"İç ağ arayüzünü dhcp/autoconf olarak yapılandırmanız tavsiye edilmez."
+
+msgid "ACCEPTED"
+msgstr "BAŞARILI"
+
+msgid "Access Logs"
+msgstr "Giriş Kayıtları"
+
+msgid "Act"
+msgstr "İşlem"
+
+msgid "Action"
+msgstr "İşlem"
+
+msgid "Adaptive Timeouts"
+msgstr "Değişken Zaman Aşımları"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Add DHCP interface"
+msgstr "DHCP arayüzü ekle"
+
+msgid "Add filter"
+msgstr "Elek ekle"
+
+msgid "Add host"
+msgstr "Bilgisayar ekle"
+
+msgid "Add notifier user"
+msgstr "Uyarı kullanıcısı ekle"
+
+msgid "Address Family"
+msgstr "Adres Ailesi"
+
+msgid "Admin e-mail"
+msgstr "Yönetici e-posta adresi"
+
+msgid "Advanced Power Management"
+msgstr "Gelişmiş Güç Yönetimi"
+
+msgid "Af Translate"
+msgstr "Af Çevirisi"
+
+msgid "Age"
+msgstr "Süre"
+
+msgid "All"
+msgstr "Hepsi"
+
+msgid "All attempts"
+msgstr "Tüm denemeler"
+
+msgid "All monitoring processes write to the same log file."
+msgstr "Bütün gözlemleme süreçleri aynı dosyaya kaydeder."
+
+msgid "All queries"
+msgstr "Tüm sorgular"
+
+msgid "All requests"
+msgstr "Tüm istekler"
+
+msgid "All rights reserved."
+msgstr "Tüm hakları saklıdır."
+
+msgid "All sessions"
+msgstr "Tüm oturumlar"
+
+msgid "Allow Opts"
+msgstr "Seçeneklere İzin Ver"
+
+msgid "Allowed requests"
+msgstr "İzin verilen istekler"
+
+msgid ""
+"Analysis of statistical data may take a long time to process. Please be "
+"patient. Also note that if you refresh this page frequently, CPU load may "
+"increase considerably."
+msgstr ""
+"İstatistik verilerinin analizi uzun zaman alabilir. Lütfen sabırlı olun. "
+"Ayrıca, bu sayfayı sık yenilerseniz işlemci yükü fazlasıyla artabilir."
+
+msgid "Anchor"
+msgstr "Çapa"
+
+msgid "And <COUNT> others not shown."
+msgstr "Ve <COUNT> adet gösterilmeyen var."
+
+msgid "Antispoof"
+msgstr "Taklit Engelleme"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "Apply configuration"
+msgstr "Yapılandırmayı uygula"
+
+msgid "Archives"
+msgstr "Arşivler"
+
+msgid "Are you sure you want to <ACTION> the interface <IF>?"
+msgstr "<IF> arayüzünü <ACTION> istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to <BUTTON_VALUE> secure HTTP?"
+msgstr "Kriptolu HTTP <BUTTON_VALUE>ılacak, emin misiniz?"
+
+msgid "Are you sure you want to delete <RULE_TYPE> rule number <RULE_NUMBER>?"
+msgstr "<RULE_TYPE> kuralı numara <RULE_NUMBER> silinecek, emin misiniz?"
+
+msgid "Are you sure you want to delete the entire ruleset?"
+msgstr "Tüm kural listesi silinecek, emin misiniz?"
+
+msgid "Are you sure you want to delete the rule?"
+msgstr "Kural silinecek, emin misiniz?"
+
+msgid "Are you sure you want to delete the rules file?"
+msgstr "Kural dosyası silinecek, emin misiniz?"
+
+msgid "Are you sure you want to disable MFS?"
+msgstr "MFS'i devre dışı bırakmak istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to disable persistent MFS?"
+msgstr "Kalıcı MFS'i devre dışı bırakmak istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to enable MFS?"
+msgstr "MFS'i etkinleştirmek istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to enable persistent MFS?"
+msgstr "Kalıcı MFS'i etkinleştirmek istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to erase statistics files?"
+msgstr "İstatistik dosyalarını silmek istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to generate SSL key pair?"
+msgstr "SSL anahtarını üretmek istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to reinitialize graph files?"
+msgstr "Grafik dosyalarını sıfırlamak istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to restart the <NAME>?"
+msgstr "<NAME>: tekrar başlatmak istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to restart the network?"
+msgstr "Ağı tekrar başlatmak istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to rotate the logs?"
+msgstr "Kayıtları döndürmek istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to set the date?"
+msgstr "Tarihi ayarlamak istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to set the size of MFS?"
+msgstr "MFS boyutunu ayarlamak istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to start the <NAME>?"
+msgstr "<NAME>: başlatmak istediğinizden emin misiniz?"
+
+msgid "Are you sure you want to stop the <NAME>?"
+msgstr "<NAME>: durdurmak istediğinizden emin misiniz?"
+
+msgid "Arg type check failed"
+msgstr "Argüman tür kontrolü başarısız oldu"
+
+msgid "Arp Table"
+msgstr "Arp Tablosu"
+
+msgid "Arp table lists the active IP addresses in the network."
+msgstr "Arp tablosu ağdaki aktif IP adresleri listeler."
+
+msgid "Assign Priority"
+msgstr "Öncelik Ata"
+
+msgid "Assign Tag"
+msgstr "Tag Ata"
+
+msgid "Authentication failed"
+msgstr "Doğrulama başarısız"
+
+msgid "Automatic config"
+msgstr "Otomatik yapılandırma"
+
+msgid "Automatic configuration"
+msgstr "Otomatik yapılandırma"
+
+msgid ""
+"Automatic configuration completed. You might want to check the details now."
+msgstr ""
+"Otomatik yapılandırma tamamlandı. Şimdi detayları kontrol edebilirsiniz."
+
+msgid "Automatic configuration failed."
+msgstr "Otomatik yapılandırma başarısız oldu."
+
+msgid "Bandwidth"
+msgstr "Band Genişliği"
+
+msgid "Banner"
+msgstr "Afiş"
+
+msgid "Basic"
+msgstr "Temel"
+
+msgid "Binat"
+msgstr "Çift Yönlü Çeviri"
+
+msgid "Blank Line"
+msgstr "Boş Satır"
+
+msgid "Block Option"
+msgstr "Engelleme Seçenekleri"
+
+msgid "Block Policy"
+msgstr "Engelleme Kuralı"
+
+msgid "Blocked requests"
+msgstr "Engellenen istekler"
+
+msgid "Broadcast address"
+msgstr "Yayım adresi"
+
+msgid ""
+"Buttons on this page should help you apply the new configuration system-wide "
+"when you change certain system settings or hardware.\n"
+"\n"
+"The web user interface stores statistics under /var/log/pffw folder. The "
+"statistics are updated incrementally when new messages are appended to log "
+"files. When user selects a compressed log file for viewing or statistics, "
+"its uncompressed copy is saved under the same folder too. This strategy "
+"greatly improves the performance of Statistics and Logs pages, and enables "
+"other features of the web user interface. Since these statistics and "
+"uncompressed log files may take up a lot of disk space, you are advised to "
+"have a large partition holding /var/log."
+msgstr ""
+"Bu sayfadaki tuşlar sistem ayarlarını veya donanımını değiştirdiğinizde yeni "
+"ayarları sistemin geneline uygulamanıza yardımcı olur.\n"
+"\n"
+"Web arayüzü istatistik dosyaları /var/log/pffw dizini altında saklar. "
+"İstatistikler kayıt dosyalarına eklenen yeni mesajlar ile aşamalı olarak "
+"güncellenir. Kullanıcı sıkıştırılmış bir kayıt dosyasını incelemek veya "
+"istatistik için seçtiğinde, dosyanın açılmış kopyası aynı dizin altına "
+"kaydedilir. Bu yöntem sayesinde İstatistik ve Kayıt sayfaları oldukça hızlı "
+"çalışır, ve web arayüzünün bazı özellikleri desteklenir. Bu istatistik ve "
+"açılmış kayıt dosyaları geniş yer kaplayabileceğinden /var/log klasörünü "
+"tutan disk bölümünü olabildiğince geniş tutmanız tavsiye edilir."
+
+msgid "By default, FTP proxy logs connections but not all connection details."
+msgstr ""
+"Varsayılan olarak FTP vekil tüm detaylar olmasa da bağlantıların hepsini "
+"kaydeder."
+
+msgid "Bytes"
+msgstr "Bayt"
+
+msgid "CGI Server"
+msgstr "CGI Sunucu"
+
+msgid "COMMAND"
+msgstr "KOMUT"
+
+msgid "CPU Load"
+msgstr "İşlemci Yükü"
+
+msgid "CPU load of OpenSSH"
+msgstr "OpenSSH'in işlemci yükü"
+
+msgid "CPU load of the DHCP Server"
+msgstr "DHCP sunucunun işlemci yükü"
+
+msgid "CPU load of the FTP Proxy"
+msgstr "FTP vekilin işlemci yükü"
+
+msgid "CPU load of the Web User Interface"
+msgstr "Web Arayüzünün işlemci yükü"
+
+msgid "CPU load of the system"
+msgstr "Sistemin işlemci yükü"
+
+msgid "CPUs"
+msgstr "İşlemciler"
+
+msgid "CRITICAL"
+msgstr "ÖNEMLİ"
+
+msgid "CTLR Logs"
+msgstr "CTLR Kayıtları"
+
+msgid "Cached queries"
+msgstr "Saklanan sorgular"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Cannot determine the resolution in rrdfetch output"
+msgstr "rrdfetch komutunun çıktısından çözünürlük belirlenemedi"
+
+msgid "Cannot find default route"
+msgstr "Öndeğerli yönlendirme adresi bulunamadı"
+
+msgid "Cannot fork process"
+msgstr "Süreç fork edilemedi"
+
+msgid "Cannot generate rule"
+msgstr "Kural üretilemiyor"
+
+msgid "Cannot generate rules"
+msgstr "Kurallar üretilemiyor"
+
+msgid "Cannot get MFS configuration"
+msgstr "MFS ayarları alınamadı"
+
+msgid "Cannot get MFS size"
+msgstr "MFS boyutu alınamadı"
+
+msgid "Cannot get contents of /etc/rc"
+msgstr "/etc/rc içeriği alınamadı"
+
+msgid "Cannot get contents of /etc/sync.var"
+msgstr "/etc/sync.var içeriği alınamadı"
+
+msgid "Cannot get mount MFS"
+msgstr "MFS yükleme ayarı alınamadı"
+
+msgid "Cannot get persistent MFS"
+msgstr "Kalıcı MFS ayarı alınamadı"
+
+msgid "Cannot install rule file"
+msgstr "Kural dosyası kurulamadı"
+
+msgid "Cannot load rules"
+msgstr "Kurallar yüklenemedi"
+
+msgid "Cannot parse rules"
+msgstr "Kurallar işlenemiyor"
+
+msgid "Cannot remove tmp file"
+msgstr "Geçici dosya silinemedi"
+
+msgid "Cannot write to tmp file"
+msgstr "Geçici dosyaya yazılamadı"
+
+msgid "Category"
+msgstr "Sınıf"
+
+msgid ""
+"Changes to system configuration should be applied system-wide.\n"
+"\n"
+"<b>If you modify basic or network settings, you are advised to use this "
+"button.</b>\n"
+"\n"
+"Internal and external physical interface names are obtained from packet "
+"filter configuration, i.e. int_if and ext_if macros."
+msgstr ""
+"Sistem ayarlarındaki değişiklikler sistemin geneline uygulanmalıdır.\n"
+"\n"
+"<b>Temel ve ağ ayarlarını değiştirirseniz, bu tuşu kullanmanız tavsiye "
+"edilir.</b>\n"
+"\n"
+"İç ve dış fiziksel ağ adları paket eleği ayarlarından elde edilir: int_if ve "
+"ext_if makroları."
+
+msgid "Check if process running"
+msgstr "Sürecin çalıştığını kontrol et"
+
+msgid "Cleared"
+msgstr "Temizlenme"
+
+msgid "Click to search in the logs"
+msgstr "Kayıtlarda aramak için tıklayın"
+
+msgid "Click to search in the stats"
+msgstr "İstatistiklerde aramak için tıklayın"
+
+msgid "Client"
+msgstr "İstemci"
+
+msgid "Client IPs"
+msgstr "İstemci IP'leri"
+
+msgid "Clients"
+msgstr "İstemciler"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "Collectd"
+msgstr "Collectd"
+
+msgid "Collectd System Statistics"
+msgstr "Collectd Sistem İstatistikleri"
+
+msgid "Comment"
+msgstr "Yorum"
+
+msgid "Compressed"
+msgstr "Sıkıştırılmış"
+
+msgid "Config"
+msgstr "Ayarlar"
+
+msgid "Configure an interface"
+msgstr "Arayüzü yapılandır"
+
+msgid "Copyright"
+msgstr "Telif hakkı"
+
+msgid "Count"
+msgstr "Sayı"
+
+msgid "Create user"
+msgstr "Kullanıcı yarat"
+
+msgid "Critical"
+msgstr "Önemli"
+
+msgid "Critical Error"
+msgstr "Önemli Hata"
+
+msgid "Current Password"
+msgstr "Mevcut Parola"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DHCP Server"
+msgstr "DHCP Sunucu"
+
+msgid ""
+"DHCP dynamic configuration is used by clients in the internal network to "
+"obtain an IP address and network settings."
+msgstr ""
+"DHCP dinamik yapılandırması iç ağdaki istemciler tarafından IP adresi ve ağ "
+"ayarlarını edinmek için kullanılır."
+
+msgid "DHCP server logs the details of communications with DHCP clients."
+msgstr "DHCP sunucu DHCP istemcileri ile olan iletişimin detaylarını kaydeder."
+
+msgid ""
+"DHCP server supports both dynamic dhcp and bootp protocols. Dynamic leases "
+"can be monitored on this page."
+msgstr ""
+"DHCP sunucu hem dinamik dhcp hem de bootp protokollerini destekler. Dinamik "
+"kiralanan IP adresleri bu sayfadan izlenebilir."
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS Forwarder"
+msgstr "DNS İletici"
+
+msgid "DNS forwarder logs all queries."
+msgstr "DNS iletici tüm sorguları kaydeder."
+
+msgid "DPort"
+msgstr "HPort"
+
+msgid "Daily"
+msgstr "Günlük"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data Transfer"
+msgstr "Veri Aktarımı"
+
+msgid "Data transfer between internal and external interfaces"
+msgstr "İç ve dış arayüzler arasındaki veri aktarımı"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "DateTime"
+msgstr "TarihSaat"
+
+msgid "Datetime wrong"
+msgstr "Tarih-saat hatalı"
+
+msgid "Day"
+msgstr "Gün"
+
+msgid "Debug"
+msgstr "Hata Ayıklama"
+
+msgid "Default"
+msgstr "Öntanım"
+
+msgid "Defaults"
+msgstr "Öntanımlar"
+
+msgid "Delay Packets"
+msgstr "Paketleri Geciktir"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Delete All"
+msgstr "Hepsini Sil"
+
+msgid "Delete DHCP interface"
+msgstr "DHCP arayüzünü sil"
+
+msgid "Delete filter"
+msgstr "Elek sil"
+
+msgid "Delete host"
+msgstr "Bilgisayar sil"
+
+msgid "Delete notifier user"
+msgstr "Uyarı kullanıcısı sil"
+
+msgid "Delete rule file"
+msgstr "Kural dosyasını sil"
+
+msgid "Delete rules file"
+msgstr "Kural dosyasını sil"
+
+msgid "Delete ruleset"
+msgstr "Kural listesini sil"
+
+msgid "Dest"
+msgstr "Hedef"
+
+msgid "Destination"
+msgstr "Hedef"
+
+msgid "Destination Port"
+msgstr "Hedef Kapı"
+
+msgid "Destination addresses"
+msgstr "Hedef adresler"
+
+msgid "Destination ports"
+msgstr "Hedef kapılar"
+
+msgid "Dhcpd"
+msgstr "Dhcpd"
+
+msgid "Dir"
+msgstr "Yön"
+
+msgid "Direction"
+msgstr "Yön"
+
+msgid "Disable"
+msgstr "Kapat"
+
+msgid "Disable config"
+msgstr "Yapılandırmayı kapat"
+
+msgid "Disable notifier"
+msgstr "Uyarıları kapat"
+
+msgid "Disable notifier SSL verify peer"
+msgstr "Uyarı sunucusu SSL doğrulamayı kapat"
+
+msgid "Disabled Services"
+msgstr "Kapalı Servisler"
+
+msgid "Disk I/O"
+msgstr "Disk Yazma/Okuma"
+
+msgid "Disk input and output"
+msgstr "Disk girdi ve çıktıları"
+
+msgid "Disk partition usage"
+msgstr "Disk bölümü kullanımı"
+
+msgid "Disks"
+msgstr "Diskler"
+
+msgid "Display"
+msgstr "Göster"
+
+msgid "Display & Install"
+msgstr "Görüntüle ve Kur"
+
+msgid "Display line numbers"
+msgstr "Satır sayılarını göster"
+
+msgid "Display remote time"
+msgstr "Uzaktaki zamanı göster"
+
+msgid "Display with errors"
+msgstr "Hatalara rağmen göster"
+
+msgid "Divert"
+msgstr "Yön Değiştirme"
+
+msgid "Divert Host"
+msgstr "Yön Değiştirme Adresi"
+
+msgid "Divert Packet"
+msgstr "Paket Yön Değiştirme"
+
+msgid "Divert Port"
+msgstr "Yön Değiştirme Kapısı"
+
+msgid "Divert Reply"
+msgstr "Yön Değiştirmeye Cevap"
+
+msgid "Documentation"
+msgstr "Belgeler"
+
+msgid "Domain"
+msgstr "Alanadı"
+
+msgid "Domains"
+msgstr "Alanadları"
+
+msgid "Down"
+msgstr "Kapat"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "Download ruleset"
+msgstr "Kural listesini indir"
+
+msgid "Download with errors"
+msgstr "Hatalara rağmen indir"
+
+msgid "Downloaded (KB)"
+msgstr "İndirilen (KB)"
+
+msgid "Dropped Bytes"
+msgstr "Engellenen Baytlar"
+
+msgid "Dropped Packets"
+msgstr "Engellenen Paketler"
+
+msgid "DstIP"
+msgstr "HdfIP"
+
+msgid "E-mail address wrong"
+msgstr "E-posta adresi hatalı"
+
+msgid "ERROR"
+msgstr "HATA"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Edit <RULE_TYPE> Rule <RULE_NUMBER>"
+msgstr "<RULE_TYPE> Kuralı <RULE_NUMBER> Düzenleme"
+
+msgid "Editor"
+msgstr "Düzenleyici"
+
+msgid "Enable"
+msgstr "Aç"
+
+msgid "Enable Source Track"
+msgstr "Kaynak Takibini Aç"
+
+msgid "Enable config"
+msgstr "Yapılandırmayı aç"
+
+msgid "Enable hostap on an interface"
+msgstr "Bir arayüzün hostap modunu aç"
+
+msgid "Enable notifier"
+msgstr "Uyarıları aç"
+
+msgid "Enable notifier SSL verify peer"
+msgstr "Uyarı sunucusu SSL doğrulamayı aç"
+
+msgid "Enabled Services"
+msgstr "Açık Servisler"
+
+msgid "End"
+msgstr "Son"
+
+msgid "Enforce TOS"
+msgstr "TOS Uygula"
+
+msgid "English"
+msgstr "İngilizce"
+
+msgid "Enter blank lines here"
+msgstr "Buraya boş satır girin"
+
+msgid "Enter comment here"
+msgstr "Buraya yorum girin"
+
+msgid "Enter inline rules here"
+msgstr "Buraya satıriçi kuralları girin"
+
+msgid "Erase statistics files"
+msgstr "İstatistik dosyalarını sil"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Error in include file"
+msgstr "Eklenen dosyada hata"
+
+msgid "Error loading, rule load forced"
+msgstr "Yüklemede hata, kural hatalara rağmen yüklendi"
+
+msgid "Error loading, rule loaded partially"
+msgstr "Yüklemede hata, kural sorunlu olarak yüklendi"
+
+msgid "Evaluations"
+msgstr "Değerlendirme"
+
+msgid "Expire"
+msgstr "Zamanaşımı"
+
+msgid "Export To pflow"
+msgstr "Pflow'a Aktar"
+
+msgid "Expr"
+msgstr "Aşım"
+
+msgid "External Interface"
+msgstr "Dış Arayüz"
+
+msgid "External interface"
+msgstr "Dış arayüz"
+
+msgid "FAILED"
+msgstr "BAŞARISIZ"
+
+msgid "FTP PROXY"
+msgstr "FTP VEKİL"
+
+msgid "FTP Proxy"
+msgstr "FTP Vekil"
+
+msgid "Failed attempts"
+msgstr "Başarısız denemeler"
+
+msgid "Failed creating or attaching to message queue"
+msgstr "Mesaj kuyruğu yaratılamadı veya bağlantı başarısız oldu"
+
+msgid "Failed deleting"
+msgstr "Silme işlemli başarısız oldu"
+
+msgid "Failed downloading, cannot generate pf rules"
+msgstr "İndirme işlemi başarısız oldu, pf kuralları üretilemiyor"
+
+msgid "Failed executing rrdfetch"
+msgstr "rrdfetch komutu başarısız oldu"
+
+msgid "Failed loading"
+msgstr "Yükleme işlemi başarısız oldu"
+
+msgid "Failed loading main pf rules"
+msgstr "Ana pf kurallarının yüklenmesi başarısız oldu"
+
+msgid "Failed loading rules"
+msgstr "Kural yüklemesi başarısız oldu"
+
+msgid "Failed login attempts to the SSH Server"
+msgstr "SSH sunucuya yapılan başarısız giriş denemeleri"
+
+msgid "Failed queries"
+msgstr "Başarısız sorgular"
+
+msgid "Failed removing message queue"
+msgstr "Mesaj kuyruğunun silinmesi başarısız oldu"
+
+msgid "Failed running pfctl command"
+msgstr "Pfctl komutu başarısız oldu"
+
+msgid "Failed saving"
+msgstr "Kayıt işlemi başarısız oldu"
+
+msgid "Failed testing rules"
+msgstr "Kuralların testi başarısız oldu"
+
+msgid "Failed testing ruleset"
+msgstr "Kural listesinin testi başarısız oldu"
+
+msgid "Failed uploading"
+msgstr "Karşıya yükleme işlemi başarısız oldu"
+
+msgid "Failed users"
+msgstr "Başarısız kullanıcılar"
+
+msgid "Failed validating command line"
+msgstr "Komut satırı doğrulaması başarısız oldu"
+
+msgid "Failure reason"
+msgstr "Başarısızlık sebebi"
+
+msgid "Fan"
+msgstr "Fan"
+
+msgid "File"
+msgstr "Dosya"
+
+msgid "File does not exit"
+msgstr "Dosya mevcut değil"
+
+msgid "File too large, will not process files larger than <SIZE> MB"
+msgstr "Dosya fazla büyük,<SIZE> MB'dan büyük dosyalar işlenmez"
+
+msgid "File uploaded"
+msgstr "Dosya karşıya yüklendi"
+
+msgid "Filename not accepted"
+msgstr "Dosya adı kabul edilmedi"
+
+msgid "Filepath wrong"
+msgstr "Dosya yolu yanlış"
+
+msgid "Filter"
+msgstr "Elek"
+
+msgid "Filters"
+msgstr "Elekler"
+
+msgid "Fingerprints File"
+msgstr "Parmakizi Dosyası"
+
+msgid "Flag"
+msgstr "Bayrak"
+
+msgid "Flags"
+msgstr "Bayraklar"
+
+msgid "Flows"
+msgstr "Akışlar"
+
+msgid "Force HTTPs"
+msgstr "HTTPs Uygula"
+
+msgid "Fragment"
+msgstr "Parça"
+
+msgid "Frags"
+msgstr "Parçalar"
+
+msgid "From Redirect Host"
+msgstr "Yönlendirme Adresinden"
+
+msgid "Function"
+msgstr "Fonksiyon"
+
+msgid "GROUP"
+msgstr "GRUP"
+
+msgid "Gateway"
+msgstr "Ağ geçidi"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "General Statistics"
+msgstr "Genel İstatistikler"
+
+msgid "Generate"
+msgstr "Üret"
+
+msgid "Generate SSL key pair"
+msgstr "SSL anahtarını üret"
+
+msgid "Generate rule"
+msgstr "Kural üretimi"
+
+msgid "Generate rules"
+msgstr "Kural listesi üretimi"
+
+msgid "Generate with errors"
+msgstr "Hatalara rağmen üret"
+
+msgid "Get DHCP IP range"
+msgstr "DHCP IP aralığını getir"
+
+msgid "Get DHCP interfaces"
+msgstr "DHCP arayüzlerini getir"
+
+msgid "Get DHCP option"
+msgstr "DHCP seçeneğini getir"
+
+msgid "Get MFS config"
+msgstr "MFS ayarlarını getir"
+
+msgid "Get all stats"
+msgstr "Tüm istatistikleri getir"
+
+msgid "Get arp table"
+msgstr "Arp tablosunu getir"
+
+msgid "Get arp table size"
+msgstr "Arp tablosu boyutunu getir"
+
+msgid "Get config values"
+msgstr "Yapılandırma değerlerini getir"
+
+msgid "Get configuration"
+msgstr "Yapılandırmayı getir"
+
+msgid "Get critical errors"
+msgstr "Kritik hataları getir"
+
+msgid "Get datetime"
+msgstr "Tarih-saati getir"
+
+msgid "Get dhcp leases"
+msgstr "Kiralanan DHCP adreslerini getir"
+
+msgid "Get dhcp leases count"
+msgstr "Kiralanan DHCP adres sayısını getir"
+
+msgid "Get ext_if"
+msgstr "ext_if'i getir"
+
+msgid "Get graph"
+msgstr "Grafiği getir"
+
+msgid "Get if config"
+msgstr "Arayüz yapılandırmasını getir"
+
+msgid "Get int_if"
+msgstr "int_if'i getir"
+
+msgid "Get interface DNS forwarder listens on"
+msgstr "DNS ileticinin dinlediği arayüzü getir"
+
+msgid "Get last logs"
+msgstr "Son kayıtları getir"
+
+msgid "Get line count"
+msgstr "Satır sayısını getir"
+
+msgid "Get lines"
+msgstr "Satırları getir"
+
+msgid "Get log file"
+msgstr "Kayıt dosyasını getir"
+
+msgid "Get log files list"
+msgstr "Kayıt dosyası listesini getir"
+
+msgid "Get log start date"
+msgstr "Kayıt başlangıç tarihini getir"
+
+msgid "Get logs configuration"
+msgstr "Kayıt yapılandırmasını getir"
+
+msgid "Get module status"
+msgstr "Modül durumunu getir"
+
+msgid "Get partition list"
+msgstr "Disk bölümü listesini getir"
+
+msgid "Get pf info"
+msgstr "Pf bilgisini getir"
+
+msgid "Get pf interface info"
+msgstr "Pf arayüz bilgisini getir"
+
+msgid "Get pf memory info"
+msgstr "Pf bellek bilgisini getir"
+
+msgid "Get pf queue info"
+msgstr "Pf kuyruk bilgisini getir"
+
+msgid "Get pf rules info"
+msgstr "Pf kural bilgisini getir"
+
+msgid "Get pf state count"
+msgstr "Pf durum sayısını getir"
+
+msgid "Get pf states"
+msgstr "Pf durumlarını getir"
+
+msgid "Get pf timeout info"
+msgstr "Pf zaman aşımı bilgisini getir"
+
+msgid "Get process list"
+msgstr "Süreç listesini getir"
+
+msgid "Get reload rate"
+msgstr "Tekrar yükleme süresini getir"
+
+msgid "Get remote time"
+msgstr "Uzaktaki zamanı getir"
+
+msgid "Get rule files"
+msgstr "Kural dosyalarını getir"
+
+msgid "Get rules"
+msgstr "Kuralları getir"
+
+msgid "Get service start status"
+msgstr "Servis başlatma durumunu getir"
+
+msgid "Get service status"
+msgstr "Servis durumunu getir"
+
+msgid "Get software version"
+msgstr "Yazılım sürümünü getir"
+
+msgid "Get stat lines"
+msgstr "İstatistik satırlarını getir"
+
+msgid "Get stats"
+msgstr "İstatistikleri getir"
+
+msgid "Get sysctl values"
+msgstr "Sysctl değerlerini getir"
+
+msgid "Get system admin e-mail address"
+msgstr "Sistem yöneticisi e-posta adresini getir"
+
+msgid "Get system gateway"
+msgstr "Sistem ağ geçidini getir"
+
+msgid "Get system information"
+msgstr "Sistem bilgisini getir"
+
+msgid "Get tail"
+msgstr "Kuyruğunu getir"
+
+msgid "Graph files"
+msgstr "Grafik dosyaları"
+
+msgid "Graphs"
+msgstr "Grafikler"
+
+msgid ""
+"Graphs on this web user interface are generated by these monitoring "
+"processes. Settings of these software are handled by automatic configuration."
+msgstr ""
+"Web arayüzündeki grafikler gözlemleme süreçleri tarafından üretilmektedir. "
+"Bu yazılımlar otomatik yapılandırma tarafından ayarlanır."
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "HOSTS"
+msgstr "CİHAZLAR"
+
+msgid "HTTP Codes"
+msgstr "HTTP Kodu"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "Help Boxes"
+msgstr "Yardım Kutuları"
+
+msgid ""
+"Here you can change the web administration interface passwords for admin and "
+"user. Passwords should have at least 8 alphanumeric characters.\n"
+"\n"
+"Admin can change the user password without knowing the current user "
+"password. But if you forget the admin password, you should login to the "
+"system as root and run the following on the command line to set the password "
+"to soner123:\n"
+"<code>/usr/bin/chpass -a \"admin:$(/usr/bin/encrypt `/bin/echo -n soner123 | "
+"sha1 -`):1000:1000::0:0:PFFW admin:/var/empty:/var/www/htdocs/pffw/"
+"Controller/sh.php\"</code>"
+msgstr ""
+"Buradan admin ve user kullanıcılarının web arayüzü parolasını "
+"değiştirebilirsiniz. Parolalarda en az 8 harf veya rakam bulunmalıdır.\n"
+"\n"
+"Admin kullanıcısı user kullanıcısının mevcut parolasını bilmiyor olsa da "
+"değiştirebilir. Ama admin parolasını unutursanız, sisteme root olarak girip "
+"aşağıdaki komutu çalıştırarak parolayı soner123'e ayarlayabilirsiniz:\n"
+"<code>/usr/bin/chpass -a \"admin:$(/usr/bin/encrypt `/bin/echo -n soner123 | "
+"sha1 -`):1000:1000::0:0:PFFW admin:/var/empty:/var/www/htdocs/pffw/"
+"Controller/sh.php\"</code>"
+
+msgid ""
+"Here you can enable or disable the Packet Filter. Note that most services "
+"depend on the packet filter being enabled."
+msgstr ""
+"Buradan Paket Eleğini açıp kapayabilirsiniz. Çoğu servisin paket eleğine "
+"bağlı çalıştığını unutmayın."
+
+msgid ""
+"Here you can reinitialize, hence erase all accumulated data in graph source "
+"files.\n"
+"\n"
+"This may be necessary if these files are corrupted and you cannot see any "
+"graphs displayed, such as when the system clock is set to a very distant "
+"time."
+msgstr ""
+"Buradan grafik kaynak dosyalarında birikmiş bütün veriyi "
+"sıfırlayabilirsiniz.\n"
+"\n"
+"Bu dosyalar bozulmuşsa ve grafikler hiçbir veri göstermiyorsa bu gerekli "
+"olabilir. Bu durum sistem saati çok uzak bir zamana ayarlandığında "
+"oluşabilir."
+
+msgid ""
+"Here you can rotate all log files manually. Note that this action forcefully "
+"rotates all log files irrespective of the configuration displayed on this "
+"page. Normally this should not be necessary."
+msgstr ""
+"Buradan bütün kayıt dosyalarını elle döndürebilirsiniz. Bu işlemin bu "
+"sayfadaki ayarlardan bağımsız olarak bütün kayıt dosyalarını döndüreceğini "
+"unutmayın. Normalde bu işlem gerekli olmamalıdır."
+
+msgid "Horizontal"
+msgstr "Yatay"
+
+msgid "Host"
+msgstr "Cihaz"
+
+msgid "Host Id"
+msgstr "Adres Kimliği"
+
+msgid "Host wrong"
+msgstr "Bilgisayar öğesi hatalı"
+
+msgid "Hostname"
+msgstr "Sistem Adı"
+
+msgid "Hosts"
+msgstr "Bilgisayarlar"
+
+msgid "Hour"
+msgstr "Saat"
+
+msgid "Hourly"
+msgstr "Saatlik"
+
+msgid "ICMP Timeouts"
+msgstr "ICMP Zaman Aşımları"
+
+msgid "ICMP Type"
+msgstr "ICMP Türü"
+
+msgid "ICMP6 Type"
+msgstr "ICMP6 Türü"
+
+msgid "INFORMATION"
+msgstr "BİLGİ"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Forwarding"
+msgstr "IP Yönlendirme"
+
+msgid "IP address wrong"
+msgstr "IP adresi hatalı"
+
+msgid "IP or IP list wrong"
+msgstr "IP veya IP listesi hatalı"
+
+msgid "IP range"
+msgstr "IP aralığı"
+
+msgid "IP range wrong"
+msgstr "IP aralığı hatalı"
+
+msgid "IPs querying"
+msgstr "Sorgulayan IP'ler"
+
+msgid "IPv4"
+msgstr "IPv4"
+
+msgid "IPv6"
+msgstr "IPv6"
+
+msgid "Id"
+msgstr "Kimlik"
+
+msgid "Identifier"
+msgstr "Tanımlayıcı"
+
+msgid "If"
+msgstr "Arayüz"
+
+msgid ""
+"If enabled, authentication pages are forced to use secure connections. Make "
+"sure you have a working SSL setup in the web server configuration, otherwise "
+"you cannot even log in to the web user interface. It is advised to use "
+"secure HTTP."
+msgstr ""
+"Bu ayar açıksa parola giriş sayfaları sadece şifreli bağlantı kullanır. Web "
+"sunucusunda doğru çalışan bir SSL ayarı olduğundan emin olun, aksi taktirde "
+"bu ayar nedeniyle web arayüzüne giriş yapamazsınız. Güvenli HTTP kullanmanız "
+"tavsiye edilir."
+
+msgid ""
+"If there is enough memeory on the system, mounting /var/log on a memory-"
+"based file system can improve the performance of the system, especially if "
+"the disk is slow. These settings configure /var/log as MFS.\n"
+"\n"
+"If you enable MFS, /var/log is mounted as MFS on the next boot.\n"
+"\n"
+"If you enable persistent MFS, the system starts syncing /var/log to disk, "
+"periodically and during shutdown, so that its contents are not lost and can "
+"be used after reboot. Note that syncing /var/log to disk may take some "
+"time.\n"
+"\n"
+"You are advised to choose an MFS size of at least 1024m."
+msgstr ""
+"Sistemde yeterli bellek varsa, /var/log klasörünü bellek tabanlı dosya "
+"sistemi olarak yüklemek özellikle disk yavaşsa sistem performansını "
+"iyileştirebilir. Bu ayarlar /var/log klasörünü MFS olarak yapılandırır.\n"
+"\n"
+"MFS'i etkinleştirirseniz, /var/log bir sonraki başlamada MFS olarak "
+"yüklenecektir.\n"
+"\n"
+"Kalıcı MFS'i etkinleştirirseniz, sistem /var/log klasörünü belli aralıklarla "
+"ve kapanma sırasında diske kaydeder, bu sayede klasörün içeriği kaybolmaz ve "
+"sistem yeniden başlarken kullanılabilir. /var/log klasörünü diske kaydetmek "
+"zaman alabilir.\n"
+"\n"
+"En az 1024m büyüklüğünde bir MFS boyutu seçmeniz tavsiye edilir."
+
+msgid ""
+"If you are not seeing as many number of lines as you were expecting, this "
+"may be because the log file has turned over and put in a compressed archive "
+"file.\n"
+"\n"
+"You can search the logs by entering keywords or extended regular expressions "
+"in Regexp box. Regular expressions are de-facto standard for text searching."
+msgstr ""
+"Beklediğiniz kadar satır görmüyorsanız kayıt dosyası döndürülmüş ve "
+"sıkıştırılmış bir arşiv dosyasına konmuş olabilir.\n"
+"\n"
+"Düzenli ifade kutusunu kullanarak anahtar kelime veya gelişmiş düzenli "
+"ifadelerle kayıtları aratabilirsiniz. Düzenli ifadeler metin aramada "
+"standart kabul edilir."
+
+msgid ""
+"If you modify network configuration, you can use this button to restart the "
+"network."
+msgstr ""
+"Ağ yapılandırmasını değiştirirseniz, bu tuşu kullanarak ağı tekrar "
+"başlatabilirsiniz."
+
+msgid ""
+"If your system has a multi-core CPU or more than one CPU, you can run the "
+"SMP kernel. If this page does not display multiple graphs, one for each CPU, "
+"after you switch to the SMP kernel, go to system configuration pages, apply "
+"automatic configuration, and reinitialize graph files."
+msgstr ""
+"Sisteminizde çok çekirdekli bir işlemci veya birden fazla işlemci varsa, SMP "
+"çekirdeği kullanabilirsiniz. Bu sayfa her işlemci için bir grafik "
+"göstermiyorsa, SMP çekirdeğe geçtiğinizde sistem yapılandırma sayfalarından "
+"otomatik yapılandırmayı çalıştırın ve grafik dosyalarını sıfırlayın."
+
+msgid "In the last <INTERVAL> seconds."
+msgstr "Son <INTERVAL> saniyede."
+
+msgid ""
+"In these manual pages, you can find extensive information about the system "
+"and services."
+msgstr ""
+"Kılavuz sayfalarından sistem ve servislerle ilgili kapsamlı bilgiye "
+"ulaşabilirsiniz."
+
+msgid "In4 Block"
+msgstr "İçeri IP4 Engelleme"
+
+msgid "In4 Pass"
+msgstr "İçeri IP4 Geçirme"
+
+msgid "In6 Block"
+msgstr "İçeri IP6 Engelleme"
+
+msgid "In6 Pass"
+msgstr "İçeri IP6 Geçirme"
+
+msgid "Include"
+msgstr "Ekleme"
+
+msgid "Info"
+msgstr "Bilgi"
+
+msgid "Init"
+msgstr "Sıfırla"
+
+msgid "Init graphs"
+msgstr "Grafikleri sıfırla"
+
+msgid "Inline Rules"
+msgstr "Aynısatır Kuralları"
+
+msgid ""
+"Inline anchor rules can be nested. It is advised to limit the number of "
+"nesting allowed. Parsing and validation stop at this many number of nesting."
+msgstr ""
+"Satıriçi çapa kuralları içiçe olabilir. Bu içiçe çapa sayısının sınırlanması "
+"tavsiye edilir. Bu ayardaki içiçe çapa sayısına ulaşıldığında kural işleme "
+"ve doğrulama işlemleri durur."
+
+msgid "Inline rules"
+msgstr "Aynısatır kuralları"
+
+msgid "Inserted"
+msgstr "Eklenme"
+
+msgid "Install"
+msgstr "Kur"
+
+msgid "Install as main ruleset"
+msgstr "Ana kural listesi olarak kur"
+
+msgid "Install rules"
+msgstr "Kural kurulumu"
+
+msgid "Installed successfully"
+msgstr "Başarıyla kuruldu"
+
+msgid "Interface"
+msgstr "Arayüz"
+
+msgid "Interface Binding"
+msgstr "Arayüz Bağlantısı"
+
+msgid "Interface up or down"
+msgstr "Arayüzü aç veya kapat"
+
+msgid "Interfaces"
+msgstr "Arayüzler"
+
+msgid "Internal Interface"
+msgstr "Yerel Arayüz"
+
+msgid ""
+"Internal clients connect to FTP servers on the external network via this FTP "
+"proxy. Since FTP protocol makes use of ports other than the ftp ports, "
+"allowing requests to ftp ports only is not enough. You need to run an FTP "
+"proxy."
+msgstr ""
+"İç ağdaki kullanıcılar dışarıdaki FTP sunuculara FTP vekil aracılığıyla "
+"ulaşırlar. FTP protokolü ftp kapıları dışında başka kapıları da "
+"kullandığından ftp kapılarından geçişe izin verilmesi yeterli değildir. Bir "
+"FTP vekile ihtiyacınız vardır."
+
+msgid "Internal interface"
+msgstr "Yerel arayüz"
+
+msgid "Interval"
+msgstr "Zaman Aralığı"
+
+msgid "Invalid destination rule number"
+msgstr "Geçersiz hedef kural numarası"
+
+msgid "Invalid inline rules, parser output"
+msgstr "Geçersiz satıriçi kurallar, işleme çıktısı"
+
+msgid "Invalid rule number"
+msgstr "Geçersiz kural numarası"
+
+msgid "Invalid value"
+msgstr "Geçersiz değer"
+
+msgid "Invalid value for"
+msgstr "Geçersiz değer"
+
+msgid "Is notifier enabled"
+msgstr "Uyarılar açık mı"
+
+msgid "LEASES"
+msgstr "KİRALAMALAR"
+
+msgid "Label"
+msgstr "Etiket"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Last <INTERVAL>"
+msgstr "Son <INTERVAL>"
+
+msgid "Last >>"
+msgstr "Son >>"
+
+msgid "Leases"
+msgstr "Kiralar"
+
+msgid "Limit"
+msgstr "Sınırlar"
+
+msgid "Line"
+msgstr "Satır"
+
+msgid "Line number"
+msgstr "Satır numarası"
+
+msgid "Lines per page"
+msgstr "Satır sayısı"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Links"
+msgstr "Bağlantılar"
+
+msgid "List hosts"
+msgstr "Bilgisayarları listele"
+
+msgid "List physical interfaces"
+msgstr "Fiziksel arayüzleri listele"
+
+msgid "Listen Address"
+msgstr "Dinleme adresi"
+
+msgid "Listen on"
+msgstr "Dinleme arayüzü"
+
+msgid "Live"
+msgstr "Canlı"
+
+msgid "Load"
+msgstr "Yükle"
+
+msgid "Load & Save"
+msgstr "Yükle ve Kaydet"
+
+msgid "Load Anchor"
+msgstr "Yükleme Çapası"
+
+msgid "Load Error"
+msgstr "Yükleme Hatası"
+
+msgid "Load rules from file"
+msgstr "Kuralları dosyadan yükle"
+
+msgid "Load ruleset"
+msgstr "Kural listesini yükle"
+
+msgid "Load with errors"
+msgstr "Hatalara rağmen yükle"
+
+msgid "Log"
+msgstr "Kayıt"
+
+msgid "Log Interface"
+msgstr "Kayıt Arayüzü"
+
+msgid "Log Level"
+msgstr "Kayıt Seviyesi"
+
+msgid ""
+"Log files are rotated according to two main criteria: size and time, "
+"whichever is reached first. When a log file is rotated, it is renamed and "
+"compressed, and a new one is opened for writing.\n"
+"<ul><li>Count is the maximum number of compressed log files to keep.</"
+"li><li>Size is the maximum file size. The log file will be rotated when its "
+"file size reaches this value. The unit is KB.</li><li>When defines the "
+"frequency interval of rotation. This is in hours. For example, 168 means "
+"once each week. This web user interface supports only interval format, not "
+"time format for this setting.</li></ul>Asterisk (*) means don't care.\n"
+"\n"
+"Note that log files contain very important information about system and "
+"network activity. Statistics are generated over these log files."
+msgstr ""
+"Kayıt dosyaları iki ana kıstas kullanılarak döndürülür: boyut ve süre, "
+"hangisine daha önce ulaşılırsa. Bir kayıt dosyası döndürülürken adı "
+"değiştirilir, sıkıştırılır ve yenisi kayıt için açılır.\n"
+"<ul><li>Sayı tutulacak en fazla sıkıştırılmış dosya sayısıdır.</li><li>Boyut "
+"en büyük dosya boyutudur. Kayıt dosyası dosya boyu bu değere ulaştığında "
+"döndürülecektir. Birimi KB'dır.</li><li>Zaman döndürmenin sıklığını "
+"tanımlar. Saat cinsindendir. Örneğin, 168 haftada bir demektir. Web arayüzü "
+"sadece zaman aralığı biçimini destekler, sabit zaman biçimi desteklenmez.</"
+"li></ul>Asterisk (*) kıstasın dikkate alınmamasını sağlar.\n"
+"\n"
+"Kayıt dosyalarının sistem ve ağ etkinliği ile ilgili çok önemli bilgiler "
+"içerdiğini unutmayın. İstatistikler bu kayıt dosyaları üzerinden üretilir."
+
+msgid "Log in"
+msgstr "Gir"
+
+msgid ""
+"Log keeping capacity of PFFW is limited only by the size of the disks on "
+"your system.\n"
+"\n"
+"If you are not seeing as many number of lines as you were expecting, this "
+"may be because the log file has turned over and put in a compressed archive "
+"file. The default maximum number of archive files for most services is 100, "
+"and can be configured on the system configuration pages. Depending on how "
+"busy a service it is, this many log archives may mean months of logging in "
+"most cases. You can download the log files using the Download button.\n"
+"\n"
+"You can search the logs by entering keywords or extended regular expressions "
+"in Regexp box. Regular expressions are de-facto standard for text searching."
+msgstr ""
+"PFFW'nun kayıt tutma kapasitesi sadece sisteminizdeki disklerin boyutuyla "
+"sınırlıdır.\n"
+"\n"
+"Beklediğiniz kadar satır görmüyorsanız kayıt dosyası döndürülmüş ve "
+"sıkıştırılmış bir arşiv dosyasına konmuş olabilir. En fazla arşiv dosya "
+"sayısının öndeğeri çoğu servis için 100'dür, ve sistem yapılandırma "
+"sayfalarından değiştirilebilir. Servisin ne kadar yoğun çalıştığına bağlı "
+"olarak çoğu durumda bu kayıt arşivi sayısı aylarca tutulmuş kayıt anlamına "
+"gelebilir. Kayıt dosyalarını İndir tuşunu kullanarak indirebilirsiniz.\n"
+"\n"
+"Düzenli ifade kutusunu kullanarak anahtar kelime veya gelişmiş düzenli "
+"ifadelerle kayıtları aratabilirsiniz. Düzenli ifadeler metin aramada "
+"standart kabul edilir."
+
+msgid "Logged in user"
+msgstr "Giriş yapmış kullanıcı"
+
+msgid "Logging"
+msgstr "Kayıt"
+
+msgid "Login Grace Time"
+msgstr "Giriş vade süresi"
+
+msgid "Logout"
+msgstr "Çıkış"
+
+msgid "Logs"
+msgstr "Kayıtlar"
+
+msgid "Loopback Interface"
+msgstr "Döngü Arayüzü"
+
+msgid "Loopback is a logical interface."
+msgstr "Döngü arayüzü mantıksal bir arayüzdür."
+
+msgid "MAC"
+msgstr "MAC"
+
+msgid "MONITORING"
+msgstr "GÖZLEMLEME"
+
+msgid "Machine"
+msgstr "Makina"
+
+msgid "Macro"
+msgstr "Makro"
+
+msgid "Main pf rules reloaded"
+msgstr "Ana pf kuralları yeniden yüklendi"
+
+msgid "Make Dynamic"
+msgstr "Dinamik Yap"
+
+msgid "Make Static"
+msgstr "Statik Yap"
+
+msgid "Make system gateway dynamic"
+msgstr "Sistem ağ geçidini dinamik yap"
+
+msgid "Make system gateway static"
+msgstr "Sistem ağ geçidini sabit yap"
+
+msgid "Match All"
+msgstr "Hepsini Eşle"
+
+msgid "Match Priority"
+msgstr "Öncelik Eşle"
+
+msgid "Match TOS"
+msgstr "TOS Eşle"
+
+msgid "Match Tagged"
+msgstr "Tag Eşle"
+
+msgid "Matched requests"
+msgstr "Eşleşen istekler"
+
+msgid "Max"
+msgstr "En fazla"
+
+msgid "Max Addresses"
+msgstr "En Fazla Adres Sayısı"
+
+msgid "Max Anchor Nesting"
+msgstr "En Fazla İçiçe Çapa Sayısı"
+
+msgid "Max Auth Tries"
+msgstr "Doğrulama deneme üst sınırı"
+
+msgid "Max Connection"
+msgstr "En Fazla Bağlantı"
+
+msgid "Max Connection Rate"
+msgstr "En Yüksek Bağlantı Hızı"
+
+msgid "Max File Size To Process"
+msgstr "İşlenecek En Fazla Dosya Boyutu"
+
+msgid "Max MSS"
+msgstr "En Yüksek MSS"
+
+msgid "Max Packet Rate"
+msgstr "En Yüksek Paket Hızı"
+
+msgid "Max Single Host States"
+msgstr "Tek Adres için En Fazla Durum Sayısı"
+
+msgid "Max States"
+msgstr "En Fazla Durum Sayısı"
+
+msgid "Max-mss"
+msgstr "En yüksek-mss"
+
+msgid "MaxStartups"
+msgstr "Başlangıç üst sınırı"
+
+msgid "Mbuf Statistics"
+msgstr "Mbuf İstatistikleri"
+
+msgid "Mbufs"
+msgstr "Mbuf'lar"
+
+msgid "Mbufs indicate kernel memory management for networking."
+msgstr "Mbuf'lar çekirdeğin ağ yönetim belleğini gösterir."
+
+msgid "Memory"
+msgstr "Bellek"
+
+msgid "Memory Usage"
+msgstr "Bellek Kullanımı"
+
+msgid "Memory usage"
+msgstr "Bellek kullanımı"
+
+msgid "Memory-based file system"
+msgstr "Bellek tabanlı dosya sistemi"
+
+msgid "Merges separated comments"
+msgstr "Ayrılmış yorumları birleştirir"
+
+msgid "Method does not exist"
+msgstr "Yöntem bulunamadı"
+
+msgid "Methods"
+msgstr "Yöntemler"
+
+msgid "Mfs size wrong"
+msgstr "Mfs boyutu hatalı"
+
+msgid "Min"
+msgstr "En az"
+
+msgid "Min TTL"
+msgstr "En düşük TTL"
+
+msgid "Min-ttl"
+msgstr "En düşük-ttl"
+
+msgid "Minute"
+msgstr "Dakika"
+
+msgid "Month"
+msgstr "Ay"
+
+msgid "Motherboard"
+msgstr "Anakart"
+
+msgid "Move"
+msgstr "Taşı"
+
+msgid "Move down"
+msgstr "Aşağı taşı"
+
+msgid "Move up"
+msgstr "Yukarı taşı"
+
+msgid "Mtd"
+msgstr "Yntm"
+
+msgid "Multiple values not allowed for"
+msgstr "Birden fazla değer kullanılamaz"
+
+msgid "NI"
+msgstr "NI"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "Name server"
+msgstr "Ad sunucusu"
+
+msgid "Name wrong"
+msgstr "Ad yanlış"
+
+msgid "Nameserver"
+msgstr "Ad sunucu"
+
+msgid "Nat"
+msgstr "Adres Çevirisi"
+
+msgid "Needle"
+msgstr "Sorgu"
+
+msgid "Network"
+msgstr "Ağ"
+
+msgid "Network Protocol Usage"
+msgstr "Ağ Protokol Kullanımı"
+
+msgid "Network Time"
+msgstr "Ağ Zamanı"
+
+msgid ""
+"Network interfaces are listed here. You can configure an interface as dhcp/"
+"autoconf or inet. Changes made here do not take effect until you restart the "
+"network or reboot the system."
+msgstr ""
+"Burada ağ arayüzleri listelenmektedir. Arayüzleri dhcp/autoconf veya inet "
+"olarak ayarlayabilirsiniz. Burada yaptığınız değişiklikler ağı veya sistemi "
+"tekrar başlatana kadar geçerli olmazlar."
+
+msgid "New Password"
+msgstr "Yeni Parola"
+
+msgid "New Password Again"
+msgstr "Tekrar Yeni Parola"
+
+msgid ""
+"New system hostname does not fully take effect until after reboot.\n"
+"\n"
+"Messages to the system administrator are directly transfered to the mail "
+"server hosting the e-mail address you have provided above. The remote mail "
+"server may consider e-mails sent from this system as spam, and move them "
+"into your spam or junk folder."
+msgstr ""
+"Yeni sistem adı yeniden başlatılana kadar tam olarak etki etmez.\n"
+"\n"
+"Sistem yöneticisine gönderilecek mesajlar yukarıda sağladığınız adresi tutan "
+"e-posta sunucusuna doğrudan iletilir. Uzaktaki e-posta sunucusu bu sistemden "
+"gönderilen e-postaları spam olarak kabul edip spam dizinine taşıyabilir."
+
+msgid "Next >"
+msgstr "Sonraki >"
+
+msgid "No Errors"
+msgstr "Hata yok"
+
+msgid "No Queues defined"
+msgstr "Kuyruk tanımlanmamış"
+
+msgid "No default banner path"
+msgstr "Varsayılan bir afiş yolu ayarlar."
+
+msgid "No pfsync"
+msgstr "Pfsync olmadan"
+
+msgid "No regex or func def for"
+msgstr "Regex veya fonksiyon tanımlanmamış"
+
+msgid "No such file"
+msgstr "Böyle bir dosya yok"
+
+msgid "Not JSON encoded string"
+msgstr "JSON ile kodlanmış bir metin değil"
+
+msgid "Not asterisk"
+msgstr "Asterisk değil"
+
+msgid "Not boolean"
+msgstr "Boolean değir"
+
+msgid "Not config name"
+msgstr "Yapılandırma adı değil"
+
+msgid "Not empty string"
+msgstr "Boş dizi değil"
+
+msgid "Not enough args"
+msgstr "Argüman sayısı yetersiz"
+
+msgid "Not running command"
+msgstr "Komut çalıştırılmadı"
+
+msgid "Not serialized array"
+msgstr "Serileştirilmiş tablo değil"
+
+msgid "Not sha1 encrypted string"
+msgstr "Sha1 ile şifrelenmiş bir metin değil"
+
+msgid "Notification Service"
+msgstr "Uyarı Servisi"
+
+msgid "Notifications"
+msgstr "Uyarılar"
+
+msgid "Notifier"
+msgstr "Uyarılar"
+
+msgid "Notifier API Key"
+msgstr "Uyarı API Anahtarı"
+
+msgid "Notifier Timeout"
+msgstr "Uyarı Zaman Aşımı"
+
+msgid ""
+"Notifier runs every minute to check the system status and send Firebase push "
+"notifications based on the settings on this page. You can change the "
+"frequency of notifications on the crontab of root.\n"
+"\n"
+"When the user logs in to the mobile application, the application "
+"automatically adds its device token to the registration ids displayed on "
+"this page. And it deletes its token when the user logs out. So the "
+"notifications are sent to that device only while the user is logged in to "
+"the application. You can manually add or delete tokens on this page."
+msgstr ""
+"Uyarı servisi her dakika çalışarak sistem durumunu kontrol eder ve bu "
+"sayfadaki ayarlara göre Firebase uyarıları olarak gönderir. Uyarıların "
+"sıklığını root kullanıcısının crontab dosyasından değiştirebilirsiniz.\n"
+"\n"
+"Kullanıcı mobil uygulamaya giriş yaptığında uygulama otomatik olarak aygıt "
+"simgesini bu sayfada lıstelenen kayıtlı kullanıcılar arasına ekler. Ve "
+"kullanıcı çıkış yaptığında da listeden siler. Bu nedenle, uyarılar mobil "
+"cihaza sadece kullanıcı giriş yaptığı sürece gönderilir. Aygıt simgelerini "
+"bu sayfadan elle ekleyip silebilirsiniz."
+
+msgid ""
+"Notifier times out trying to connect to the notification server after a "
+"period defined by this value. The unit is in seconds."
+msgstr ""
+"Uyarılar uyarı sunucusuna burada belirlenen süre boyunca bağlantı kurmaya "
+"çalışır ve sonra zaman aşımına uğrar. Değer saniye cinsindendir."
+
+msgid "Notify Level"
+msgstr "Uyarı Seviyesi"
+
+msgid "Number"
+msgstr "Sayı"
+
+msgid "Number of Processes"
+msgstr "Süreç Sayısı"
+
+msgid "Number of hosts on the system ARP table"
+msgstr "Sistemin ARP tablosundaki cihaz sayısı"
+
+msgid "Number of leases assigned to clients by the DHCP Server"
+msgstr "DHCP sunucu tarafından istemcilere atanan kiralamaların sayısı"
+
+msgid "Number of lines"
+msgstr "Satır sayısı"
+
+msgid "Number of processes"
+msgstr "Süreç sayısı"
+
+msgid ""
+"Number of servers to start initially --- should be a reasonable ballpark "
+"figure."
+msgstr ""
+"Başlangıçta çalıştırılacak sunucu sayısı, ortalama bir değer seçilmelidir."
+
+msgid "Number of states"
+msgstr "Durumların sayısı"
+
+msgid "Number wrong"
+msgstr "Sayı yanlış"
+
+msgid "OPENSSH"
+msgstr "OPENSSH"
+
+msgid "OS"
+msgstr "Sistem"
+
+msgid "Obsoletes QuietMode and FascistLogging"
+msgstr "QuietMode ve FascistLogging seçeneklerini kapatır."
+
+msgid "Once"
+msgstr "Bir Defa"
+
+msgid "OpenSSH"
+msgstr "OpenSSH"
+
+msgid ""
+"OpenSSH is the de-facto standard secure shell. If you stop OpenSSH, you "
+"cannot establish shell connections to the system remotely."
+msgstr ""
+"OpenSSH ölçek kabul edilen standart güvenli kabuktur. OpenSSH'i "
+"durdurursanız sisteme uzaktan kabuk bağlantısı yapamazsınız."
+
+msgid ""
+"OpenSSH logs detailed information on all connections, successful logins and "
+"failures. Also provided are warnings based on reverse DNS lookups."
+msgstr ""
+"OpenSSH başarılı girişler ve başarısız denemeler gibi her bağlantının "
+"detaylarını kaydeder. Ayrıca ters DNS sorguları ile ilgili uyarılar da "
+"kaydedilir."
+
+msgid "Operating System"
+msgstr "İşletim Sistemi"
+
+msgid "Optimization"
+msgstr "Optimizasyon"
+
+msgid "Option"
+msgstr "Seçenekler"
+
+msgid "Options"
+msgstr "Seçenekler"
+
+msgid "Other Timeouts"
+msgstr "Diğer Zaman Aşımları"
+
+msgid "Out4 Block"
+msgstr "Dışarı IP4 Engelleme"
+
+msgid "Out4 Pass"
+msgstr "Dışarı IP4 Geçirme"
+
+msgid "Out6 Block"
+msgstr "Dışarı IP6 Engelleme"
+
+msgid "Out6 Pass"
+msgstr "Dışarı IP6 Geçirme"
+
+msgid "Output not in correct format"
+msgstr "Çıktı doğru yapıda değil"
+
+msgid "Overload"
+msgstr "Aşırı yükleme"
+
+msgid "Override default of no subsystems"
+msgstr "Altsistem kullanılmamasını sağlayan öndeğeri değiştirir."
+
+msgid "PACKET FILTER"
+msgstr "PAKET ELEĞİ"
+
+msgid "PF FIREWALL"
+msgstr "PF FIREWALL"
+
+msgid "PF Firewall"
+msgstr "PF Firewall"
+
+msgid ""
+"PFFW logs errors, warnings, notices, and debug messages. Since also recorded "
+"are changes to configuration and passwords, you may want to monitor these "
+"logs carefully. These logs are also important while reporting issues related "
+"to the web user interface. Logs on this page are generated by the Controller "
+"and the Model, middle and bottom layers of software responsible for "
+"processing requests from the View."
+msgstr ""
+"PFFW hata, uyarı, bilgi ve hata ayıklama mesajlarını kaydeder. Kaydedilenler "
+"arasında yapılandırma ve şifre değişiklik mesajları da olduğundan bu "
+"kayıtları dikkatli takip etmeniz önerilir. Bu kayıtlar web arayüzü ile "
+"ilgili sorunları bildirmek için de önemlidir. Bu kayıtlar yazılımın orta ve "
+"alt katmanlarını oluşturan Controller ve Model tarafından View'dan gelen "
+"istekleri işlerken üretilir."
+
+msgid ""
+"PFFW logs errors, warnings, notices, and debug messages. Since also recorded "
+"are changes to configuration and passwords, you may want to monitor these "
+"logs carefully. These logs are also important while reporting issues related "
+"to the web user interface. Logs on this page are generated by the View, main "
+"module responsible for displaying the web user interface and interacting "
+"with the user."
+msgstr ""
+"PFFW hata, uyarı, bilgi ve hata ayıklama mesajlarını kaydeder. Kaydedilenler "
+"arasında yapılandırma ve şifre değişiklik mesajları da olduğundan bu "
+"kayıtları dikkatli takip etmeniz önerilir. Bu kayıtlar web arayüzü ile "
+"ilgili sorunları bildirmek için de önemlidir. Bu kayıtlar web arayüzünü "
+"gösteren ve kullanıcıyla iletişim kuran View katmanı tarafından üretilir."
+
+msgid ""
+"PFFW runs many services or daemons in default installation. On this page you "
+"can configure these services to start at boot time.\n"
+"\n"
+"Note that if you modify startup configuration for some services, you may "
+"need to change packet filter rules or other related settings too."
+msgstr ""
+"PFFW varsayılan kurulumda pekçok servis veya program çalıştırır. Bu sayfada "
+"servislerin sistem açılırken başlatılmasını ayarlayabilirsiniz.\n"
+"\n"
+"Eğer bazı servislerin başlama ayarlarını değiştirirseniz paket eleği "
+"kuralları veya diğer ilgili ayarları da değiştirmeniz gerekebilir."
+
+msgid ""
+"PFFW sends warning and information messages to its system administrator. "
+"Here you can type in your own e-mail address."
+msgstr ""
+"PFFW sistem yöneticisine uyarı ve bilgi mesajları gönderir. Buraya kendi e-"
+"posta adresinizi yazabilirsiniz."
+
+msgid "PHP FastCGI Server"
+msgstr "PHP FastCGI Sunucu"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "PRI"
+msgstr "ÖNC"
+
+msgid "Packet Filter"
+msgstr "Paket Eleği"
+
+msgid "Packet types"
+msgstr "Paket türleri"
+
+msgid "Packets"
+msgstr "Paketler"
+
+msgid "Page start line"
+msgstr "Sayfa başlangıç satırı"
+
+msgid "Parent"
+msgstr "Veli"
+
+msgid "Parse"
+msgstr "İşle"
+
+msgid "Parse Error"
+msgstr "İşleme Hatası"
+
+msgid "Parse rules"
+msgstr "Kuralları işle"
+
+msgid "Partitions"
+msgstr "Disk Bölümleri"
+
+msgid "Partitions Usages"
+msgstr "Disk Bölüm Kullanımları"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Permit Empty Passwords"
+msgstr "Boş şifrelere izin ver"
+
+msgid "Permit Root Login"
+msgstr "Root girişine izin ver"
+
+msgid "Pf"
+msgstr "Pf"
+
+msgid "Pfctl Timeout"
+msgstr "Pfctl Zaman Aşımı"
+
+msgid ""
+"Pfctl commands are executed in a separate process, which returns pfctl "
+"output in a message. Parent process times out waiting for an output message "
+"after this many seconds. This approach is necessary in case pfctl is stuck "
+"or taking too long (and it is in certain cases).\n"
+"\n"
+"<b>Setting this timeout to 0 may fail the execution of all pfctl commands, "
+"effectively disabling rule tests.<b>"
+msgstr ""
+"Pfctl komutları ayrı bir süreç içinde çalıştırılır ve çıktıları bir mesaj "
+"ile geri iletilir. Ana süreç bu ayarla belirlenen saniye cinsinden süre "
+"kadar bu mesajı bekler. Bu yöntem pfctl'in takıldığı veya çok uzun süre "
+"aldığı durumlarda gereklidir (böyle durumlar olduğu görülmüştür).\n"
+"\n"
+"<b>Bu zaman aşımını 0'a ayarlarsanız tüm pfctl komutları başarısız olabilir; "
+"bu da kural testlerini devredışı bırakır.<b>"
+
+msgid "Physical Memory"
+msgstr "Fiziksel Bellek"
+
+msgid "Port"
+msgstr "Kapı"
+
+msgid "Prepare file for download"
+msgstr "Dosyayı indirme için hazırla"
+
+msgid "Print Last Log"
+msgstr "Son kaydı yazdır"
+
+msgid "Print Motd"
+msgstr "Günün mesajını yazdır"
+
+msgid "Prio"
+msgstr "Önc"
+
+msgid "Probability"
+msgstr "Olasılık"
+
+msgid "Process"
+msgstr "Süreç"
+
+msgid "Process CPU Load"
+msgstr "Süreç İşlemci Yükü"
+
+msgid "Processes"
+msgstr "Süreçler"
+
+msgid "Processor"
+msgstr "İşlemci"
+
+msgid "Proto"
+msgstr "Proto"
+
+msgid "Protocol"
+msgstr "Protokol"
+
+msgid "Qlimit"
+msgstr "Kuyruk Boyu"
+
+msgid "Quantum"
+msgstr "Kuantum"
+
+msgid "Queries handled by the DNS forwarder"
+msgstr "DNS iletici tarafından işlenen sorgular"
+
+msgid "Query types"
+msgstr "Sorgu türleri"
+
+msgid "Queue"
+msgstr "Kuyruk"
+
+msgid "Queue Length"
+msgstr "Kuyruk Boyu"
+
+msgid "Queues"
+msgstr "Kuyruklar"
+
+msgid "Quick"
+msgstr "Hemen Uygula"
+
+msgid "RRD file does not exist"
+msgstr "RRD dosya bulunamadı"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Reached max nesting for inline anchors"
+msgstr "Satıriçi çapalar için en fazla içiçe sayıya ulaşıldı"
+
+msgid "Read system gateway"
+msgstr "Sistem ağ geçidini getir"
+
+msgid "Read system hostname"
+msgstr "Sistem adını getir"
+
+msgid "Read system nameserver"
+msgstr "Sistem ad sunucusunu getir"
+
+msgid "Reason"
+msgstr "Sebep"
+
+msgid "Reassemble"
+msgstr "Birleştir"
+
+msgid "Received on Interface"
+msgstr "Alınan Arayüz"
+
+msgid "Redirect"
+msgstr "Tekrar Yönlendirme"
+
+msgid "Redirect Address Family"
+msgstr "Tekrar Yönlendirme Adres Ailesi"
+
+msgid "Redirect Host"
+msgstr "Tekrar Yönlendirme Adresi"
+
+msgid "Redirect Options"
+msgstr "Tekrar Yönlendirme Seçenekleri"
+
+msgid "Redirect Port"
+msgstr "Tekrar Yönlendirme Kapısı"
+
+msgid "Redraw"
+msgstr "Tekrar Üret"
+
+msgid "Refresh interval"
+msgstr "Yenileme aralığı"
+
+msgid "Regexp"
+msgstr "Düzenli ifade"
+
+msgid "Registration IDs"
+msgstr "Kayıtlı Kullanıcılar"
+
+msgid "Regular expression wrong"
+msgstr "Düzenli ifade hatalı"
+
+msgid "Reinitialize"
+msgstr "Sıfırla"
+
+msgid "Reload"
+msgstr "Tekrar Yükle"
+
+msgid "Reload Rate"
+msgstr "Tekrar Yükleme Sıklığı"
+
+msgid "Reload main ruleset"
+msgstr "Ana kural listesini tekrar yükle"
+
+msgid "Render layout"
+msgstr "Layout'u üret"
+
+msgid "Requests by date"
+msgstr "Tarihe göre istekler"
+
+msgid "Required element missing"
+msgstr "Gerekli eleman yok"
+
+msgid "Resource not available"
+msgstr "Kaynağa ulaşılamıyor"
+
+msgid "Restart"
+msgstr "Tekrar Başlat"
+
+msgid "Restart network"
+msgstr "Ağı tekrar başlat"
+
+msgid "Rotate"
+msgstr "Döndür"
+
+msgid "Rotate All"
+msgstr "Hepsini Döndür"
+
+msgid "Rotate all log files"
+msgstr "Tüm kayıt dosyalarını döndür"
+
+msgid "Rotate log file"
+msgstr "Kayıt dosyasını döndür"
+
+msgid "Route"
+msgstr "Yönlendirme"
+
+msgid "Route Host"
+msgstr "Yönlendirme Adresi"
+
+msgid "Route Type"
+msgstr "Yönlendirme Türü"
+
+msgid "Routing Table"
+msgstr "Yönlendirme Tablosu"
+
+msgid "Rule"
+msgstr "Kural"
+
+msgid "Rule number"
+msgstr "Kural numarası"
+
+msgid "Rule test failed without an error message"
+msgstr "Kural testi hata mesajı vermeden başarısız oldu"
+
+msgid "Rules"
+msgstr "Kurallar"
+
+msgid "Rules file"
+msgstr "Kural dosyası"
+
+msgid "Rules file deleted"
+msgstr "Kural dosyası silindi"
+
+msgid "Rules loaded"
+msgstr "Kurallar yüklendi"
+
+msgid "Ruleset Optimization"
+msgstr "Kural Listesi Optimizasyonu"
+
+msgid "Ruleset contains errors"
+msgstr "Kural listesinde hata var"
+
+msgid "Ruleset deleted"
+msgstr "Kural listesi silindi"
+
+msgid "Running"
+msgstr "Çalışıyor"
+
+msgid "SPort"
+msgstr "KPort"
+
+msgid "SSH version"
+msgstr "SSH sürümü"
+
+msgid "SSL Verify Peer"
+msgstr "SSL Sunucu Doğrulama"
+
+msgid "SSL key pair generated. You should restart httpd or the system now."
+msgstr ""
+"SSL anahtarı üretildi. Şimdi httpd veya sistemi tekrar başlatmalısınız."
+
+msgid "SSL key pair generation failed."
+msgstr "SSL anahtar üretimi başarısız oldu."
+
+msgid "STARTED"
+msgstr "BAŞLANGIÇ"
+
+msgid "STAT"
+msgstr "DURUM"
+
+msgid "STATES"
+msgstr "DURUMLAR"
+
+msgid "SYSTEM"
+msgstr "SİSTEM"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Save ruleset"
+msgstr "Kural listesini kaydet"
+
+msgid "Save ruleset to file"
+msgstr "Kural lıstesını dosyaya kaydet"
+
+msgid "Save with errors"
+msgstr "Hatalara rağmen kaydet"
+
+msgid "Saved"
+msgstr "Kaydedildi"
+
+msgid "Scrub"
+msgstr "Kazıma"
+
+msgid "Scrub Options"
+msgstr "Kazıma Seçenekleri"
+
+msgid "Secure Level"
+msgstr "Güvenlik Seviyesi"
+
+msgid "Select Option Type"
+msgstr "Seçenek Türünü Seçin"
+
+msgid "Select log file"
+msgstr "Kayıt dosyası seç"
+
+msgid "Selected"
+msgstr "Seçili"
+
+msgid "Send notifications."
+msgstr "Uyarıları gönder."
+
+msgid "Sensors"
+msgstr "Sensörler"
+
+msgid "Separate"
+msgstr "Ayır"
+
+msgid "Serial Number"
+msgstr "Seri Numarası"
+
+msgid "Server"
+msgstr "Sunucu"
+
+msgid "Server Key Bits"
+msgstr "Sunucu anahtar bitleri"
+
+msgid "Session Timeout"
+msgstr "Oturum Zaman Aşımı"
+
+msgid "Set MFS"
+msgstr "MFS'i ayarla"
+
+msgid "Set MFS size"
+msgstr "MFS boyutunu ayarla"
+
+msgid "Set configuration"
+msgstr "Yapılandırmayı ayarla"
+
+msgid "Set default locale"
+msgstr "Öntanımlı dili ayarla"
+
+msgid "Set dhcpd conf"
+msgstr "dhcpd.conf'u ayarla"
+
+msgid "Set e-mail address"
+msgstr "E-posta adresini ayarla"
+
+msgid "Set force HTTPs"
+msgstr "HTTPs uygulamayı ayarla"
+
+msgid "Set help boxes"
+msgstr "Yardım kutularını ayarla"
+
+msgid "Set interface DNS forwarder listens on"
+msgstr "DNS ileticinin dinlediği arayüzü ayarla"
+
+msgid "Set interfaces"
+msgstr "Arayüzleri ayarla"
+
+msgid "Set internal net"
+msgstr "İç ağı ayarla"
+
+msgid "Set log level"
+msgstr "Kayıt seviyesini ayarla"
+
+msgid "Set logs configuration"
+msgstr "Kayıt yapılandırmasını ayarla"
+
+msgid "Set man.cgi home"
+msgstr "man.cgi adresini ayarla"
+
+msgid "Set max anchor nesting"
+msgstr "En fazla içiçe çapa sayısını ayarla"
+
+msgid "Set max file size to process"
+msgstr "İşlenecek en fazla dosya boyutunu ayarla"
+
+msgid "Set name value pair"
+msgstr "Ad değer çiftini ayarla"
+
+msgid "Set notifier API key"
+msgstr "Uyarı API anahtarını ayarla"
+
+msgid "Set notifier host"
+msgstr "Uyarı sunucuyu ayarla"
+
+msgid "Set notifier timeout"
+msgstr "Uyarı zaman aşımını ayarla"
+
+msgid "Set notify level"
+msgstr "Uyarı seviyesini ayarla"
+
+msgid "Set pfctl timeout"
+msgstr "Pfctl zaman aşımını ayarla"
+
+msgid "Set reload rate"
+msgstr "Tekrar yükleme sıklığını ayarla"
+
+msgid "Set remote time"
+msgstr "Uzak zamanı ayarla"
+
+msgid "Set session timeout"
+msgstr "Oturum zaman aşımını ayarla"
+
+msgid "Set status check interval"
+msgstr "Durum kontrol aralığını ayarla"
+
+msgid "Set symon conf"
+msgstr "Symon yapılandırmasını ayarla"
+
+msgid "Set symon cpus"
+msgstr "Symon işlemcilerini ayarla"
+
+msgid "Set symon ifs"
+msgstr "Symon arayüzlerini ayarla"
+
+msgid "Set symon partitions"
+msgstr "Symon disk bölümlerini ayarla"
+
+msgid "Set symon sensors"
+msgstr "Symon sensörlerini ayarla"
+
+msgid "Set sync MFS"
+msgstr "MFS kaydetmeyi ayarla"
+
+msgid "Set system clock"
+msgstr "Sistem saatini ayarla"
+
+msgid "Set system gateway"
+msgstr "Sistem ağ geçidini ayarla"
+
+msgid "Set system hostname"
+msgstr "Sistem adını ayarla"
+
+msgid "Set system nameserver"
+msgstr "Sistem ad sunucusunu ayarla"
+
+msgid "Set use SSH"
+msgstr "SSH kullanımını ayarla"
+
+msgid "Set user password"
+msgstr "Kullanıcı parolasını ayarla"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid ""
+"Since this web administration interface runs on the web server, you should "
+"be careful while modifying its options. By default, the web server is "
+"configured to serve this web interface only, hence the default values should "
+"suffice for most purposes."
+msgstr ""
+"Bu web yönetim arayüzü web sunucu üzerinden çalıştığı için bu seçenekleri "
+"değiştirirken dikkatli olmanız gerekir. Öntanımlı olarak web sunucu sadece "
+"bu web arayüzünü sunacak şekilde yapılandırılmıştır, yani öntanımlı değerler "
+"çoğu amaç için yeterli olmalıdır."
+
+msgid "Size"
+msgstr "Boyut"
+
+msgid "Size (KB)"
+msgstr "Boyut (KB)"
+
+msgid "Size by IP (KB)"
+msgstr "IP başına boyut (KB) "
+
+msgid "Size by Link (KB)"
+msgstr "Bağlantı başına boyut (KB)"
+
+msgid "Skip Interfaces"
+msgstr "Atlanacak Arayüzler"
+
+msgid "Sloppy Tracker"
+msgstr "Detaysız Takip"
+
+msgid "Software Version"
+msgstr "Yazılım Sürümü"
+
+msgid "Source"
+msgstr "Kaynak"
+
+msgid "Source Port"
+msgstr "Kaynak Kapısı"
+
+msgid "Source Track Timeout"
+msgstr "Kaynak Takip Zaman Aşımı"
+
+msgid "Source addresses"
+msgstr "Kaynak adresleri"
+
+msgid "Source->Destination"
+msgstr "Kaynak->Hedef"
+
+msgid "Src Nodes"
+msgstr "Kaynak Noktalar"
+
+msgid "SrcIP"
+msgstr "KynkIP"
+
+msgid "Start"
+msgstr "Başlangıç"
+
+msgid "Start "
+msgstr "Başlangıç"
+
+msgid "Start Servers"
+msgstr "Başlangıç sunucu sayısı"
+
+msgid "Startup"
+msgstr "Başlangıç"
+
+msgid "State"
+msgstr "Durum"
+
+msgid "State Creations"
+msgstr "Yaratılan Durum"
+
+msgid "State Defaults"
+msgstr "Durum Öntanımları"
+
+msgid "State Policy"
+msgstr "Durum Kuralları"
+
+msgid "State Searches vs Packets"
+msgstr "Durum Aramaları ve Paketler"
+
+msgid "State Statistics"
+msgstr "Durum İstatistikleri"
+
+msgid ""
+"State operations are perhaps the most meaningful measure of packet filter "
+"load."
+msgstr "Durum işlemleri paket eleği yükünün en anlamlı ölçütü olabilir."
+
+msgid "Stateful Filtering"
+msgstr "Durum Takip Eden Elek"
+
+msgid "States"
+msgstr "Durumlar"
+
+msgid "States and state searches on the Packet Filter"
+msgstr "Paket eleğinin durumları ve durum sorguları"
+
+msgid "Static Port"
+msgstr "Sabit Kapı"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Statistics and uncompressed log files"
+msgstr "İstatistik ve açılmış kayıt dosyaları"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Stop "
+msgstr "Durdur"
+
+msgid "Stopped"
+msgstr "Durmuş"
+
+msgid "String wrong"
+msgstr "Dizi hatalı"
+
+msgid "Subnet mask"
+msgstr "Altağ şablonu"
+
+msgid "Subsystem sftp"
+msgstr "Alt-sistem sftp"
+
+msgid "Successful logins"
+msgstr "Başarılı girişler"
+
+msgid "Successful logins to the SSH Server"
+msgstr "SSH sunucuya yapılan başarılı girişler"
+
+msgid "Symon"
+msgstr "Symon"
+
+msgid "Symon System Monitoring"
+msgstr "Symon Sistem Gözlemleme"
+
+msgid "Symux"
+msgstr "Symux"
+
+msgid "Symux System Monitoring"
+msgstr "Symux Sistem Gözlemleme"
+
+msgid "Syncookies"
+msgstr "Syncookies"
+
+msgid "Syslog Facility"
+msgstr "Syslog düzeneği"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "System date and time"
+msgstr "Sistem tarih saati"
+
+msgid "System has no gateway"
+msgstr "Sistemin ağ geçidi yok"
+
+msgid "System is going down..."
+msgstr "Sistem kapatılıyor..."
+
+msgid "System is restarting..."
+msgstr "Sistem tekrar başlıyor..."
+
+msgid "System is starting up..."
+msgstr "Sistem başlıyor..."
+
+msgid "System restart"
+msgstr "Sistem tekrar başlatma"
+
+msgid "System shutdown"
+msgstr "Sistem kapatma"
+
+msgid "System uptime since the last boot up"
+msgstr "Sistemin son açılışından bu yana geçen süre"
+
+msgid "TCP Flags"
+msgstr "TCP Bayrakları"
+
+msgid "TCP Keep Alive"
+msgstr "TCP canlı tutma"
+
+msgid "TCP Timeouts"
+msgstr "TCP Zaman Aşımları"
+
+msgid "TIME"
+msgstr "SÜRE"
+
+msgid "Table"
+msgstr "Tablo"
+
+msgid "Table Entries"
+msgstr "Tablo Girdileri"
+
+msgid "Tables"
+msgstr "Tablolar"
+
+msgid "Tail number wrong"
+msgstr "Kuyruk sayısı yanlış"
+
+msgid "Temperature"
+msgstr "Sıcaklık"
+
+msgid "Test rules"
+msgstr "Kuralları test et"
+
+msgid ""
+"Thanks to OpenSSH, remote root login to the system is permitted by default. "
+"TCP Keep Alive and Use DNS options may help you resolve some issues."
+msgstr ""
+"OpenSSH sayesinde sisteme uzaktan root girişine öndeğer olarak izin "
+"verilmektedir. TCP Canlı Tutma ve DNS Kullanma seçenekleri bazı sorunları "
+"çözmede yardımcı olabilir."
+
+msgid ""
+"The DNS forwarder sends all queries to the name servers in /etc/resolv.conf."
+msgstr ""
+"DNS iletici tüm sorguları /etc/resolv.conf dosyasındaki DNS sunucularına "
+"gönderir."
+
+msgid "The Firebase API key for the project, i.e. the Android application."
+msgstr "Projenin Android uygulamasının Firebase API anahtarı."
+
+msgid "The URL of the Firebase notification service."
+msgstr "Firebase uyarı servisinin URL adresi."
+
+msgid "The interface that the DNS forwarder binds to listen for queries."
+msgstr "DNS ileticinin sorguları dinlemek için bağlandığı arayüz."
+
+msgid ""
+"The period of time from now backwards for the data displayed on the dashboard"
+msgstr "Gösterge panelindeki verinin şu andan itibaren geçmişe doğru süresi"
+
+msgid "The process is taking too long, thus will run in the background."
+msgstr "Sürecin işlemesi uzun zaman aldığından arka planda çalıştırılacaktır."
+
+msgid ""
+"The strategy used for options in the default sshd_config shipped with "
+"OpenSSH is to specify options with their default value where possible, but "
+"leave them commented.  Uncommented options change a default value."
+msgstr ""
+"OpenSSH ile gelen yapılandırma dosyası seçenekleri öndeğerlerinde bırakıp "
+"kapatma strajesini uygular. Açılan seçenekler öndeğeri değiştirir."
+
+msgid "The system will send notifications to these devices."
+msgstr "Sistem uyarıları burada listelenen aygıtlara gönderir."
+
+msgid ""
+"The system will send service statuses containing one of these keywords only."
+msgstr ""
+"Sistem bu anahtar kelimelerden birini içeren servis durumlarını gönderir."
+
+msgid "The time remaining before the current session times out"
+msgstr "Mevcut oturumun zaman aşımına kalan süre"
+
+msgid "There was an error while installing"
+msgstr "Kurulum sırasında bir hata oluştu"
+
+msgid "These are interface statistics reported by pf."
+msgstr ""
+"Pf tarafından rapor edilen arayüz istatistiklerini bu sayfada bulabilirsiniz."
+
+msgid "These are queue statistics reported by pf."
+msgstr ""
+"Pf tarafından rapor edilen kuyruk istatistiklerini bu sayfada bulabilirsiniz."
+
+msgid ""
+"These are the access logs of OpenBSD/httpd. Logs contain client IP addresses "
+"and pages accessed."
+msgstr ""
+"Bunlar OpenBSD/httpd'nin giriş kayıtlarıdır. Kayıtlar istemci IP adresleri "
+"ve girilen sayfaları içerir."
+
+msgid ""
+"These are the active rules loaded into pf. Note that the rule numbers "
+"reported here do not necessarily match with the numbers on the rule editor."
+msgstr ""
+"Burada listelenen kurallar pf'e yüklenmiş aktif kurallardır. Burada "
+"gördüğünüz kural numaraları kural düzenleyicide gördüklerinizle uyuşmak "
+"zorunda değildir."
+
+msgid ""
+"These defaults are permanently stored in web user interface settings, i.e. "
+"they are <em>not</em> specific to your current session only."
+msgstr ""
+"Bu öndeğerler web arayüzü ayarlarında kalıcı olarak saklanacaktır, yani "
+"bunlar sadece şu anki oturumunuza özel ayarlar <em>değildir</em>."
+
+msgid ""
+"These graphs show network usage per host. From top to bottom, host usage "
+"graphs are for the last hour, last 8-hour, daily, weekly, and monthly usages."
+msgstr ""
+"Bu grafikler bilgisayarların ağ kullanımını gösterir. En üstten itibaren, "
+"son saat, son 8 saat, günlük, haftalık ve aylık kullanımları gösterirler."
+
+msgid "These logs may be important for diagnosing web server related problems."
+msgstr "Bu kayıtlar web sunucu ile ilgili sorunları teşhis ederken önemlidir."
+
+msgid ""
+"This button allows you to delete all the statistics and uncompressed log "
+"files created by this user interface. Note that deleting these files does "
+"not mean that accumulated statistics are lost forever. <b>Original log files "
+"under /var/log folder are not affected by this action</b> either. These "
+"files will be recreated, and statistics will be recollected, the next time "
+"you access Statistics or Logs pages."
+msgstr ""
+"Bu tuş sayesinde arayüz tarafından yaratılan istatistik ve açılmış kayıt "
+"dosyalarının hepsini silebilirsiniz. Bu dosyaları silmenin birikmiş "
+"istatistiklerin geri alınmaz şekilde kaybolduğu anlamına gelmediğini "
+"unutmayın. Ayrıca <b>/var/log dizini altındaki asıl dosyalar bu işlemden "
+"etkilenmezler</b>. İstatistik ve kayıt sayfalarına bir sonraki girişinizde "
+"bu dosyalar tekrar yaratılıp istatistikler tekrar toplanacaktır."
+
+msgid ""
+"This button allows you to generate or regenerate the SSL key pair for httpd. "
+"You should restart httpd or the system to use the new SSL key pair. Make "
+"sure you increment the serial number on each new release."
+msgstr ""
+"Bu tuş sayesinde httpd için SSL anahtarlarını üretebilirsiniz. Yeni SSL "
+"anahtarını kullanabilmek için httpd veya sistemi tekrar başlatmanız gerekir. "
+"Her yeni sürümde seri numarasını artırdığınızdan emin olun."
+
+msgid ""
+"This graph shows overall network usage based on certain protocols. Note that "
+"each protocol may cover more than one port."
+msgstr ""
+"Bu grafik belli protokollere göre genel ağ kullanımını gösterir. Her "
+"protokolün birden fazla kapıyı kapsayabileceğini unutmayın."
+
+msgid ""
+"This graph shows the data transfer rate of packet filter. The transfer is "
+"between interfaces."
+msgstr ""
+"Bu grafik paket eleğinin veri aktarımını gösterir. Aktarım arayüzler "
+"arasındadır"
+
+msgid ""
+"This is the DNS server internal clients use. The default is the internal IP "
+"address of the system."
+msgstr ""
+"Bu iç ağdaki istemcilerin kullandığı DNS sunucudur. Öndeğer sistemin iç "
+"arayüz IP adresidir."
+
+msgid ""
+"This is the default gateway used by the system to reach the Internet, and "
+"may have been assigned dynamically. You can make your gateway configuration "
+"static or dynamic. If you make dynamic, static gateway file will be deleted. "
+"If you make static, it will be recreated with the current default gateway."
+msgstr ""
+"Bu, sistemin İnternet'e ulaşmak için kullandığı ağ geçididir, ve dinamik "
+"olarak atanmış olabilir. Ağ geçidi ayarını sabit veya dinamik "
+"yapabilirsiniz. Dinamik yaparsanız sabit ağ geçidi dosyası silinecektir. "
+"Sabit yaparsanız bu dosya mevcut varsayılan ağ geçidi kullanılarak tekrar "
+"yaratılacaktır."
+
+msgid "This is the default language for the WUI."
+msgstr "Bu web arayüzünün öntanımlı dilidir."
+
+msgid ""
+"This is the default refresh value in seconds for pages which reload "
+"periodically, such as Live pages for logs and statistics. The new value "
+"takes effect only for newly created sessions. Note that logging out of the "
+"web user interface does not erase your session values."
+msgstr ""
+"Bu düzenli aralıklarla yeniden yükleyen sayfalar için saniye cinsinden "
+"yenileme değeridir, örneğin kayıt ve istatistik Canlı sayfaları gibi. Yeni "
+"değer yeni yaratılan oturumlar için geçerlidir. Web arayüzünden çıkış "
+"yapmanızın oturum değerlerinizi silmediğini unutmayınız."
+
+msgid ""
+"This is the gateway internal clients use to reach the external network. The "
+"default is the internal IP address of the system."
+msgstr ""
+"Bu iç ağdaki istemcilerin dış ağa ulaşmak için kullandıkları geçit ayarıdır. "
+"Öndeğer sistemin iç arayüz IP adresidir."
+
+msgid ""
+"This is the list of interfaces DHCP server listens and distributes IP "
+"leases. Here you should add the interface(s) to start the DHCP server for."
+msgstr ""
+"Bu DHCP sunucunun dinleyip IP kiralarını dağıttığı arayüzlerin listesidir. "
+"Buradan DHCP sunucunun başlatılacağı arayüzleri eklemelisiniz."
+
+msgid ""
+"This is the log level for the pffw web interface. Logs at this level and up "
+"will be recorded in WUI and Controller log files. This setting does not "
+"effect other services."
+msgstr ""
+"Bu ayar pffw web arayüzünün kayıt seviyesini belirler. Bu seviye ve "
+"üzerindeki kayıtlar WUI ve Controller kayıt dosyalarına kaydedilir. Bu ayar "
+"diğer servisleri etkilemez."
+
+msgid ""
+"This is the max size in MB for log and statistics files to process. This "
+"limit is used for files downloaded from the WUI too. The WUI slows down if "
+"we try to process larger files. This size should be determined based on the "
+"specs of the hardware. The default file size for log rotation is 10 MB for "
+"most log files in newsyslog.conf."
+msgstr ""
+"Bu işlenecek kayıt ve istatistik dosyalarının MB cinsinden en fazla "
+"boyutudur. Bu sınır web arayüzünden indirilen dosyalar için de kullanılır. "
+"Web arayüzü daha büyük dosyaları işlemeye çalışırsa çok yavaşlar. Bu boyut "
+"donanım özelliklerine göre belirlenmelidir. Çoğu kayıt dosyaları için "
+"newsyslog.conf dosyasındaki kayıt döndürme öndeğer boyutu 10 MB'dır."
+
+msgid ""
+"This is the name server used by the system. You can use the DNS server on "
+"the system, i.e. enter 127.0.0.1 here."
+msgstr ""
+"Bu sistem tarafından kullanılan DNS sunucudur. Sistemin kendi DNS sunucusunu "
+"kullanabilirsiniz, yani buraya 127.0.0.1 girebilirsiniz."
+
+msgid ""
+"This is the notifier level. The system will send push notifications for the "
+"logs at this level and up."
+msgstr ""
+"Bu uyarı seviyesidir. Sistem bu ve yukarısındaki seviyede olan kayıtlar için "
+"uyarı gönderir."
+
+msgid ""
+"This is the state table of the Packet Filter. All active stateful "
+"connections should appear in this list."
+msgstr ""
+"Bu Paket Eleğinin durum tablosudur. Durumu tutulan tüm aktif bağlantılar bu "
+"listede görünmelidir."
+
+msgid ""
+"This is the system name. If you change the hostname, use automatic "
+"configuration button to apply it system-wide, and reboot the system."
+msgstr ""
+"Bu sistem adıdır. Sistem adını değiştiriseniz, otomatik yapılandırma tuşu "
+"ile bunu sistemin geneline uygulayıp sistemi tekrar başlatın."
+
+msgid ""
+"This page displays statistical data collected over the log files of this "
+"module.\n"
+"\n"
+"You can change the date of statistics using drop-down boxes. An empty value "
+"means match-all. For example, if you choose 3 for month and empty value for "
+"day fields, the charts and lists display statistics for all the days in "
+"March. Choosing empty value for month means empty value for day field as "
+"well.\n"
+"\n"
+"For single dates, Horizontal chart direction is assumed. For date ranges, "
+"default graph style is Daily, and direction is Vertical. Graph style can be "
+"changed to Hourly for date ranges, where cumulative hourly statistics are "
+"shown. In Daily style, horizontal direction is not possible."
+msgstr ""
+"Bu sayfa bu modülün kayıt dosyaları üzerinden toplanan istatistik verileri "
+"gösterir.\n"
+"\n"
+"Aşağı açılan kutuları kullanarak istatistik tarihlerini değiştirebilirsiniz. "
+"Boş değer tüm tarihlerle eşleşme anlamına gelir. Örneğin, ay için 3 ve gün "
+"için boş değer seçerseniz grafikler ve listeler Mart ayının tüm günleri için "
+"istatistikleri gösterir. Ay için boş değer seçmek gün için de boş değer "
+"seçmek anlamındadır.\n"
+"\n"
+"Tek günler için Yatay grafik yönü varsayılır. Tarih aralıkları için "
+"varsayılan grafik şekli Günlük'tür, ve yönü Dikey'dir. Tarih aralıkları için "
+"grafik şekli Saatlik olarak ayarlanabilir; bu grafikler toplu saatlik "
+"istatistikleri gösterir. Günlük şekilde yatay yön mümkün değildir."
+
+msgid "This page displays the I/O graphs of all the disks in your system."
+msgstr ""
+"Bu sayfa sisteminizdeki disklerin yazma ve okuma grafiklerini gösterir."
+
+msgid ""
+"This page displays the graph for shared memory and swap area usage. If the "
+"swap area usage is too high, you may consider adding more RAM. For higher "
+"system performance, you want to have no swap usage at all."
+msgstr ""
+"Bu sayfa bellek ve takas bölgesi kullanım grafiğini gösterir. Takas bölgesi "
+"kullanımı çok yüksekse daha fazla RAM eklemeyi düşünebilirsiniz. Yüksek "
+"sistem performansı için hiç takas kullanımı olmamalıdır."
+
+msgid ""
+"This page displays the graphs of all temperature and fan sensors in your "
+"system. You may have multiple sensors depending on your hardware. Virtual "
+"machines may not provide any sensors at all."
+msgstr ""
+"Bu sayfa sisteminizde bulunan tüm sıcaklık ve fan sensörlerinin grafiklerini "
+"gösterir. Donanımınıza bağlı olarak birden fazla sensör bulunabilir. Sanal "
+"makinalar hiç sensör sağlamayabilir."
+
+msgid ""
+"This page displays the usage graphs of all the partitions on your disks."
+msgstr ""
+"Bu sayfa disklerinizdeki tüm bölümlerin kullanım grafiklerini gösterir."
+
+msgid ""
+"This page shows system-wide logs. Most services on PFFW write to their own "
+"log files, but a few processes may log messages to this system file. Pay "
+"special attention to error messages."
+msgstr ""
+"Bu sayfa sistem genelini ilgilendiren kayıtları gösterir. PFFW üzerinde "
+"çalışan servislerin çoğu kendi dosyalarına kaydederler, ama birkaç süreç bu "
+"sistem dosyasına mesaj kaydedebilir. Hata mesajlarına özellikle dikkat edin."
+
+msgid ""
+"This setting allows you to choose the method used while running the "
+"controller. Controller commands can be executed using either of the "
+"following two methods: (1) Executing the controller directly on the command "
+"line or (2) Openning an SSH connection to the system and calling the "
+"controller over this secure channel."
+msgstr ""
+"Bu ayar sayesinde controller'ın çalıştırılacağı yöntemi seçebilirsiniz."
+"Controller komutları iki yöntemden birini kullanarak çalıştırılabilir: (1) "
+"Controller'ı doğrudan komut satırında çalıştırarak veya (2) Sisteme bir SSH "
+"bağlantısı açıp controller'ı bu güvenli kanal üzerinden çalıştırarak."
+
+msgid ""
+"This setting enables or disables help boxes, such as this one and the help "
+"window at the bottom. Disabling help boxes does not disable error or warning "
+"help windows."
+msgstr ""
+"Bu ayar sayesinde bunun ve sayfanın sonundaki gibi yardım pencerelerini açıp "
+"kapatabilirsiniz. Yardım pencerelerini kapatmak hata veya uyarı "
+"pencerelerini devredışı bırakmaz."
+
+msgid ""
+"This web administration interface is served by OpenBSD/httpd. If you stop "
+"the web server, you will lose your connection to this web interface. You can "
+"restart it on the command line."
+msgstr ""
+"Bu web yönetim arayüzü OpenBSD/httpd üzerinde çalışmaktadır. Web sunucuyu "
+"durdurursanız bu web arayüzüne bağlantınızı kaybedersiniz. Komut satırından "
+"tekrar başlatabilirsiniz."
+
+msgid "Time"
+msgstr "Saat"
+
+msgid "Time server"
+msgstr "Zaman sunucu"
+
+msgid "Timed out running command"
+msgstr "Komut zaman aşımına uğradı"
+
+msgid "Timeout"
+msgstr "Zaman Aşımları"
+
+msgid "Timespan"
+msgstr "Zaman aralığı"
+
+msgid "To Redirect Host"
+msgstr "Tekrar Yönlendirme Hedef Adresi"
+
+msgid "Token"
+msgstr "Aygıt Simgesi"
+
+msgid "Too many args"
+msgstr "Argüman sayısı fazla"
+
+msgid "Total number of critical errors reported by the system and services"
+msgstr "Sistem ve servisler tarafında bildirilen toplam önemli hata sayısı"
+
+msgid "Total number of errors reported by the system and services"
+msgstr "Sistem ve servisler tarafında bildirilen toplam hata sayısı"
+
+msgid "Total number of users currently logged in to the system"
+msgstr "Şu anda sisteme giriş yapmış toplam kullanıcı sayısı"
+
+msgid "Total number of warnings reported by the system and services"
+msgstr "Sistem ve servisler tarafında bildirilen toplam uyarı sayısı"
+
+msgid "Traffic on the external interface"
+msgstr "Dış ağ arayüzündeki trafik"
+
+msgid "Traffic on the internal interface"
+msgstr "İç ağ arayüzündeki trafik"
+
+msgid "Traffic on the loopback interface"
+msgstr "Döngü arayüzündeki trafik"
+
+msgid "Transfer"
+msgstr "Aktarım"
+
+msgid "Turkish"
+msgstr "Türkçe"
+
+msgid "Turn off service"
+msgstr "Servisleri kapat"
+
+msgid "Turn on service"
+msgstr "Servisleri aç"
+
+msgid "Type"
+msgstr "Tür"
+
+msgid "UDP Timeouts"
+msgstr "UDP Zaman Aşımları"
+
+msgid "UPTIME"
+msgstr "SÜRE"
+
+msgid "USER"
+msgstr "KULLANICI"
+
+msgid "USERS"
+msgstr "KULLNC"
+
+msgid "Uncomment"
+msgstr "Yorumu Kaldır"
+
+msgid "Unconfigure an interface"
+msgstr "Arayüzünün yapılandırmasını kaldır"
+
+msgid "Unexpected elements"
+msgstr "Beklenmeyen elemanlar"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "Unsupported command"
+msgstr "Desteklenmeyen komut"
+
+msgid "Unsupported interface configuration"
+msgstr "Desteklenmeyen arayüz yapılandırması"
+
+msgid "Up"
+msgstr "Aç"
+
+msgid "Update mail aliases"
+msgstr "Posta adresi adlarını güncelle"
+
+msgid "Upload"
+msgstr "Karşıya Yükle"
+
+msgid "Upload rules file"
+msgstr "Kural dosyasını karşıya yükle"
+
+msgid "Upload ruleset"
+msgstr "Kural listesini karşıya yükle"
+
+msgid "Upload with errors"
+msgstr "Hatalara rağmen karşıya yükle"
+
+msgid "Uptime"
+msgstr "Çalışma Süresi"
+
+msgid "Url wrong"
+msgstr "Url hatalı"
+
+msgid "Use DNS"
+msgstr "DNS kullan"
+
+msgid "Use SSH"
+msgstr "SSH Kullan"
+
+msgid "User"
+msgstr "Kullanıcı"
+
+msgid "User name"
+msgstr "Kullanıcı adı"
+
+msgid "User password changed"
+msgstr "Kullanıcı parolası değiştirildi"
+
+msgid ""
+"User sessions expire after an idle period defined by this value. The unit is "
+"in seconds. You cannot set a value less than 10 seconds."
+msgstr ""
+"Kullanıcı oturumu burada tanımlanan boş geçen süreden sonra sonlandırılır. "
+"Birimi saniyedir. 10 saniyeden daha kısa bir süre tanımlamanıza izin "
+"verilmez."
+
+msgid "Users"
+msgstr "Kullanıcılar"
+
+msgid ""
+"Usually the network time daemon adjusts the system clock according to "
+"Internet time servers gradually. But if the clock is too out of sync with "
+"the time servers, you are advised to set the system clock to Internet time "
+"manually. You can use your own time server if you like."
+msgstr ""
+"Normalde ağ zaman programı İnternet zaman sunucularını kullanarak sistem "
+"saatini kademeli olarak ayarlar. Ancak, saat zaman sunuculardan çok uzak bir "
+"değerdeyse, sistem saatini İnternet zamanına elle ayarlamanız tavsiye "
+"edilir. İsterseniz kendi zaman sunucunuzu kullanabilirsiniz."
+
+msgid "VSZ"
+msgstr "VSZ"
+
+msgid "Validation Error"
+msgstr "Doğrulama Hatası"
+
+msgid "Value"
+msgstr "Değer"
+
+msgid "Values"
+msgstr "Değerler"
+
+msgid "Verify Firebase SSL notification server."
+msgstr "Firebase SSL uyarı sunucusunu doğrula."
+
+msgid "Version"
+msgstr "Sürüm"
+
+msgid "Vertical"
+msgstr "Dikey"
+
+msgid "View not in Models"
+msgstr "View Modeller arasında bulunamadı"
+
+msgid "WARNING"
+msgstr "UYARI"
+
+msgid "WEB SERVER"
+msgstr "WEB SUNUCU"
+
+msgid "WUI"
+msgstr "Web Arayüzü"
+
+msgid "WUI Logs"
+msgstr "Arayüz Kayıtları"
+
+msgid "Warning"
+msgstr "Uyarı"
+
+msgid "Web Server"
+msgstr "Web Sunucu"
+
+msgid "Web Server (WUI)"
+msgstr "Web Sunucu (Web Arayüzü)"
+
+msgid "Web User Interface"
+msgstr "Web Arayüzü"
+
+msgid ""
+"What is recorded in packet filter logs is determined by pf rules you can "
+"configure under Rules tab."
+msgstr ""
+"Paket eleği kayıtlarına nelerin yazılacağını Kurallar sayfasından "
+"yapılandırılan pf kuralları belirler."
+
+msgid "When (h)"
+msgstr "Zaman (saat)"
+
+msgid "Will not load rules with errors"
+msgstr "Hatalı kurallar yüklenmez"
+
+msgid "Will not test rules with errors"
+msgstr "Hatalı kurallar test edilmez"
+
+msgid ""
+"You can apply configuration changes without restarting currently running "
+"process."
+msgstr ""
+"Çalışan süreçleri tekrar başlatmadan yapılandırma değişikliklerini "
+"uygulayabilirsiniz."
+
+msgid ""
+"You can browse the Doxygen source documentation of this web user interface "
+"on this page."
+msgstr ""
+"Bu sayfadan web arayüzünün Doxygen kaynak belgelerini tarayabilirsiniz."
+
+msgid "You can change the timespan and size of the graphs."
+msgstr "Grafiklerin zaman aralığı ve boyutlarını değiştirebilirsiniz."
+
+msgid ""
+"You can modify the hosts file here. Format of a hosts entry is: IP hostname "
+"alias [alias [...]]"
+msgstr ""
+"Hosts dosyasını buradan değiştirebilirsiniz. Öğelerin biçimi şöyledir: IP "
+"sistem-adı takma-ad [takma-ad [...]]"
+
+msgid ""
+"You can set the system clock here. Format is day.month.year-hour:minute.\n"
+"\n"
+"<b>You must be very careful when setting the system clock, significant hops "
+"in system time may cause system malfunction.</b>"
+msgstr ""
+"Buradan sistem saatini ayarlayabilirsiniz. Biçimi gün.ay.yıl-saat:dakika "
+"şeklindedir.\n"
+"\n"
+"<b>Sistem saatini ayarlarken çok dikkatli olmalısınız, sistem zamanındaki "
+"önemli atlamalar sistem arızasına neden olabilir.</b>"
+
+msgid "You should restart the DNS forwarder for the changes to take effect."
+msgstr "Ayarları etkinleştirmek için DNS ileticiyi tekrar başlatmanız gerekir."
+
+msgid ""
+"You should take into account that there may be computers with static IP "
+"addresses or using BOOTP protocol, and choose a range accordingly."
+msgstr ""
+"Sabit IP ile çalışan veya BOOTP protokolünü kullanan bilgisayarlar "
+"bulunabileceğini hesaba katarak IP aralığı seçmelisiniz."
+
+msgid "adaptive"
+msgstr "değişken"
+
+msgid "add file"
+msgstr "dosya ekle"
+
+msgid "add host or network"
+msgstr "adres veya ağ ekle"
+
+msgid "add value"
+msgstr "değer ekle"
+
+msgid "always"
+msgstr "her zaman"
+
+msgid "as rule number"
+msgstr "kural numarası"
+
+msgid "defaults to S/SA"
+msgstr "öntanım S/SA"
+
+msgid "delete"
+msgstr "sil"
+
+msgid "disable"
+msgstr "devre dışı bırakmak"
+
+msgid "disabled"
+msgstr "kapalı"
+
+msgid "enable"
+msgstr "etkinleştirmek"
+
+msgid "enabled"
+msgstr "açık"
+
+msgid "end"
+msgstr "son"
+
+msgid "enter comment, such as a description of the rule"
+msgstr "yorum girin, örneğin kural tanımı"
+
+msgid "filename"
+msgstr "dosya adı"
+
+msgid "groupname or groupid"
+msgstr "grup adı veya kimliği"
+
+msgid "height"
+msgstr "yükseklik"
+
+msgid "host or network"
+msgstr "bilgisayar veya ağ"
+
+msgid "if or macro"
+msgstr "arayüz veya makro"
+
+msgid "interface"
+msgstr "arayüz"
+
+msgid "ip, host, table or macro"
+msgstr "ip, bilgisayar, tablo veya makro"
+
+msgid "is not running"
+msgstr "çalışmıyor"
+
+msgid "is running"
+msgstr "çalışıyor"
+
+msgid "label"
+msgstr "etiket"
+
+msgid "logging interface"
+msgstr "kayıt arayüzü"
+
+msgid "milliseconds"
+msgstr "milisaniye"
+
+msgid "modified"
+msgstr "değişmiş"
+
+msgid "mount as mfs"
+msgstr "mfs olarak yükle"
+
+msgid "move to"
+msgstr "taşınacak yer"
+
+msgid "name, may be nested"
+msgstr "ad, içiçe olabilir"
+
+msgid "negated"
+msgstr "ters çevir"
+
+msgid "never"
+msgstr "asla"
+
+msgid "no"
+msgstr "hayır"
+
+msgid "none"
+msgstr "boş"
+
+msgid "number"
+msgstr "sayı"
+
+msgid "number 0-7"
+msgstr "0-7 arası sayı"
+
+msgid "number or abbrev."
+msgstr "sayı veya kısaltma"
+
+msgid "number or name"
+msgstr "sayı veya ad"
+
+msgid "number%"
+msgstr "sayı%"
+
+msgid "number(ms)"
+msgstr "sayı(ms)"
+
+msgid "number, name, table or macro"
+msgstr "sayı, ad, tablo veya makro"
+
+msgid "number/number"
+msgstr "sayı/sayı"
+
+msgid "number/seconds"
+msgstr "sayı/saniye"
+
+msgid "number[(K|M|G)]"
+msgstr "sayı[(K|M|G)]"
+
+msgid "os name or macro"
+msgstr "sistem adı veya makro"
+
+msgid "persist mfs"
+msgstr "mfs kalıcı olsun"
+
+msgid "pffw currently supports only admin and user usernames"
+msgstr "pffw şimdilik sadece admin ve user kullanıcı adlarını destekler"
+
+msgid "primary"
+msgstr "birincil"
+
+msgid "protocol"
+msgstr "protokol"
+
+msgid "restart"
+msgstr "tekrar başlatmak"
+
+msgid "ruleset has errors"
+msgstr "kural listesinde hata var"
+
+msgid "running"
+msgstr "çalışıyor"
+
+msgid "secondary"
+msgstr "ikincil"
+
+msgid "secs"
+msgstr "sn"
+
+msgid "set mfs size"
+msgstr "mfs boyutunu ayarla"
+
+msgid "set serial to"
+msgstr "seri numarası"
+
+msgid "size"
+msgstr "boyut"
+
+msgid "start"
+msgstr "başlangıç"
+
+msgid "stopped"
+msgstr "durdu"
+
+msgid "string"
+msgstr "metin"
+
+msgid "string or number"
+msgstr "metin veya sayı"
+
+msgid "timespan"
+msgstr "zaman aralığı"
+
+msgid "to"
+msgstr "kaydet"
+
+msgid "total"
+msgstr "toplam"
+
+msgid "unconfigured"
+msgstr "yapılandırılmamış"
+
+msgid "uploaded"
+msgstr "yüklenen"
+
+msgid "username or userid"
+msgstr "kullanıcı adı veya kimliği"
+
+msgid "valid string"
+msgstr "geçerli bir metin"
+
+msgid "width"
+msgstr "genişlik"
+
+msgid "yes"
+msgstr "evet"

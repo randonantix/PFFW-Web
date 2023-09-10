@@ -1,0 +1,8 @@
+<map id="_testForIntermediate" name="_testForIntermediate">
+<area shape="rect" id="node1" title="Validates an intermediate cert as identified via authority info access extension." alt="" coords="5,31,164,56"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#a84e2629a56c47e5e90ab3a2a0aaf1bda" title="Fetches a URL." alt="" coords="221,5,309,31"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#afc1207c2b7e8e70f61598815ee07fcdb" title="Get a certificate, CSR or CRL Extension." alt="" coords="212,55,319,80"/>
+<area shape="rect" id="node4" href="$classFile__X509.html#a51d0ffadbcbf965b23238b89fef03484" title="Get an Extension." alt="" coords="367,55,481,80"/>
+<area shape="rect" id="node5" href="$classFile__X509.html#a8524c1f84d3dc74f7dd247fd12a122e6" title="Get a reference to an extension subarray." alt="" coords="529,55,629,80"/>
+<area shape="rect" id="node6" href="$classFile__X509.html#aa200f8fe0af46a9daef5d95bfe2ce471" title="Get a reference to a subarray." alt="" coords="677,55,764,80"/>
+</map>

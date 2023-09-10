@@ -1,0 +1,4 @@
+<map id="DelIf" name="DelIf">
+<area shape="rect" id="node1" title="Deletes a dhcpd interface to listen." alt="" coords="109,5,163,31"/>
+<area shape="rect" id="node2" href="$classDhcpd.html#a8e88b2ac10b789e5aaa32dfbc7a8cccc" title="Adds a dhcpd interface to listen." alt="" coords="5,5,61,31"/>
+</map>

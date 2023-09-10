@@ -1,0 +1,9 @@
+<map id="getFifoLogs" name="getFifoLogs">
+<area shape="rect" id="node1" title=" " alt="" coords="5,32,103,57"/>
+<area shape="rect" id="node2" href="$classModel.html#a80a9c7ffc5b622913366185669db13f8" title="Gets logs for live logs pages, the actual method." alt="" coords="151,32,257,57"/>
+<area shape="rect" id="node3" href="$classModel.html#ad8dbb64d308bdf8cbe3dfee2c84fb9bb" title="Parses the given log line." alt="" coords="305,7,412,32"/>
+<area shape="rect" id="node5" href="$classModel.html#afb379dac54166aba28a4e7e22d0fa772" title="Checks if the given file exists and not larger than $MaxFileSizeToProcess in MBs." alt="" coords="309,56,408,81"/>
+<area shape="rect" id="node4" href="$classModel.html#af4eb638f282def52a768efc7dbcbc698" title="Parses standard syslog line." alt="" coords="465,5,592,31"/>
+<area shape="rect" id="node6" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="645,81,699,107"/>
+<area shape="rect" id="node7" href="$classModel.html#ab81972f4cb26c1d07ac429589bb4d62d" title=" " alt="" coords="460,107,597,132"/>
+</map>

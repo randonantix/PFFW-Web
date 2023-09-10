@@ -1,0 +1,5 @@
+<map id="GetNewsyslogConfig" name="GetNewsyslogConfig">
+<area shape="rect" id="node1" title="Gets newsyslog configuration for log file." alt="" coords="5,31,163,56"/>
+<area shape="rect" id="node2" href="$lib_2lib_8php.html#a998c26d78939d233b87794689e841eb9" title="Escapes chars." alt="" coords="211,5,279,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="211,55,279,80"/>
+</map>

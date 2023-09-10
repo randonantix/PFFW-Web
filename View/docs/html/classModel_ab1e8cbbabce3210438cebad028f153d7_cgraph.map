@@ -1,0 +1,13 @@
+<map id="CountDiffLogLines" name="CountDiffLogLines">
+<area shape="rect" id="node1" title="Gets the number of lines added to log files since last tmp file update." alt="" coords="5,177,145,203"/>
+<area shape="rect" id="node2" href="$classModel.html#aec3d644e69b54bae382fe3aa894c0879" title=" " alt="" coords="193,79,332,104"/>
+<area shape="rect" id="node8" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="423,203,515,228"/>
+<area shape="rect" id="node9" href="$classModel.html#adf44e19a68f4a6be9289e2e39a5698f7" title="Gets the original file name for the given log file." alt="" coords="607,179,741,204"/>
+<area shape="rect" id="node10" href="$classModel.html#a2ef1e4c1d1fadd3c6696a101cd2aa7e5" title="Gets previous line count and stat() from statistics file." alt="" coords="199,152,326,177"/>
+<area shape="rect" id="node3" href="$classModel.html#a3827d539c75623fd5345ab590caaa2cb" title="Generates the module specific datetime regexp for filtering logs." alt="" coords="380,5,557,31"/>
+<area shape="rect" id="node4" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="395,104,542,129"/>
+<area shape="rect" id="node5" href="$classModel.html#afb379dac54166aba28a4e7e22d0fa772" title="Checks if the given file exists and not larger than $MaxFileSizeToProcess in MBs." alt="" coords="419,55,518,80"/>
+<area shape="rect" id="node6" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="791,55,844,80"/>
+<area shape="rect" id="node7" href="$classModel.html#ab81972f4cb26c1d07ac429589bb4d62d" title=" " alt="" coords="605,80,743,105"/>
+<area shape="rect" id="node11" href="$classModel.html#ae24c34977ae6864272b678fe40fdb09a" title="Gets name of the tmp statistics file for the given log file." alt="" coords="399,153,539,179"/>
+</map>

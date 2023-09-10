@@ -1,0 +1,4 @@
+<map id="GetStatsFileName" name="GetStatsFileName">
+<area shape="rect" id="node1" title="Gets name of the tmp statistics file for the given log file." alt="" coords="5,5,145,31"/>
+<area shape="rect" id="node2" href="$classModel.html#adf44e19a68f4a6be9289e2e39a5698f7" title="Gets the original file name for the given log file." alt="" coords="193,5,328,31"/>
+</map>

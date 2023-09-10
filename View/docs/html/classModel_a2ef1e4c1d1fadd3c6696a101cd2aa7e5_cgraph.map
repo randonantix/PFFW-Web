@@ -1,0 +1,7 @@
+<map id="GetStatsFileInfo" name="GetStatsFileInfo">
+<area shape="rect" id="node1" title="Gets previous line count and stat() from statistics file." alt="" coords="5,55,132,80"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="207,5,299,31"/>
+<area shape="rect" id="node3" href="$classModel.html#ae24c34977ae6864272b678fe40fdb09a" title="Gets name of the tmp statistics file for the given log file." alt="" coords="183,55,323,80"/>
+<area shape="rect" id="node5" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="180,104,327,129"/>
+<area shape="rect" id="node4" href="$classModel.html#adf44e19a68f4a6be9289e2e39a5698f7" title="Gets the original file name for the given log file." alt="" coords="375,55,509,80"/>
+</map>

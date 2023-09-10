@@ -1,0 +1,7 @@
+<map id="_computeKey" name="_computeKey">
+<area shape="rect" id="node1" title="Pre&#45;compute the key used by the HMAC." alt="" coords="417,31,528,56"/>
+<area shape="rect" id="node2" href="$classCrypt__Hash.html#ab6c0bf5357622f2aea1b76623ae52d76" title="Sets the hash function." alt="" coords="295,5,369,31"/>
+<area shape="rect" id="node5" href="$classCrypt__Hash.html#a0fc21647db3c64470047b5504dc64bec" title="Sets the key for HMACs." alt="" coords="299,55,365,80"/>
+<area shape="rect" id="node3" href="$classCrypt__Hash.html#a2fc6fbc7286cb1fe9a05faf9ac400b77" title="Default Constructor." alt="" coords="151,5,247,31"/>
+<area shape="rect" id="node4" href="$classCrypt__Hash.html#ab4cf32b54bc0795a8b18108e5b93bdfe" title="PHP4 compatible Default Constructor." alt="" coords="5,5,103,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GetIfConfig" name="GetIfConfig">
+<area shape="rect" id="node1" title="Reads interface configuration." alt="" coords="5,105,100,131"/>
+<area shape="rect" id="node2" href="$classSystem.html#a8f266bbe68428102e21654d0ce0ad832" title=" " alt="" coords="148,80,248,105"/>
+<area shape="rect" id="node7" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="165,129,231,155"/>
+<area shape="rect" id="node3" href="$classModel.html#a91890c866a00b75b002e6b1016e6b43c" title="Reads file contents." alt="" coords="335,5,447,31"/>
+<area shape="rect" id="node4" href="$classSystem.html#af57b0ae45bf8148b018b5a99625213fe" title=" " alt="" coords="361,55,421,80"/>
+<area shape="rect" id="node5" href="$classModel.html#ae36dbd983c2ff1ec0460a158ab8c41f1" title=" " alt="" coords="336,104,447,129"/>
+<area shape="rect" id="node6" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="296,153,487,179"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_reconnect" name="_reconnect">
+<area shape="rect" id="node1" title="In situ reconnect method." alt="" coords="104,5,197,31"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#a6dad377f74b0ce6f21b485ba11052746" title="Pings a server connection, or tries to reconnect if the connection has gone down." alt="" coords="5,5,56,31"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="toBits" name="toBits">
+<area shape="rect" id="node1" title="Converts a BigInteger to a bit string (eg." alt="" coords="5,31,65,56"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#ab3e827e63797760d741d346cac1581bf" title="Compares two numbers." alt="" coords="349,5,427,31"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a21f54d740a636aff66b16c0bbf929516" title="Converts a BigInteger to a hex string (eg." alt="" coords="113,56,175,81"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a424a23a2d4d86ec9ed41c7b532fc0dd8" title="Compares two numbers." alt="" coords="725,53,812,79"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#ad8be3a467f4c9c5a97b631564f6942a9" title="Converts a BigInteger to a byte string (eg." alt="" coords="223,56,295,81"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a7e8c056838bce5675facb24d6db190ab" title="Converts 32&#45;bit integers to bytes." alt="" coords="343,55,433,80"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#aaf020bdbcf9ae9e3a9d362011f2c0562" title="Adds two BigIntegers." alt="" coords="365,104,411,129"/>
+<area shape="rect" id="node12" href="$classMath__BigInteger.html#af2ee38d1ce36008491d935c9431afc7b" title="Copy an object." alt="" coords="361,153,415,179"/>
+<area shape="rect" id="node8" href="$classMath__BigInteger.html#ac73ee119572907c1dea2a9527959931f" title="Performs addition." alt="" coords="481,104,535,129"/>
+<area shape="rect" id="node11" href="$classMath__BigInteger.html#aa152f07e39bfa5ea214c5988cd2b214a" title="Normalize." alt="" coords="583,205,677,231"/>
+<area shape="rect" id="node9" href="$classMath__BigInteger.html#a927fb1de927c67f3cb631acab6bee2de" title="Performs subtraction." alt="" coords="589,104,671,129"/>
+<area shape="rect" id="node10" href="$classMath__BigInteger.html#a76477f8e2f8776056aa2fb0e36bf209d" title="Trim." alt="" coords="741,155,797,180"/>
+</map>

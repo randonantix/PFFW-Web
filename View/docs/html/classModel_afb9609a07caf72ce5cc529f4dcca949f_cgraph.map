@@ -1,0 +1,8 @@
+<map id="PrepareFileForDownload" name="PrepareFileForDownload">
+<area shape="rect" id="node1" title="Prepares file for download over WUI." alt="" coords="5,81,185,107"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="237,5,329,31"/>
+<area shape="rect" id="node3" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="565,107,619,132"/>
+<area shape="rect" id="node4" href="$Model_2include_8php.html#af6395f757480163a2a2645bbb2cdb8cd" title="Sets or updates $Output with the given message." alt="" coords="249,107,316,132"/>
+<area shape="rect" id="node5" href="$classModel.html#afb379dac54166aba28a4e7e22d0fa772" title="Checks if the given file exists and not larger than $MaxFileSizeToProcess in MBs." alt="" coords="233,156,332,181"/>
+<area shape="rect" id="node6" href="$classModel.html#ab81972f4cb26c1d07ac429589bb4d62d" title=" " alt="" coords="380,157,517,183"/>
+</map>

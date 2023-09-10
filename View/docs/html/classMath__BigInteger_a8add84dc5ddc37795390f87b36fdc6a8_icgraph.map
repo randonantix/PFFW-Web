@@ -1,0 +1,6 @@
+<map id="divide" name="divide">
+<area shape="rect" id="node1" title="Divides two BigIntegers." alt="" coords="257,31,320,56"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a7a8ccdcad32569732a8e0208c7af1e16" title="Checks a numer to see if it&#39;s prime." alt="" coords="135,5,205,31"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a585f1acf1b4a45c360281c6cffd0e9be" title="Performs modular exponentiation." alt="" coords="131,55,209,80"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#a488e7039c9a9dc54408413b241c0c400" title="Performs modular exponentiation." alt="" coords="5,55,83,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_getPrivatePublicKey" name="_getPrivatePublicKey">
+<area shape="rect" id="node1" title="Returns a minimalistic private key." alt="" coords="5,5,164,31"/>
+<area shape="rect" id="node2" href="$classCrypt__RSA.html#a1ac38a64a86bc6963da281cf08c78d7a" title="Convert a public key to the appropriate format." alt="" coords="212,5,353,31"/>
+<area shape="rect" id="node3" href="$classCrypt__RSA.html#ab9967d86f5c5bdf50e4bc80cf1a9c018" title="DER&#45;encode the length." alt="" coords="401,5,521,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="formatDateHourRegexp" name="formatDateHourRegexp">
+<area shape="rect" id="node1" title="Generates the module specific datetime regexp for filtering logs." alt="" coords="192,31,369,56"/>
+<area shape="rect" id="node2" href="$classPf.html#aec3d644e69b54bae382fe3aa894c0879" title=" " alt="" coords="5,5,144,31"/>
+<area shape="rect" id="node3" href="$classPf.html#a3cd1d5510b23ec577d9d124f9e05a449" title="Gets lines in log file." alt="" coords="37,55,112,80"/>
+</map>

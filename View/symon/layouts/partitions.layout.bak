@@ -1,0 +1,6 @@
+group	name="Partitions Usages";
+graph	rrdfile=/var/log/pffw/symon/rrds/localhost/df_rd0a.rrd, title="Partition rd0a (/)";
+graph	rrdfile=/var/log/pffw/symon/rrds/localhost/df_wd0a.rrd, title="Partition wd0a (/mnt)";
+graph	rrdfile=/var/log/pffw/symon/rrds/localhost/df_wd0d.rrd, title="Partition wd0d (/mnt/tmp)";
+graph	rrdfile=/var/log/pffw/symon/rrds/localhost/df_wd0e.rrd, title="Partition wd0e (/mnt/usr)";
+graph	rrdfile=/var/log/pffw/symon/rrds/localhost/df_wd0f.rrd, title="Partition wd0f (/mnt/var)";

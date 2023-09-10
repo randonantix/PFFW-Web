@@ -1,0 +1,6 @@
+<map id="removeExtension" name="removeExtension">
+<area shape="rect" id="node1" title="Remove a certificate, CSR or CRL Extension." alt="" coords="5,5,141,31"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#ac16dd74cbc682e06b2f35875d04582d1" title="Remove an Extension." alt="" coords="189,5,332,31"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#a8524c1f84d3dc74f7dd247fd12a122e6" title="Get a reference to an extension subarray." alt="" coords="380,5,480,31"/>
+<area shape="rect" id="node4" href="$classFile__X509.html#aa200f8fe0af46a9daef5d95bfe2ce471" title="Get a reference to a subarray." alt="" coords="528,5,615,31"/>
+</map>

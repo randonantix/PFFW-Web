@@ -1,0 +1,7 @@
+<map id="decodeBER" name="decodeBER">
+<area shape="rect" id="node1" title="Parse BER&#45;encoding." alt="" coords="5,55,100,80"/>
+<area shape="rect" id="node2" href="$classFile__ASN1.html#aca372fbe28962a08b98355562dc666bf" title="Parse BER&#45;encoding (Helper function)" alt="" coords="148,55,252,80"/>
+<area shape="rect" id="node3" href="$classFile__ASN1.html#ae93cbfbb826db862f63b3a54ff46df4e" title="BER&#45;decode the time (using DateTime)" alt="" coords="300,5,440,31"/>
+<area shape="rect" id="node4" href="$classFile__ASN1.html#ac3c9042cbc9b53c7d39065e8ce11ddbd" title="BER&#45;decode the OID." alt="" coords="320,55,420,80"/>
+<area shape="rect" id="node5" href="$classFile__ASN1.html#a8f552e81456e1e55cd55bb4158adb82a" title="BER&#45;decode the time (using UNIX time)" alt="" coords="301,104,439,129"/>
+</map>

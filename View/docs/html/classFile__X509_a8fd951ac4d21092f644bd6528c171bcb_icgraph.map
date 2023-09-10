@@ -1,0 +1,10 @@
+<map id="_revokedCertificate" name="_revokedCertificate">
+<area shape="rect" id="node1" title="Get the index of a revoked certificate." alt="" coords="291,161,439,187"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#aa1bb98de862919e64965b293697f3b8d" title="Get a revoked certificate." alt="" coords="75,5,173,31"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#a402e41419a2999b330874e39d0dd2a34" title="Get a Revoked Certificate Extension." alt="" coords="9,55,239,80"/>
+<area shape="rect" id="node4" href="$classFile__X509.html#a2b45d9da1caa86e25f79910036ad8eee" title="Returns a list of all extensions in use for a given revoked certificate." alt="" coords="5,104,243,129"/>
+<area shape="rect" id="node5" href="$classFile__X509.html#a436596da8ebdb29da908604cc2c0b1b5" title="Remove a Revoked Certificate Extension." alt="" coords="27,154,221,194"/>
+<area shape="rect" id="node6" href="$classFile__X509.html#a9d0898bce518129997e439126cde0c96" title="Revoke a certificate." alt="" coords="91,219,157,244"/>
+<area shape="rect" id="node7" href="$classFile__X509.html#a28ba1f404bda71c06dc86b209616f53d" title="Set a Revoked Certificate Extension." alt="" coords="9,268,239,293"/>
+<area shape="rect" id="node8" href="$classFile__X509.html#a8ca4f043b6d009999c7b86d6f8b939cc" title="Unrevoke a certificate." alt="" coords="83,317,165,343"/>
+</map>

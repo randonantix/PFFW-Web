@@ -1,0 +1,6 @@
+<map id="CollectHourStats" name="CollectHourStats">
+<area shape="rect" id="node1" title="Hour statistics collector." alt="" coords="5,31,136,56"/>
+<area shape="rect" id="node2" href="$classModel.html#a3b4ab5022e1e5883d5292c024eaaf8c1" title="Minute statistics collector." alt="" coords="184,5,329,31"/>
+<area shape="rect" id="node4" href="$classModel.html#a10ffb35c34bab2bd539a5a945a489625" title="Increments stats for the given values." alt="" coords="219,55,294,80"/>
+<area shape="rect" id="node3" href="$lib_2lib_8php.html#ad33cadb8e288ea78e94fd94045f91e09" title=" " alt="" coords="377,31,528,56"/>
+</map>

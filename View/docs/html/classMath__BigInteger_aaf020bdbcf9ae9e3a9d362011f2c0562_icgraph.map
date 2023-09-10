@@ -1,0 +1,20 @@
+<map id="add" name="add">
+<area shape="rect" id="node1" title="Adds two BigIntegers." alt="" coords="535,179,581,204"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#aceb3d4de3257fb4d6a038df47039ee07" title="Converts base&#45;2, base&#45;10, base&#45;16, and binary strings (base&#45;256) to BigIntegers." alt="" coords="391,80,487,105"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#ad8be3a467f4c9c5a97b631564f6942a9" title="Converts a BigInteger to a byte string (eg." alt="" coords="403,203,475,228"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a24305d90b2b40a9a2dc9f5628759e2ef" title="PHP4 compatible Default Constructor." alt="" coords="208,5,337,31"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#ab1b7acb81705db09cdd8cc3abc71fa9e" title="Logical And." alt="" coords="223,55,323,80"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#a9982d49144851db482b563c0f30d8090" title="Logical Left Rotate." alt="" coords="203,104,343,129"/>
+<area shape="rect" id="node9" href="$classMath__BigInteger.html#ae82a5a4f4da93fe04e31816e334ea635" title="Logical Not." alt="" coords="224,153,321,179"/>
+<area shape="rect" id="node10" href="$classMath__BigInteger.html#a93159506e69315d770c0ab23b3505a84" title="Logical Or." alt="" coords="228,203,317,228"/>
+<area shape="rect" id="node11" href="$classMath__BigInteger.html#a07f27c1ef4e6ec689752adb5feed27ad" title="Logical Exclusive&#45;Or." alt="" coords="225,252,321,277"/>
+<area shape="rect" id="node12" href="$classMath__BigInteger.html#a7a8ccdcad32569732a8e0208c7af1e16" title="Checks a numer to see if it&#39;s prime." alt="" coords="237,301,308,327"/>
+<area shape="rect" id="node13" href="$classMath__BigInteger.html#a585f1acf1b4a45c360281c6cffd0e9be" title="Performs modular exponentiation." alt="" coords="233,351,312,376"/>
+<area shape="rect" id="node15" href="$classMath__BigInteger.html#a21f54d740a636aff66b16c0bbf929516" title="Converts a BigInteger to a hex string (eg." alt="" coords="242,412,303,437"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a8ff643e3f9ae1face5beee40d816a66e" title="Modulos for Powers of Two." alt="" coords="47,55,113,80"/>
+<area shape="rect" id="node8" href="$classMath__BigInteger.html#a691e0792415f146e478302927b71db25" title="Logical Right Rotate." alt="" coords="5,104,155,129"/>
+<area shape="rect" id="node14" href="$classMath__BigInteger.html#a488e7039c9a9dc54408413b241c0c400" title="Performs modular exponentiation." alt="" coords="41,337,119,363"/>
+<area shape="rect" id="node16" href="$classMath__BigInteger.html#aca922c6f7bcc068784112a8e402a59f7" title="__debugInfo() magic method" alt="" coords="29,387,131,412"/>
+<area shape="rect" id="node17" href="$classMath__BigInteger.html#aaf11785905da71774e052912d784e3b4" title="__sleep() magic method" alt="" coords="45,436,115,461"/>
+<area shape="rect" id="node18" href="$classMath__BigInteger.html#a61513c81f48e7fe1acd92a72fb7020ef" title="Converts a BigInteger to a bit string (eg." alt="" coords="50,485,110,511"/>
+</map>

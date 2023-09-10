@@ -1,0 +1,6 @@
+<map id="GetFileFirstLine" name="GetFileFirstLine">
+<area shape="rect" id="node1" title="Gets first line of file." alt="" coords="367,31,489,56"/>
+<area shape="rect" id="node2" href="$classModel.html#aab423e07962bdc1319b01c6d7c679f0f" title=" " alt="" coords="184,31,319,56"/>
+<area shape="rect" id="node3" href="$classModel.html#aed5ee3c735f862c4d99761b379f31729" title="Gets log files list with start dates." alt="" coords="10,5,131,31"/>
+<area shape="rect" id="node4" href="$classModel.html#a40159dcd03e82eade9e96fd6b8080e89" title="Extracts the datetime of the first line in the log file." alt="" coords="5,55,136,80"/>
+</map>

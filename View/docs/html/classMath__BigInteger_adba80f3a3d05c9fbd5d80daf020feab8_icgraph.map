@@ -1,0 +1,12 @@
+<map id="_multiplyLower" name="_multiplyLower">
+<area shape="rect" id="node1" title="Performs long multiplication up to $stop digits." alt="" coords="1019,81,1141,107"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a6de4a6166aa7097b3a4fef67896e69da" title="(Regular) Barrett Modular Reduction" alt="" coords="851,81,971,107"/>
+<area shape="rect" id="node3" href="$classMath__BigInteger.html#a9424e6b47f0491afe73d929a35e14a38" title="Barrett Modular Reduction." alt="" coords="729,81,803,107"/>
+<area shape="rect" id="node4" href="$classMath__BigInteger.html#ad4d1e148d6d2811c5f1be37281ebf51e" title="Modular reduction." alt="" coords="608,81,681,107"/>
+<area shape="rect" id="node5" href="$classMath__BigInteger.html#a24566c6d32efec0c56c997bbbb332535" title="Modular multiply." alt="" coords="429,5,560,31"/>
+<area shape="rect" id="node6" href="$classMath__BigInteger.html#a3cf5d0f5670afb9a3ebecd201484ff1c" title="Sliding Window k&#45;ary Modular Exponentiation." alt="" coords="257,81,381,107"/>
+<area shape="rect" id="node9" href="$classMath__BigInteger.html#aff629f93a4232da76fd4da2b32ca0bb1" title="Modular reduction preperation." alt="" coords="431,107,558,132"/>
+<area shape="rect" id="node10" href="$classMath__BigInteger.html#a00ff0622a8f898cc1fbd77fe9554eab4" title="Modular square." alt="" coords="434,156,555,181"/>
+<area shape="rect" id="node7" href="$classMath__BigInteger.html#a585f1acf1b4a45c360281c6cffd0e9be" title="Performs modular exponentiation." alt="" coords="131,81,209,107"/>
+<area shape="rect" id="node8" href="$classMath__BigInteger.html#a488e7039c9a9dc54408413b241c0c400" title="Performs modular exponentiation." alt="" coords="5,81,83,107"/>
+</map>

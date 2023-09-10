@@ -1,0 +1,5 @@
+<map id="editHead" name="editHead">
+<area shape="rect" id="node1" title="Prints rule title, generated rule, and form header at the top of the edit page." alt="" coords="5,31,87,56"/>
+<area shape="rect" id="node2" href="$view_8php.html#a365ac814f4e5c717bd9ce48ab65b97b5" title="For classifying gettext strings into files." alt="" coords="135,5,227,31"/>
+<area shape="rect" id="node3" href="$defs_8php.html#a76b8877d5a35c08959e2609908c669b6" title="For classifying gettext strings into files." alt="" coords="149,55,213,80"/>
+</map>

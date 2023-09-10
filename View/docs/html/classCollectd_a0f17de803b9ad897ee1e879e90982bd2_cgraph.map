@@ -1,0 +1,9 @@
+<map id="Stop" name="Stop">
+<area shape="rect" id="node1" title="Kills collectd with the KILL signal, if the parent Stop() call fails." alt="" coords="5,5,56,31"/>
+<area shape="rect" id="node2" href="$Model_2include_8php.html#aacb56ea458e6602b98977b24fbbb4ebe" title="Wrapper for controller error logging via syslog." alt="" coords="525,5,617,31"/>
+<area shape="rect" id="node3" href="$classModel.html#a4a41a34d3378ee890958973fce464aa8" title="Kills the given process(es)." alt="" coords="104,56,199,81"/>
+<area shape="rect" id="node4" href="$Model_2include_8php.html#a5afab85a7aaf19395f9a0e86cae76928" title="Sets or updates $Error with the given message." alt="" coords="544,155,597,180"/>
+<area shape="rect" id="node5" href="$classModel.html#a73fbf3721e73a688382663bf84e1e428" title="Checks if the given process(es) is running." alt="" coords="277,105,407,131"/>
+<area shape="rect" id="node7" href="$classModel.html#a9b098af2c181aba08669ccbc185af5d8" title="Runs the given shell command and returns its output as string." alt="" coords="247,56,437,81"/>
+<area shape="rect" id="node6" href="$classModel.html#aead9ffea53f83ba54a7bc722dbc81841" title="Selects user processes from ps output." alt="" coords="485,105,656,131"/>
+</map>

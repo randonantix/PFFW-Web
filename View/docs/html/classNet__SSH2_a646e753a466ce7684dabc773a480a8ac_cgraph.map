@@ -1,0 +1,8 @@
+<map id="_disconnect" name="_disconnect">
+<area shape="rect" id="node1" title="Disconnect." alt="" coords="5,56,104,81"/>
+<area shape="rect" id="node2" href="$classNet__SSH2.html#ab77f420b7405c4cdf59c7339f959ec9f" title="Sends Binary Packets." alt="" coords="152,56,311,81"/>
+<area shape="rect" id="node3" href="$classNet__SSH2.html#acfeeec987ce1573ddb80312e068504a0" title="Logs data packets." alt="" coords="369,31,473,56"/>
+<area shape="rect" id="node6" href="$classNet__SSH2.html#a43186604926a3172896ce2353437d5b8" title="Have you successfully been logged in?" alt="" coords="359,80,483,105"/>
+<area shape="rect" id="node4" href="$classNet__SSH2.html#a919c6647c9fd11655b42dc81a4d62e26" title="Formats a log for printing." alt="" coords="531,5,631,31"/>
+<area shape="rect" id="node5" href="$classNet__SSH2.html#ab009fa6f4ba09daa679a30e9b5bcfe35" title="String Shift." alt="" coords="679,31,780,56"/>
+</map>

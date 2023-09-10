@@ -1,0 +1,6 @@
+<map id="unrevoke" name="unrevoke">
+<area shape="rect" id="node1" title="Unrevoke a certificate." alt="" coords="5,31,88,56"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#a8fd951ac4d21092f644bd6528c171bcb" title="Get the index of a revoked certificate." alt="" coords="136,5,284,31"/>
+<area shape="rect" id="node4" href="$classFile__X509.html#aa200f8fe0af46a9daef5d95bfe2ce471" title="Get a reference to a subarray." alt="" coords="167,55,253,80"/>
+<area shape="rect" id="node3" href="$classFile__X509.html#a8aecc48efc4e9677b47bd540fc26a089" title="Helper function to build a time field according to RFC 3280 section." alt="" coords="332,5,423,31"/>
+</map>

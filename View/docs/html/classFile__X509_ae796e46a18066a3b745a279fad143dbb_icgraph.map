@@ -1,0 +1,4 @@
+<map id="loadSPKAC" name="loadSPKAC">
+<area shape="rect" id="node1" title="Load a SPKAC CSR." alt="" coords="145,5,239,31"/>
+<area shape="rect" id="node2" href="$classFile__X509.html#a7579e46dcabbf3bff17d8e31f1b2cb25" title="Sign a SPKAC." alt="" coords="5,5,97,31"/>
+</map>

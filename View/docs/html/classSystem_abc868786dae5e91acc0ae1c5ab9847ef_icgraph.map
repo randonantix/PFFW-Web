@@ -1,0 +1,4 @@
+<map id="SetMyGate" name="SetMyGate">
+<area shape="rect" id="node1" title="Sets system static gateway." alt="" coords="255,5,349,31"/>
+<area shape="rect" id="node2" href="$classSystem.html#ab381c295914ea1ed53086961d2fcb94e" title="Converts dynamic gateway address to static address." alt="" coords="5,5,207,31"/>
+</map>

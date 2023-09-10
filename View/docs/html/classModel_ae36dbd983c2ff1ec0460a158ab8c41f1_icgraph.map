@@ -1,0 +1,7 @@
+<map id="isWifiIf" name="isWifiIf">
+<area shape="rect" id="node1" title=" " alt="" coords="403,55,469,80"/>
+<area shape="rect" id="node2" href="$classSystem.html#a8f266bbe68428102e21654d0ce0ad832" title=" " alt="" coords="201,29,355,55"/>
+<area shape="rect" id="node5" href="$classSystem.html#a6c0c91116842cbcd97f4311fea0acc8c" title="Restarts the network." alt="" coords="213,79,343,104"/>
+<area shape="rect" id="node3" href="$classSystem.html#a6baa62a81a32e122dde71ac97c46fe9a" title="Reads hostname, gateway, and interface configuration." alt="" coords="10,5,149,31"/>
+<area shape="rect" id="node4" href="$classSystem.html#a3303bbb179d383a51f6981bcf65372a8" title="Reads interface configuration." alt="" coords="5,55,153,80"/>
+</map>

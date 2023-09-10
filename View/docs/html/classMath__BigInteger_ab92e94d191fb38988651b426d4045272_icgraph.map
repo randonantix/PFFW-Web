@@ -1,0 +1,4 @@
+<map id="equals" name="equals">
+<area shape="rect" id="node1" title="Tests the equality of two numbers." alt="" coords="124,5,189,31"/>
+<area shape="rect" id="node2" href="$classMath__BigInteger.html#a7a8ccdcad32569732a8e0208c7af1e16" title="Checks a numer to see if it&#39;s prime." alt="" coords="5,5,76,31"/>
+</map>

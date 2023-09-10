@@ -1,0 +1,4 @@
+<map id="PrintHelpBox" name="PrintHelpBox">
+<area shape="rect" id="node1" title="Prints the message in a simple box, without an image." alt="" coords="5,5,112,31"/>
+<area shape="rect" id="node2" href="$libauth_8php.html#aafa5d84b0ff32cf3d31b8cdfd1c6d769" title="Wrapper for syslog()." alt="" coords="160,5,255,31"/>
+</map>

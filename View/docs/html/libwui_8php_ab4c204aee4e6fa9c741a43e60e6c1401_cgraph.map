@@ -1,0 +1,6 @@
+<map id="SetRefreshInterval" name="SetRefreshInterval">
+<area shape="rect" id="node1" title="Updates refresh interval for live pages." alt="" coords="5,56,148,81"/>
+<area shape="rect" id="node2" href="$view_8php.html#a4aa5270b4a28926a0ea160561a3ba51f" title="For classifying gettext strings into files." alt="" coords="224,5,303,31"/>
+<area shape="rect" id="node3" href="$defs_8php.html#a76b8877d5a35c08959e2609908c669b6" title="For classifying gettext strings into files." alt="" coords="379,81,443,107"/>
+<area shape="rect" id="node4" href="$libwui_8php.html#ac089920689dafbf6a510f3b87eb6a6d4" title="Prints the message in a box with a title bar and an image." alt="" coords="196,107,331,132"/>
+</map>

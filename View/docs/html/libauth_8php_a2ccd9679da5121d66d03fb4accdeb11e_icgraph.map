@@ -1,0 +1,4 @@
+<map id="LogUserOut" name="LogUserOut">
+<area shape="rect" id="node1" title="Logs user out by setting session USER var to loggedout." alt="" coords="171,5,269,31"/>
+<area shape="rect" id="node2" href="$libauth_8php.html#a39e67ed09e2f5c52b7ce7f43a106eaf4" title="Authenticates session user with the password supplied." alt="" coords="5,5,123,31"/>
+</map>
