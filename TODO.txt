@@ -1,0 +1,14 @@
+- Need mqtt broker on this machine
+- Remote machine needs a client - preferrably Mac desktop
+- odesktop machine makes a web request
+- this machine sends pflog block to mqtt
+- mac desktop client gets a notify
+	- includes rDNS lookup info
+- mac desktop client clicks button to allow
+- this sends api call to pffw web to change pf rule to allow
+- odesktop tries website again
+
+- pf.conf needs to track
+	- clients i.e., odesktop
+  - admin/client that is allowed to hit api
+  - blocked and allowed website addresses
